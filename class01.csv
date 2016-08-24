@@ -1,4 +1,4 @@
-timestamp,section,city,state,country,pet,money,weight,color
+timestamp,section,city,state,country,pet,money,weight,fav_color
 2016-08-23T12:45:27,2,Warrensburg,MS,USA,Dog person,40.00,4530.00,blue
 2016-08-23T12:46:02,2,Canton,MA,USA,Dog person,8.00,2267.00,blue
 2016-08-23T12:46:04,2,Littleton,CO,USA,Dog person,17.38,3510.75,red
