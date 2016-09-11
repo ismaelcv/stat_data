@@ -1,77 +1,77 @@
-name,brand,sugar,score
-100% Bran,Nabisco,6,68.0
-100% Natural Bran,Quaker Oats,8,34.0
-All-Bran,Kelloggs,5,59.0
-All-Bran with Extra Fiber,Kelloggs,0,84.0
-Almond Delight,Ralston,8,34.0
-Apple Cinnamon Cheerios,General Mills,10,30.0
-Apple Jacks,Kelloggs,14,33.0
-Basic 4,General Mills,8,37.0
-Bran Chex,Ralston,6,49.0
-Bran Flakes,Post,5,53.0
-Cap'n'Crunch,Quaker Oats,12,18.0
-Cheerios,General Mills,1,51.0
-Cinnamon Toast Crunch,General Mills,9,20.0
-Clusters,General Mills,7,40.0
-Cocoa Puffs,General Mills,13,23.0
-Corn Chex,Ralston,3,41.0
-Corn Flakes,Kelloggs,2,46.0
-Corn Pops,Kelloggs,12,36.0
-Count Chocula,General Mills,13,22.0
-Cracklin' Oat Bran,Kelloggs,7,40.0
-Cream of Wheat (Quick),Nabisco,0,55.0
-Crispix,Kelloggs,3,47.0
-Crispy Wheat & Raisins,General Mills,10,36.0
-Double Chex,Ralston,5,44.0
-Froot Loops,Kelloggs,13,32.0
-Frosted Flakes,Kelloggs,11,31.0
-Frosted Mini-Wheats,Kelloggs,7,58.0
-"Fruit & Fibre Dates, Walnuts, and Oats",Post,10,41.0
-Fruitful Bran,Kelloggs,12,41.0
-Fruity Pebbles,Post,12,28.0
-Golden Crisp,Post,15,35.0
-Golden Grahams,General Mills,9,24.0
-Grape Nuts Flakes,Post,5,52.0
-Grape-Nuts,Post,3,53.0
-Great Grains Pecan,Post,4,46.0
-Honey Graham Ohs,Quaker Oats,11,22.0
-Honey Nut Cheerios,General Mills,10,31.0
-Honey-comb,Post,11,29.0
-Just Right Crunchy  Nuggets,Kelloggs,6,37.0
-Just Right Fruit & Nut,Kelloggs,9,36.0
-Kix,General Mills,3,39.0
-Life,Quaker Oats,6,45.0
-Lucky Charms,General Mills,12,27.0
-Maypo,American Home Food,3,55.0
-"Muesli Raisins, Dates, & Almonds",Ralston,11,37.0
-"Muesli Raisins, Peaches, & Pecans",Ralston,11,34.0
-Mueslix Crispy Blend,Kelloggs,13,30.0
-Multi-Grain Cheerios,General Mills,6,40.0
-Nut&Honey Crunch,Kelloggs,9,30.0
-Nutri-Grain Almond-Raisin,Kelloggs,7,41.0
-Nutri-grain Wheat,Kelloggs,2,60.0
-Oatmeal Raisin Crisp,General Mills,10,30.0
-Post Nat. Raisin Bran,Post,14,38.0
-Product 19,Kelloggs,3,42.0
-Puffed Rice,Quaker Oats,0,51.0
-Puffed Wheat,Quaker Oats,0,53.0
-Quaker Oat Squares,Quaker Oats,6,50.0
-Raisin Bran,Kelloggs,12,39.0
-Raisin Nut Bran,General Mills,8,40.0
-Raisin Squares,Kelloggs,6,55.0
-Rice Chex,Ralston,2,42.0
-Rice Krispies,Kelloggs,3,41.0
-Shredded Wheat,Nabisco,0,58.0
-Shredded Wheat 'n'Bran,Nabisco,0,64.0
-Shredded Wheat spoon size,Nabisco,0,63.0
-Smacks,Kelloggs,15,31.0
-Special K,Kelloggs,3,53.0
-Strawberry Fruit Wheats,Nabisco,5,59.0
-Total Corn Flakes,General Mills,3,39.0
-Total Raisin Bran,General Mills,14,29.0
-Total Whole Grain,General Mills,3,47.0
-Triples,General Mills,3,39.0
-Trix,General Mills,12,28.0
-Wheat Chex,Ralston,3,50.0
-Wheaties,General Mills,3,52.0
-Wheaties Honey Gold,General Mills,8,36.0
+name,brand,sugar,score,shelf
+100% Bran,Nabisco,6,68.0,top
+100% Natural Bran,Quaker Oats,8,34.0,top
+All-Bran,Kelloggs,5,59.0,top
+All-Bran with Extra Fiber,Kelloggs,0,84.0,top
+Almond Delight,Ralston,8,34.0,top
+Apple Cinnamon Cheerios,General Mills,10,30.0,bottom
+Apple Jacks,Kelloggs,14,33.0,middle
+Basic 4,General Mills,8,37.0,top
+Bran Chex,Ralston,6,49.0,bottom
+Bran Flakes,Post,5,53.0,top
+Cap'n'Crunch,Quaker Oats,12,18.0,middle
+Cheerios,General Mills,1,51.0,bottom
+Cinnamon Toast Crunch,General Mills,9,20.0,middle
+Clusters,General Mills,7,40.0,top
+Cocoa Puffs,General Mills,13,23.0,middle
+Corn Chex,Ralston,3,41.0,bottom
+Corn Flakes,Kelloggs,2,46.0,bottom
+Corn Pops,Kelloggs,12,36.0,middle
+Count Chocula,General Mills,13,22.0,middle
+Cracklin' Oat Bran,Kelloggs,7,40.0,top
+Cream of Wheat (Quick),Nabisco,0,55.0,middle
+Crispix,Kelloggs,3,47.0,top
+Crispy Wheat & Raisins,General Mills,10,36.0,top
+Double Chex,Ralston,5,44.0,top
+Froot Loops,Kelloggs,13,32.0,middle
+Frosted Flakes,Kelloggs,11,31.0,bottom
+Frosted Mini-Wheats,Kelloggs,7,58.0,middle
+"Fruit & Fibre Dates, Walnuts, and Oats",Post,10,41.0,top
+Fruitful Bran,Kelloggs,12,41.0,top
+Fruity Pebbles,Post,12,28.0,middle
+Golden Crisp,Post,15,35.0,bottom
+Golden Grahams,General Mills,9,24.0,middle
+Grape Nuts Flakes,Post,5,52.0,top
+Grape-Nuts,Post,3,53.0,top
+Great Grains Pecan,Post,4,46.0,top
+Honey Graham Ohs,Quaker Oats,11,22.0,middle
+Honey Nut Cheerios,General Mills,10,31.0,bottom
+Honey-comb,Post,11,29.0,bottom
+Just Right Crunchy  Nuggets,Kelloggs,6,37.0,top
+Just Right Fruit & Nut,Kelloggs,9,36.0,top
+Kix,General Mills,3,39.0,middle
+Life,Quaker Oats,6,45.0,middle
+Lucky Charms,General Mills,12,27.0,middle
+Maypo,American Home Food,3,55.0,middle
+"Muesli Raisins, Dates, & Almonds",Ralston,11,37.0,top
+"Muesli Raisins, Peaches, & Pecans",Ralston,11,34.0,top
+Mueslix Crispy Blend,Kelloggs,13,30.0,top
+Multi-Grain Cheerios,General Mills,6,40.0,bottom
+Nut&Honey Crunch,Kelloggs,9,30.0,middle
+Nutri-Grain Almond-Raisin,Kelloggs,7,41.0,top
+Nutri-grain Wheat,Kelloggs,2,60.0,top
+Oatmeal Raisin Crisp,General Mills,10,30.0,top
+Post Nat. Raisin Bran,Post,14,38.0,top
+Product 19,Kelloggs,3,42.0,top
+Puffed Rice,Quaker Oats,0,51.0,top
+Puffed Wheat,Quaker Oats,0,53.0,top
+Quaker Oat Squares,Quaker Oats,6,50.0,top
+Raisin Bran,Kelloggs,12,39.0,middle
+Raisin Nut Bran,General Mills,8,40.0,top
+Raisin Squares,Kelloggs,6,55.0,top
+Rice Chex,Ralston,2,42.0,bottom
+Rice Krispies,Kelloggs,3,41.0,bottom
+Shredded Wheat,Nabisco,0,58.0,bottom
+Shredded Wheat 'n'Bran,Nabisco,0,64.0,bottom
+Shredded Wheat spoon size,Nabisco,0,63.0,bottom
+Smacks,Kelloggs,15,31.0,middle
+Special K,Kelloggs,3,53.0,bottom
+Strawberry Fruit Wheats,Nabisco,5,59.0,middle
+Total Corn Flakes,General Mills,3,39.0,top
+Total Raisin Bran,General Mills,14,29.0,top
+Total Whole Grain,General Mills,3,47.0,top
+Triples,General Mills,3,39.0,top
+Trix,General Mills,12,28.0,middle
+Wheat Chex,Ralston,3,50.0,bottom
+Wheaties,General Mills,3,52.0,bottom
+Wheaties Honey Gold,General Mills,8,36.0,bottom
