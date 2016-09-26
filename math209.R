@@ -16,7 +16,7 @@ check_and_load("glmnet")
 group_summarize <- function(.data, ...) {
 
   data <- group_by_(.data, .dots = lazyeval::lazy_dots(...))
-  group_vars <- sapply(attributes(z)$vars, as.character)
+  group_vars <- sapply(attributes(data)$vars, as.character)
 
   data <- select_if(data, is.numeric)
   results <- summarize_all(data, funs(mean, median, sd, sum))
