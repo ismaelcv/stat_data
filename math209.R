@@ -194,6 +194,8 @@ add_prediction <- function(data, object){
   pred <- predict(object, newdata = data)
   resid <- resid(object, newdata = data)
 
+  model_name <- deparse(substitute(object))
+
   data[,paste(model_name,"pred",sep="_")] <- pred
   data[,paste(model_name,"resid",sep="_")] <- resid
 
