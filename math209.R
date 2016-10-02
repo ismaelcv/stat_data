@@ -12,6 +12,7 @@ check_and_load("robustbase")
 check_and_load("flexclust")
 check_and_load("glmnet")
 check_and_load("tsne")
+check_and_load("GGally")
 
 # define a custom group_summary function
 group_summarize <- function(.data, ...) {
