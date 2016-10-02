@@ -176,14 +176,14 @@ plot_clusters <- function(model) {
 
 }
 
-lm_basic <- function(formula, data) {
+lm_basic <- function(formula, data, ...) {
   out <- stats::lm(formula, data)
   out$call <- match.call()
   class(out) = c("lm_basic", "lm")
   out
 }
 
-lm_robust <- function(formula, data) {
+lm_robust <- function(formula, data, ...) {
   out <- robustbase::lmrob(formula, data, method = "MM")
   out$call <- match.call()
   class(out) = c("lm_robust", "lm")
