@@ -13,6 +13,7 @@ check_and_load("flexclust")
 check_and_load("glmnet")
 check_and_load("tsne")
 check_and_load("GGally")
+check_and_load("reshape2")
 
 # define a custom group_summary function
 group_summarize <- function(.data, ...) {
@@ -492,3 +493,93 @@ function (x, digits = max(3, getOption("digits") - 3), symbolic.cor = x$symbolic
     else cat("\nNo Coefficients\n")
     invisible(x)
 }
+
+multiplot <- function(..., plotlist=NULL, file, cols=1, layout=NULL) {
+  library(grid)
+
+  # Make a list from the ... arguments and plotlist
+  plots <- c(list(...), plotlist)
+
+  numPlots = length(plots)
+
+  # If layout is NULL, then use 'cols' to determine layout
+  if (is.null(layout)) {
+    # Make the panel
+    # ncol: Number of columns of plots
+    # nrow: Number of rows needed, calculated from # of cols
+    layout <- matrix(seq(1, cols * ceiling(numPlots/cols)),
+                    ncol = cols, nrow = ceiling(numPlots/cols))
+  }
+
+ if (numPlots==1) {
+    print(plots[[1]])
+
+  } else {
+    # Set up the page
+    grid.newpage()
+    pushViewport(viewport(layout = grid.layout(nrow(layout), ncol(layout))))
+
+    # Make each plot, in the correct location
+    for (i in 1:numPlots) {
+      # Get the i,j matrix positions of the regions that contain this subplot
+      matchidx <- as.data.frame(which(layout == i, arr.ind = TRUE))
+
+      print(plots[[i]], vp = viewport(layout.pos.row = matchidx$row,
+                                      layout.pos.col = matchidx$col))
+    }
+  }
+}
+
+bi_plot <- function(data, response_char, method = "lm", ...) {
+  #response_char <- deparse(substitute(response))
+
+  vars <- names(data)
+  index <- which(vars != response_char)
+  numeric_flag <- sapply(senic[,index], is.numeric)
+  vars <- vars[index]
+
+  plots <- list()
+  for (i in 1:length(vars)) {
+    p1 <- ggplot(data, aes_string(vars[i], response_char))
+    if (numeric_flag[i]) {
+      p1 <- p1 + geom_point(...)
+      if (!is.null(method)) p1 <- p1 + geom_smooth(method = method)
+    } else {
+      p1 <- p1 + geom_boxplot(...)
+    }
+    p1 <- p1 + ylab("")
+    plots <- c(plots, list(p1))
+  }
+
+  return(marrangeGrob(plots, nrow=3, ncol=4, left = response_char))
+}
+
+uni_plot <- function(data, bins = 30, ...) {
+
+  vars <- names(data)
+  numeric_flag <- sapply(senic, is.numeric)
+
+  plots <- list()
+  for (i in 1:length(vars)) {
+    p1 <- ggplot(data, aes_string(vars[i]))
+    if (numeric_flag[i]) {
+      p1 <- p1 + geom_histogram(bins = bins, ...)
+      #p1 <- p1 + geom_density()
+      #if (!is.null(method)) p1 <- p1 + geom_smooth(method = method)
+    } else {
+      p1 <- p1 + geom_bar(...) + theme(axis.text.x = element_text(angle = 90, hjust = 1))
+    }
+    p1 <- p1 + ylab("")
+    plots <- c(plots, list(p1))
+  }
+
+  return(marrangeGrob(plots, nrow=3, ncol=4))
+}
+
+#uni_plot(senic)
+#response_plot(senic, "length_of_stay")
+
+
+
+
+
