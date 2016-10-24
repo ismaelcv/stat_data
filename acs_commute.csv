@@ -1,4 +1,4 @@
-name,lat,lon,prop_housing,median_income,avg_duration,median_age,same_house,same_county,same_state,car_alone,carpool,public_transit,walked,transit_other,word_at_home,time_0900_0959
+name,lat,lon,prop_housing,median_income,avg_duration,median_age,same_house,same_county,same_state,car_alone,carpool,public_transit,walked,transit_other,work_at_home,time_0900_0959
 "Aberdeen, SD",45.521579,-98.695954,16.162306947056475,52641.0,13.866854217589816,39.2,84.0,9.0,4.0,81.0,9.0,0.0,4.0,2.0,4.0,4.0
 "Aberdeen, WA",47.144448,-123.828467,21.549597731621294,43379.0,24.476107875934414,42.5,84.0,10.0,4.0,76.0,13.0,2.0,3.0,2.0,5.0,5.0
 "Abilene, TX",32.44969,-99.717678,19.824176817555202,44249.0,16.917487107360525,34.1,77.0,13.0,7.0,81.0,12.0,1.0,2.0,2.0,3.0,4.0
