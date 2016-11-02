@@ -10,6 +10,7 @@ check_and_load("readr")
 check_and_load("ggrepel")
 check_and_load("robustbase")
 check_and_load("ggmap")
+check_and_load("forcats")
 
 # define a custom group_summary function
 group_summarize <- function(.data, ...) {
