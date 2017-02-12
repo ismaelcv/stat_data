@@ -1,0 +1,839 @@
+age,year,borough
+19,2006,Hackney
+24,2006,Lewisham
+22,2006,Hillingdon
+18,2006,Camden
+26,2006,Camden
+44,2006,Brent
+39,2006,Croydon
+21,2006,Lambeth
+78,2006,Enfield
+27,2006,Hackney
+54,2006,Newham
+31,2006,Brent
+26,2006,Kensington & Chelsea
+17,2006,Barking & Dagenham
+25,2006,Hounslow
+70,2006,Hillingdon
+18,2006,Camden
+36,2006,Newham
+42,2006,Lambeth
+62,2006,Hounslow
+21,2006,Enfield
+68,2006,Newham
+29,2006,Croydon
+22,2006,Hackney
+39,2006,Bromley
+22,2006,Merton
+100,2006,Newham
+52,2006,Wandsworth
+61,2006,Westminster
+67,2006,Bexley
+36,2006,Hillingdon
+53,2006,Lambeth
+20,2006,Merton
+30,2006,Greenwich
+35,2006,Greenwich
+20,2006,Croydon
+21,2006,Croydon
+44,2006,Waltham Forest
+21,2006,Westminster
+31,2006,Newham
+71,2006,Camden
+22,2006,Ealing
+23,2006,Hackney
+1,2006,Havering
+29,2006,Bromley
+42,2006,Barking & Dagenham
+1,2006,Enfield
+40,2006,Southwark
+33,2006,Havering
+70,2006,Newham
+26,2006,Lewisham
+38,2006,Barnet
+1,2006,Barking & Dagenham
+72,2006,Barking & Dagenham
+3,2006,Barking & Dagenham
+18,2006,Wandsworth
+23,2006,Wandsworth
+24,2006,Wandsworth
+37,2006,Hackney
+39,2006,Lambeth
+25,2006,Islington
+13,2006,Newham
+54,2006,Lambeth
+51,2006,Kingston
+25,2006,Hounslow
+24,2006,Havering
+31,2006,Lambeth
+30,2006,Wandsworth
+55,2006,Lambeth
+64,2006,Ealing
+35,2006,Hillingdon
+29,2006,Bromley
+28,2006,Lambeth
+29,2006,Brent
+15,2006,Barnet
+23,2006,Ealing
+49,2006,Hammersmith & Fulham
+39,2006,Croydon
+34,2006,Ealing
+15,2006,Lambeth
+43,2006,Barking & Dagenham
+39,2006,Waltham Forest
+86,2006,Camden
+60,2006,Croydon
+49,2006,Camden
+51,2006,Islington
+3,2006,Haringey
+27,2006,Ealing
+81,2006,Camden
+29,2006,Southwark
+16,2006,Bexley
+24,2006,Enfield
+27,2006,Merton
+53,2006,Wandsworth
+29,2006,Brent
+29,2006,Barnet
+54,2006,Croydon
+20,2006,Waltham Forest
+69,2006,Lewisham
+46,2006,Havering
+33,2006,Richmond
+32,2006,Haringey
+24,2006,Harrow
+18,2006,Islington
+38,2006,Newham
+24,2006,Westminster
+43,2006,Hackney
+22,2006,Newham
+25,2006,Southwark
+38,2006,Lambeth
+36,2006,Hillingdon
+34,2006,Westminster
+16,2006,Newham
+44,2006,Hackney
+33,2006,Brent
+51,2006,Lambeth
+1,2006,Ealing
+46,2006,Waltham Forest
+43,2006,Newham
+30,2006,Camden
+52,2006,Greenwich
+39,2006,Islington
+32,2006,Ealing
+25,2006,Harrow
+36,2006,Newham
+22,2006,Islington
+29,2006,Lewisham
+20,2006,Islington
+22,2006,Camden
+24,2006,Hounslow
+45,2006,Wandsworth
+51,2006,Kensington & Chelsea
+40,2006,Hackney
+29,2006,Merton
+21,2006,Waltham Forest
+46,2006,Camden
+19,2006,Barking & Dagenham
+33,2006,Hounslow
+45,2006,Hillingdon
+22,2006,Brent
+22,2006,Ealing
+54,2006,Greenwich
+30,2006,Havering
+19,2006,Newham
+24,2006,Lambeth
+19,2006,Haringey
+53,2006,Newham
+19,2006,Southwark
+16,2006,Merton
+65,2006,Hillingdon
+53,2006,Camden
+45,2006,Barking & Dagenham
+19,2006,Barnet
+22,2006,Hackney
+20,2006,Hackney
+41,2006,Merton
+60,2006,Hillingdon
+19,2006,Lewisham
+55,2006,Kingston
+36,2006,Sutton
+44,2006,Lambeth
+51,2006,Southwark
+44,2006,Merton
+46,2006,Haringey
+25,2006,Bexley
+35,2006,Lambeth
+25,2006,Wandsworth
+21,2006,Hackney
+27,2006,Hammersmith & Fulham
+1,2006,Sutton
+1,2006,Havering
+83,2006,Tower Hamlets
+17,2007,Barking & Dagenham
+25,2007,Barking & Dagenham
+44,2007,Wandsworth
+18,2007,Haringey
+5,2007,Newham
+6,2007,Newham
+26,2007,Newham
+28,2007,Lambeth
+29,2007,Lambeth
+50,2007,Hackney
+57,2007,Barnet
+18,2007,Westminster
+34,2007,Ealing
+29,2007,Ealing
+3,2007,Hackney
+10,2007,Hackney
+37,2007,Hounslow
+24,2007,Haringey
+21,2007,Southwark
+16,2007,Lambeth
+47,2007,Southwark
+15,2007,Southwark
+15,2007,Lambeth
+29,2007,Westminster
+30,2007,Hackney
+38,2007,Bromley
+49,2007,Islington
+29,2007,Tower Hamlets
+30,2007,Hillingdon
+25,2007,Newham
+1,2007,Wandsworth
+20,2007,Hammersmith & Fulham
+31,2007,Hillingdon
+16,2007,Hammersmith & Fulham
+15,2007,Newham
+43,2007,Greenwich
+25,2007,Redbridge
+54,2007,Lambeth
+67,2007,Greenwich
+47,2007,Croydon
+22,2007,Wandsworth
+14,2007,Waltham Forest
+37,2007,Newham
+1,2007,Westminster
+54,2007,Bromley
+23,2007,Southwark
+15,2007,Enfield
+1,2007,Redbridge
+32,2007,Newham
+25,2007,Lambeth
+27,2007,Greenwich
+23,2007,Lewisham
+29,2007,Havering
+1,2007,Croydon
+5,2007,Croydon
+41,2007,Islington
+25,2007,Bromley
+18,2007,Croydon
+44,2007,Hillingdon
+36,2007,Ealing
+17,2007,Enfield
+1,2007,Westminster
+39,2007,Havering
+28,2007,Lambeth
+2,2007,Lambeth
+67,2007,Tower Hamlets
+25,2007,Newham
+56,2007,Ealing
+28,2007,Lambeth
+30,2007,Lambeth
+59,2007,Bromley
+59,2007,Newham
+49,2007,Barnet
+44,2007,Hackney
+28,2007,Wandsworth
+28,2007,Lambeth
+50,2007,Hammersmith & Fulham
+30,2007,Havering
+18,2007,Croydon
+38,2007,Lambeth
+38,2007,Haringey
+19,2007,Haringey
+23,2007,Ealing
+23,2007,Kingston
+16,2007,Bromley
+14,2007,Islington
+18,2007,Redbridge
+33,2007,Camden
+22,2007,Enfield
+33,2007,Hillingdon
+20,2007,Enfield
+21,2007,Barking & Dagenham
+53,2007,Enfield
+20,2007,Greenwich
+28,2007,Lambeth
+45,2007,Hammersmith & Fulham
+16,2007,Lambeth
+49,2007,Lambeth
+33,2007,Barking & Dagenham
+23,2007,Lambeth
+33,2007,Camden
+34,2007,Waltham Forest
+34,2007,Southwark
+18,2007,Lambeth
+33,2007,Redbridge
+23,2007,Lambeth
+29,2007,Brent
+28,2007,Tower Hamlets
+1,2007,Haringey
+62,2007,Camden
+54,2007,Enfield
+2,2007,Barking & Dagenham
+23,2007,Hammersmith & Fulham
+23,2007,Croydon
+45,2007,Greenwich
+78,2007,Hounslow
+17,2007,Newham
+1,2007,Hackney
+20,2007,Westminster
+43,2007,Lambeth
+34,2007,Greenwich
+22,2007,Ealing
+35,2007,Hammersmith & Fulham
+41,2007,Southwark
+49,2007,Greenwich
+32,2007,Lambeth
+20,2007,Waltham Forest
+30,2007,Hounslow
+19,2007,Southwark
+26,2007,Ealing
+51,2007,Camden
+27,2007,Lambeth
+1,2007,Waltham Forest
+26,2007,Lewisham
+21,2007,Lambeth
+47,2007,Lewisham
+17,2007,Newham
+48,2007,Brent
+28,2007,Southwark
+44,2007,Bexley
+24,2007,Southwark
+18,2007,Greenwich
+35,2007,Lambeth
+1,2007,Barnet
+60,2007,Haringey
+84,2007,Lewisham
+37,2007,Haringey
+33,2007,Havering
+17,2007,Hackney
+80,2007,Bromley
+17,2007,Newham
+55,2007,Westminster
+40,2007,Croydon
+39,2007,Newham
+57,2007,Sutton
+39,2007,Sutton
+22,2007,Bromley
+48,2007,Southwark
+21,2007,Croydon
+16,2007,Hackney
+27,2007,Redbridge
+20,2007,Southwark
+16,2007,Islington
+18,2008,Enfield
+44,2008,Lambeth
+18,2008,Bexley
+58,2008,Brent
+25,2008,Lambeth
+36,2008,Wandsworth
+18,2008,Enfield
+51,2008,Islington
+43,2008,Barnet
+19,2008,Ealing
+40,2008,Merton
+43,2008,Camden
+27,2008,Newham
+28,2008,Hillingdon
+36,2008,Wandsworth
+33,2008,Croydon
+15,2008,Greenwich
+62,2008,Merton
+17,2008,Westminster
+21,2008,Merton
+57,2008,Newham
+26,2008,Hounslow
+23,2008,Redbridge
+16,2008,Enfield
+43,2008,Brent
+66,2008,Brent
+45,2008,Hackney
+33,2008,Lambeth
+18,2008,Enfield
+41,2008,Islington
+19,2008,Lambeth
+23,2008,Westminster
+32,2008,Hackney
+45,2008,Harrow
+33,2008,Hackney
+14,2008,Westminster
+17,2008,Hackney
+68,2008,Waltham Forest
+40,2008,Southwark
+24,2008,Enfield
+66,2008,Redbridge
+37,2008,Greenwich
+70,2008,Hackney
+56,2008,Merton
+51,2008,Barking & Dagenham
+36,2008,Waltham Forest
+26,2008,Tower Hamlets
+41,2008,Bexley
+44,2008,Brent
+23,2008,Westminster
+25,2008,Brent
+43,2008,Brent
+26,2008,Haringey
+15,2008,Southwark
+42,2008,Haringey
+21,2008,Southwark
+69,2008,Barnet
+16,2008,Lewisham
+22,2008,Westminster
+19,2008,Greenwich
+62,2008,Greenwich
+34,2008,Haringey
+29,2008,Barnet
+17,2008,Camden
+18,2008,Bexley
+34,2008,Lambeth
+4,2008,Sutton
+5,2008,Sutton
+36,2008,Brent
+15,2008,Lambeth
+36,2008,Enfield
+40,2008,Brent
+1,2008,Tower Hamlets
+57,2008,Merton
+39,2008,Islington
+14,2008,Southwark
+23,2008,Islington
+24,2008,Lewisham
+16,2008,Islington
+23,2008,Lewisham
+23,2008,Lewisham
+71,2008,Havering
+34,2008,Southwark
+28,2008,Southwark
+16,2008,Croydon
+23,2008,Tower Hamlets
+21,2008,Tower Hamlets
+42,2008,Haringey
+18,2008,Enfield
+20,2008,Waltham Forest
+21,2008,Waltham Forest
+36,2008,Newham
+18,2008,Lambeth
+27,2008,Islington
+26,2008,Hackney
+32,2008,Westminster
+36,2008,Tower Hamlets
+44,2008,Lambeth
+36,2008,Hackney
+38,2008,Islington
+24,2008,Wandsworth
+47,2008,Newham
+43,2008,Lambeth
+39,2008,Southwark
+18,2008,Southwark
+60,2008,Ealing
+70,2008,Tower Hamlets
+17,2008,Croydon
+36,2008,Waltham Forest
+24,2008,Southwark
+18,2008,Waltham Forest
+38,2008,Waltham Forest
+32,2008,Westminster
+14,2008,Hackney
+49,2008,Southwark
+67,2008,Sutton
+19,2008,Croydon
+54,2008,Islington
+53,2008,Southwark
+51,2008,Bromley
+22,2008,Lambeth
+23,2008,Newham
+19,2008,Ealing
+22,2008,Bromley
+30,2008,Hounslow
+53,2008,Waltham Forest
+24,2008,Southwark
+27,2008,Hounslow
+41,2008,Ealing
+27,2008,Barnet
+20,2008,Lambeth
+39,2008,Hillingdon
+35,2008,Greenwich
+1,2008,Bexley
+34,2008,Lambeth
+20,2008,Wandsworth
+19,2008,Redbridge
+46,2008,Enfield
+28,2008,Greenwich
+24,2008,Ealing
+25,2008,Redbridge
+20,2008,Croydon
+48,2008,Brent
+47,2008,Lambeth
+35,2008,Islington
+44,2008,Croydon
+43,2008,Hillingdon
+33,2008,Lewisham
+52,2008,Wandsworth
+26,2008,Lambeth
+20,2008,Hammersmith & Fulham
+37,2008,Enfield
+39,2008,Southwark
+67,2008,Tower Hamlets
+1,2008,Bexley
+83,2009,Hackney
+61,2009,Lambeth
+61,2009,Newham
+81,2009,Harrow
+28,2009,Tower Hamlets
+36,2009,Enfield
+15,2009,Newham
+26,2009,Brent
+28,2009,Lambeth
+39,2009,Hounslow
+26,2009,Croydon
+26,2009,Hackney
+25,2009,Brent
+29,2009,Haringey
+43,2009,Merton
+46,2009,Waltham Forest
+19,2009,Harrow
+17,2009,Newham
+40,2009,Lewisham
+25,2009,Southwark
+17,2009,Tower Hamlets
+57,2009,Tower Hamlets
+64,2009,Waltham Forest
+22,2009,Hounslow
+20,2009,Haringey
+54,2009,Bromley
+35,2009,Greenwich
+33,2009,Greenwich
+27,2009,Westminster
+53,2009,Barking & Dagenham
+18,2009,Waltham Forest
+18,2009,Haringey
+16,2009,Bexley
+17,2009,Bexley
+45,2009,Ealing
+48,2009,Camden
+50,2009,Islington
+65,2009,Sutton
+45,2009,Southwark
+25,2009,Greenwich
+27,2009,Tower Hamlets
+45,2009,Barking & Dagenham
+26,2009,Newham
+84,2009,Wandsworth
+20,2009,Hackney
+16,2009,Lambeth
+20,2009,Wandsworth
+20,2009,Hillingdon
+76,2009,Wandsworth
+45,2009,Greenwich
+18,2009,Lewisham
+39,2009,Haringey
+27,2009,Croydon
+41,2009,Lewisham
+17,2009,Hackney
+63,2009,Haringey
+35,2009,Waltham Forest
+32,2009,Brent
+28,2009,Hammersmith & Fulham
+48,2009,Redbridge
+1,2009,Hackney
+30,2009,Lambeth
+46,2009,Haringey
+32,2009,Hammersmith & Fulham
+15,2009,Wandsworth
+21,2009,Wandsworth
+60,2009,Newham
+53,2009,Enfield
+38,2009,Kingston
+42,2009,Brent
+20,2009,Newham
+55,2009,Islington
+36,2009,Bromley
+79,2009,Greenwich
+1,2009,Islington
+32,2009,Westminster
+24,2009,Lewisham
+46,2009,Croydon
+19,2009,Lambeth
+28,2009,Sutton
+27,2009,Southwark
+21,2009,Hillingdon
+25,2009,Southwark
+24,2009,Lambeth
+40,2009,Havering
+29,2009,Hackney
+23,2009,Newham
+64,2009,Lewisham
+47,2009,Southwark
+24,2009,Southwark
+66,2009,Wandsworth
+30,2009,Greenwich
+24,2009,Tower Hamlets
+62,2009,Westminster
+39,2009,Haringey
+64,2009,Bexley
+37,2009,Lewisham
+61,2009,Croydon
+60,2009,Croydon
+23,2009,Haringey
+21,2009,Hackney
+60,2009,Barnet
+35,2009,Harrow
+24,2009,Croydon
+60,2009,Lambeth
+49,2009,Lambeth
+36,2009,Lewisham
+22,2009,Bexley
+36,2009,Bromley
+25,2009,Newham
+23,2009,Bromley
+30,2009,Sutton
+22,2009,Southwark
+20,2009,Brent
+29,2009,Camden
+19,2009,Harrow
+65,2009,Tower Hamlets
+28,2009,Ealing
+27,2009,Barking & Dagenham
+19,2009,Hackney
+3,2009,Southwark
+58,2009,Westminster
+27,2009,Tower Hamlets
+50,2009,Ealing
+48,2009,Brent
+62,2009,Greenwich
+23,2009,Waltham Forest
+18,2009,Tower Hamlets
+40,2009,Haringey
+38,2009,Enfield
+34,2010,Croydon
+44,2010,Barnet
+34,2010,Hillingdon
+21,2010,Newham
+31,2010,Barking & Dagenham
+34,2010,Harrow
+18,2010,Tower Hamlets
+63,2010,Lewisham
+12,2010,Barking & Dagenham
+26,2010,Croydon
+32,2010,Westminster
+17,2010,Newham
+10,2010,Tower Hamlets
+16,2010,Islington
+37,2010,Tower Hamlets
+26,2010,Waltham Forest
+51,2010,Lewisham
+30,2010,Redbridge
+62,2010,Hammersmith & Fulham
+20,2010,Tower Hamlets
+32,2010,Waltham Forest
+22,2010,Lambeth
+72,2010,Harrow
+26,2010,Hackney
+69,2010,Tower Hamlets
+26,2010,Camden
+17,2010,Hackney
+18,2010,Newham
+22,2010,Haringey
+83,2010,Enfield
+21,2010,Lambeth
+42,2010,Ealing
+31,2010,Tower Hamlets
+37,2010,Waltham Forest
+16,2010,Hackney
+70,2010,Croydon
+46,2010,Haringey
+20,2010,Islington
+16,2010,Croydon
+46,2010,Lambeth
+52,2010,Lewisham
+17,2010,Greenwich
+90,2010,Southwark
+43,2010,Sutton
+21,2010,Lewisham
+77,2010,Ealing
+49,2010,Sutton
+16,2010,Lewisham
+21,2010,Haringey
+19,2010,Islington
+88,2010,Greenwich
+84,2010,Newham
+22,2010,Westminster
+36,2010,Newham
+23,2010,Lewisham
+27,2010,Newham
+17,2010,Southwark
+28,2010,Hammersmith & Fulham
+54,2010,Brent
+21,2010,Lambeth
+49,2010,Greenwich
+35,2010,Lewisham
+58,2010,Croydon
+15,2010,Lambeth
+50,2010,Islington
+16,2010,Newham
+39,2010,Waltham Forest
+1,2010,Havering
+45,2010,Barnet
+58,2010,Newham
+54,2010,Lewisham
+47,2010,Brent
+47,2010,Hackney
+36,2010,Ealing
+43,2010,Enfield
+44,2010,Hounslow
+24,2010,Greenwich
+40,2010,Newham
+29,2010,Brent
+70,2010,Newham
+41,2010,Enfield
+46,2010,Lewisham
+55,2010,Ealing
+18,2010,Southwark
+67,2010,Ealing
+33,2010,Barnet
+31,2010,Redbridge
+23,2010,Lambeth
+50,2010,Barnet
+2,2010,Southwark
+26,2010,Newham
+34,2010,Brent
+41,2010,Barking & Dagenham
+54,2010,Hammersmith & Fulham
+35,2010,Harrow
+50,2010,Lambeth
+16,2010,Newham
+17,2010,Barnet
+27,2010,Camden
+10,2010,Harrow
+12,2010,Ealing
+67,2010,Harrow
+40,2010,Newham
+25,2010,Islington
+18,2010,Barnet
+28,2010,Islington
+43,2010,Lambeth
+38,2010,Brent
+29,2010,Barnet
+33,2010,Hounslow
+33,2010,Waltham Forest
+69,2010,Wandsworth
+22,2010,Southwark
+38,2010,Hackney
+83,2010,Sutton
+34,2010,Barnet
+24,2010,Croydon
+38,2010,Brent
+4,2010,Hackney
+40,2010,Haringey
+33,2010,Hillingdon
+15,2010,Newham
+17,2010,Southwark
+91,2010,Haringey
+27,2011,Barnet
+27,2011,Waltham Forest
+40,2011,Hackney
+67,2011,Haringey
+1,2011,Havering
+23,2011,Greenwich
+73,2011,Enfield
+18,2011,Haringey
+27,2011,Waltham Forest
+15,2011,Haringey
+17,2011,Waltham Forest
+18,2011,Southwark
+37,2011,Newham
+84,2011,Haringey
+36,2011,Lambeth
+45,2011,Lambeth
+42,2011,Lewisham
+33,2011,Bromley
+42,2011,Lewisham
+10,2011,Southwark
+23,2011,Bromley
+8,2011,Southwark
+86,2011,Lewisham
+80,2011,Redbridge
+21,2011,Greenwich
+34,2011,Lambeth
+60,2011,Lewisham
+12,2011,Camden
+82,2011,Tower Hamlets
+29,2011,Tower Hamlets
+60,2011,Greenwich
+29,2011,Hammersmith & Fulham
+35,2011,Sutton
+59,2011,Brent
+73,2011,Tower Hamlets
+63,2011,Waltham Forest
+22,2011,Tower Hamlets
+33,2011,Waltham Forest
+24,2011,Tower Hamlets
+15,2011,Enfield
+21,2011,Lambeth
+32,2011,Lambeth
+1,2011,Lambeth
+23,2011,Camden
+24,2011,Haringey
+25,2011,Enfield
+29,2011,Tower Hamlets
+21,2011,Ealing
+42,2011,Tower Hamlets
+27,2011,Hammersmith & Fulham
+79,2011,Lewisham
+15,2011,Lambeth
+35,2011,Camden
+24,2011,Ealing
+24,2011,Ealing
+43,2011,Lambeth
+23,2011,Haringey
+25,2011,Lambeth
+18,2011,Lambeth
+30,2011,Hammersmith & Fulham
+56,2011,Southwark
+42,2011,Lewisham
+60,2011,Barnet
+20,2011,Wandsworth
+36,2011,Lambeth
+81,2011,Islington
+30,2011,Enfield
+21,2011,Islington
+28,2011,Haringey
+41,2011,Croydon
+16,2011,Bexley
+23,2011,Greenwich
+41,2011,Wandsworth
+29,2011,Newham
+41,2011,Croydon
+27,2011,Barnet
+22,2011,Southwark
+38,2011,Southwark
+50,2011,Brent
+20,2011,Lambeth
+26,2011,Croydon
+20,2011,Hillingdon
+68,2011,Ealing
+17,2011,Bromley
+31,2011,Ealing
+20,2011,Hillingdon
+56,2011,Barnet
+35,2011,Croydon
+17,2011,Redbridge
+14,2011,Enfield
+20,2011,Croydon
+21,2011,Enfield
+39,2011,Islington
+44,2011,Brent
