@@ -1,0 +1,2836 @@
+id,name_full
+BS1,Boston Red Stockings
+CH1,Chicago White Stockings
+CL1,Cleveland Forest Citys
+FW1,Fort Wayne Kekiongas
+NY2,New York Mutuals
+PH1,Philadelphia Athletics
+RC1,Rockford Forest Citys
+TRO,Troy Haymakers
+WS3,Washington Olympics
+BL1,Baltimore Canaries
+BR1,Brooklyn Eckfords
+BR2,Brooklyn Atlantics
+BS1,Boston Red Stockings
+CL1,Cleveland Forest Citys
+MID,Middletown Mansfields
+NY2,New York Mutuals
+PH1,Philadelphia Athletics
+TRO,Troy Haymakers
+WS3,Washington Olympics
+WS4,Washington Nationals
+BL1,Baltimore Canaries
+BL4,Baltimore Marylands
+BR2,Brooklyn Atlantics
+BS1,Boston Red Stockings
+ELI,Elizabeth Resolutes
+NY2,New York Mutuals
+PH1,Philadelphia Athletics
+PH2,Philadelphia Whites
+WS5,Washington Blue Legs
+BL1,Baltimore Canaries
+BR2,Brooklyn Atlantics
+BS1,Boston Red Stockings
+CH2,Chicago White Stockings
+HR1,Hartford Dark Blues
+NY2,New York Mutuals
+PH1,Philadelphia Athletics
+PH2,Philadelphia Whites
+BR2,Brooklyn Atlantics
+BS1,Boston Red Stockings
+CH2,Chicago White Stockings
+HR1,Hartford Dark Blues
+KEO,Keokuk Westerns
+NH1,New Haven Elm Citys
+NY2,New York Mutuals
+PH1,Philadelphia Athletics
+PH2,Philadelphia Whites
+PH3,Philadelphia Centennials
+SL1,St. Louis Red Stockings
+SL2,St. Louis Brown Stockings
+WS6,Washington Nationals
+BSN,Boston Red Caps
+CHN,Chicago White Stockings
+CN1,Cincinnati Reds
+HAR,Hartford Dark Blues
+LS1,Louisville Grays
+NY3,New York Mutuals
+PHN,Philadelphia Athletics
+SL3,St. Louis Brown Stockings
+BSN,Boston Red Caps
+CHN,Chicago White Stockings
+CN1,Cincinnati Reds
+HAR,Hartford Dark Blues
+LS1,Louisville Grays
+SL3,St. Louis Brown Stockings
+BSN,Boston Red Caps
+CHN,Chicago White Stockings
+CN1,Cincinnati Reds
+IN1,Indianapolis Blues
+ML2,Milwaukee Grays
+PRO,Providence Grays
+BFN,Buffalo Bisons
+BSN,Boston Red Caps
+CHN,Chicago White Stockings
+CL2,Cleveland Blues
+CN1,Cincinnati Reds
+PRO,Providence Grays
+SR1,Syracuse Stars
+TRN,Troy Trojans
+BFN,Buffalo Bisons
+BSN,Boston Red Caps
+CHN,Chicago White Stockings
+CL2,Cleveland Blues
+CN1,Cincinnati Reds
+PRO,Providence Grays
+TRN,Troy Trojans
+WOR,Worcester Ruby Legs
+BFN,Buffalo Bisons
+BSN,Boston Red Caps
+CHN,Chicago White Stockings
+CL2,Cleveland Blues
+DTN,Detroit Wolverines
+PRO,Providence Grays
+TRN,Troy Trojans
+WOR,Worcester Ruby Legs
+BFN,Buffalo Bisons
+BL2,Baltimore Orioles
+BSN,Boston Red Caps
+CHN,Chicago White Stockings
+CL2,Cleveland Blues
+CN2,Cincinnati Red Stockings
+DTN,Detroit Wolverines
+LS2,Louisville Eclipse
+PH4,Philadelphia Athletics
+PRO,Providence Grays
+PT1,Pittsburg Alleghenys
+SL4,St. Louis Brown Stockings
+TRN,Troy Trojans
+WOR,Worcester Ruby Legs
+BFN,Buffalo Bisons
+BL2,Baltimore Orioles
+BSN,Boston Beaneaters
+CHN,Chicago White Stockings
+CL2,Cleveland Blues
+CL5,Columbus Buckeyes
+CN2,Cincinnati Red Stockings
+DTN,Detroit Wolverines
+LS2,Louisville Eclipse
+NY1,New York Gothams
+NY4,New York Metropolitans
+PH4,Philadelphia Athletics
+PHI,Philadelphia Quakers
+PRO,Providence Grays
+PT1,Pittsburg Alleghenys
+SL4,St. Louis Browns
+ALT,Altoona Mountain City
+BFN,Buffalo Bisons
+BL2,Baltimore Orioles
+BLU,Baltimore Monumentals
+BR3,Brooklyn Atlantics
+BSN,Boston Beaneaters
+BSU,Boston Reds
+CHN,Chicago White Stockings
+CHU,Chicago/Pittsburgh (Union League)
+CL2,Cleveland Blues
+CL5,Columbus Buckeyes
+CN2,Cincinnati Red Stockings
+CNU,Cincinnati Outlaw Reds
+DTN,Detroit Wolverines
+IN2,Indianapolis Hoosiers
+KCU,Kansas City Cowboys
+LS2,Louisville Eclipse
+MLU,Milwaukee Brewers
+NY1,New York Gothams
+NY4,New York Metropolitans
+PH4,Philadelphia Athletics
+PHI,Philadelphia Quakers
+PHU,Philadelphia Keystones
+PRO,Providence Grays
+PT1,Pittsburg Alleghenys
+RIC,Richmond Virginians
+SL4,St. Louis Browns
+SLU,St. Louis Maroons
+SPU,St. Paul White Caps
+TL1,Toledo Blue Stockings
+WIL,Wilmington Quicksteps
+WS7,Washington Nationals
+WSU,Washington Nationals
+BFN,Buffalo Bisons
+BL2,Baltimore Orioles
+BR3,Brooklyn Grays
+BSN,Boston Beaneaters
+CHN,Chicago White Stockings
+CN2,Cincinnati Red Stockings
+DTN,Detroit Wolverines
+LS2,Louisville Colonels
+NY1,New York Giants
+NY4,New York Metropolitans
+PH4,Philadelphia Athletics
+PHI,Philadelphia Quakers
+PRO,Providence Grays
+PT1,Pittsburg Alleghenys
+SL4,St. Louis Browns
+SL5,St. Louis Maroons
+BL2,Baltimore Orioles
+BR3,Brooklyn Grays
+BSN,Boston Beaneaters
+CHN,Chicago White Stockings
+CN2,Cincinnati Red Stockings
+DTN,Detroit Wolverines
+KCN,Kansas City Cowboys
+LS2,Louisville Colonels
+NY1,New York Giants
+NY4,New York Metropolitans
+PH4,Philadelphia Athletics
+PHI,Philadelphia Quakers
+PT1,Pittsburg Alleghenys
+SL4,St. Louis Browns
+SL5,St. Louis Maroons
+WS8,Washington Nationals
+BL2,Baltimore Orioles
+BR3,Brooklyn Grays
+BSN,Boston Beaneaters
+CHN,Chicago White Stockings
+CL3,Cleveland Blues
+CN2,Cincinnati Red Stockings
+DTN,Detroit Wolverines
+IN3,Indianapolis Hoosiers
+LS2,Louisville Colonels
+NY1,New York Giants
+NY4,New York Metropolitans
+PH4,Philadelphia Athletics
+PHI,Philadelphia Quakers
+PIT,Pittsburg Alleghenys
+SL4,St. Louis Browns
+WS8,Washington Nationals
+BL2,Baltimore Orioles
+BR3,Brooklyn Bridegrooms
+BSN,Boston Beaneaters
+CHN,Chicago White Stockings
+CL3,Cleveland Blues
+CN2,Cincinnati Red Stockings
+DTN,Detroit Wolverines
+IN3,Indianapolis Hoosiers
+KC2,Kansas City Cowboys
+LS2,Louisville Colonels
+NY1,New York Giants
+PH4,Philadelphia Athletics
+PHI,Philadelphia Quakers
+PIT,Pittsburg Alleghenys
+SL4,St. Louis Browns
+WS8,Washington Nationals
+BL2,Baltimore Orioles
+BR3,Brooklyn Bridegrooms
+BSN,Boston Beaneaters
+CHN,Chicago White Stockings
+CL4,Cleveland Spiders
+CL6,Columbus Solons
+CN2,Cincinnati Red Stockings
+IN3,Indianapolis Hoosiers
+KC2,Kansas City Cowboys
+LS2,Louisville Colonels
+NY1,New York Giants
+PH4,Philadelphia Athletics
+PHI,Philadelphia Quakers
+PIT,Pittsburg Alleghenys
+SL4,St. Louis Browns
+WS8,Washington Nationals
+BFP,Buffalo Bisons
+BL3,Baltimore Orioles
+BR4,Brooklyn Gladiators
+BRO,Brooklyn Bridegrooms
+BRP,Brooklyn Ward's Wonders
+BSN,Boston Beaneaters
+BSP,Boston Reds
+CHN,Chicago Colts
+CHP,Chicago Pirates
+CIN,Cincinnati Reds
+CL4,Cleveland Spiders
+CL6,Columbus Solons
+CLP,Cleveland Infants
+LS2,Louisville Colonels
+NY1,New York Giants
+NYP,New York Giants
+PH4,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PHP,Philadelphia Athletics
+PIT,Pittsburg Alleghenys
+PTP,Pittsburgh Burghers
+RC2,Rochester Broncos
+SL4,St. Louis Browns
+SR2,Syracuse Stars
+TL2,Toledo Maumees
+BL3,Baltimore Orioles
+BRO,Brooklyn Grooms
+BS2,Boston Reds
+BSN,Boston Beaneaters
+CHN,Chicago Colts
+CIN,Cincinnati Reds
+CL4,Cleveland Spiders
+CL6,Columbus Solons
+CN3,Cincinnati Kelly's Killers
+LS2,Louisville Colonels
+ML3,Milwaukee Brewers
+NY1,New York Giants
+PH4,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SL4,St. Louis Browns
+WS9,Washington Statesmen
+BLN,Baltimore Orioles
+BRO,Brooklyn Grooms
+BSN,Boston Beaneaters
+CHN,Chicago Colts
+CIN,Cincinnati Reds
+CL4,Cleveland Spiders
+LS3,Louisville Colonels
+NY1,New York Giants
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLN,St. Louis Browns
+WAS,Washington Senators
+BLN,Baltimore Orioles
+BRO,Brooklyn Grooms
+BSN,Boston Beaneaters
+CHN,Chicago Colts
+CIN,Cincinnati Reds
+CL4,Cleveland Spiders
+LS3,Louisville Colonels
+NY1,New York Giants
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLN,St. Louis Browns
+WAS,Washington Senators
+BLN,Baltimore Orioles
+BRO,Brooklyn Grooms
+BSN,Boston Beaneaters
+CHN,Chicago Colts
+CIN,Cincinnati Reds
+CL4,Cleveland Spiders
+LS3,Louisville Colonels
+NY1,New York Giants
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLN,St. Louis Browns
+WAS,Washington Senators
+BLN,Baltimore Orioles
+BRO,Brooklyn Grooms
+BSN,Boston Beaneaters
+CHN,Chicago Colts
+CIN,Cincinnati Reds
+CL4,Cleveland Spiders
+LS3,Louisville Colonels
+NY1,New York Giants
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLN,St. Louis Browns
+WAS,Washington Senators
+BLN,Baltimore Orioles
+BRO,Brooklyn Bridegrooms
+BSN,Boston Beaneaters
+CHN,Chicago Colts
+CIN,Cincinnati Reds
+CL4,Cleveland Spiders
+LS3,Louisville Colonels
+NY1,New York Giants
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLN,St. Louis Browns
+WAS,Washington Senators
+BLN,Baltimore Orioles
+BRO,Brooklyn Bridegrooms
+BSN,Boston Beaneaters
+CHN,Chicago Colts
+CIN,Cincinnati Reds
+CL4,Cleveland Spiders
+LS3,Louisville Colonels
+NY1,New York Giants
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLN,St. Louis Browns
+WAS,Washington Senators
+BLN,Baltimore Orioles
+BRO,Brooklyn Bridegrooms
+BSN,Boston Beaneaters
+CHN,Chicago Orphans
+CIN,Cincinnati Reds
+CL4,Cleveland Spiders
+LS3,Louisville Colonels
+NY1,New York Giants
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLN,St. Louis Browns
+WAS,Washington Senators
+BLN,Baltimore Orioles
+BRO,Brooklyn Superbas
+BSN,Boston Beaneaters
+CHN,Chicago Orphans
+CIN,Cincinnati Reds
+CL4,Cleveland Spiders
+LS3,Louisville Colonels
+NY1,New York Giants
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLN,St. Louis Perfectos
+WAS,Washington Senators
+BRO,Brooklyn Superbas
+BSN,Boston Beaneaters
+CHN,Chicago Orphans
+CIN,Cincinnati Reds
+NY1,New York Giants
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLN,St. Louis Cardinals
+BLA,Baltimore Orioles
+BOS,Boston Americans
+BRO,Brooklyn Superbas
+BSN,Boston Beaneaters
+CHA,Chicago White Sox
+CHN,Chicago Orphans
+CIN,Cincinnati Reds
+CLE,Cleveland Blues
+DET,Detroit Tigers
+MLA,Milwaukee Brewers
+NY1,New York Giants
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BLA,Baltimore Orioles
+BOS,Boston Americans
+BRO,Brooklyn Superbas
+BSN,Boston Beaneaters
+CHA,Chicago White Sox
+CHN,Chicago Orphans
+CIN,Cincinnati Reds
+CLE,Cleveland Bronchos
+DET,Detroit Tigers
+NY1,New York Giants
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Americans
+BRO,Brooklyn Superbas
+BSN,Boston Beaneaters
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Naps
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Highlanders
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Americans
+BRO,Brooklyn Superbas
+BSN,Boston Beaneaters
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Naps
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Highlanders
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Americans
+BRO,Brooklyn Superbas
+BSN,Boston Beaneaters
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Naps
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Highlanders
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Americans
+BRO,Brooklyn Superbas
+BSN,Boston Beaneaters
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Naps
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Highlanders
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Americans
+BRO,Brooklyn Superbas
+BSN,Boston Doves
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Naps
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Highlanders
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Superbas
+BSN,Boston Doves
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Naps
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Highlanders
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Superbas
+BSN,Boston Doves
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Naps
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Highlanders
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Superbas
+BSN,Boston Doves
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Naps
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Highlanders
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Dodgers
+BSN,Boston Rustlers
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Naps
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Highlanders
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Dodgers
+BSN,Boston Braves
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Naps
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Highlanders
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Superbas
+BSN,Boston Braves
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Naps
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Yankees
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BLF,Baltimore Terrapins
+BOS,Boston Red Sox
+BRF,Brooklyn Tip-Tops
+BRO,Brooklyn Robins
+BSN,Boston Braves
+BUF,Buffalo Buffeds
+CHA,Chicago White Sox
+CHF,Chicago Chi-Feds
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Naps
+DET,Detroit Tigers
+IND,Indianapolis Hoosiers
+KCF,Kansas City Packers
+NY1,New York Giants
+NYA,New York Yankees
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+PTF,Pittsburgh Rebels
+SLA,St. Louis Browns
+SLF,St. Louis Terriers
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BLF,Baltimore Terrapins
+BOS,Boston Red Sox
+BRF,Brooklyn Tip-Tops
+BRO,Brooklyn Robins
+BSN,Boston Braves
+BUF,Buffalo Blues
+CHA,Chicago White Sox
+CHF,Chicago Whales
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+KCF,Kansas City Packers
+NEW,Newark Pepper
+NY1,New York Giants
+NYA,New York Yankees
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+PTF,Pittsburgh Rebels
+SLA,St. Louis Browns
+SLF,St. Louis Terriers
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Robins
+BSN,Boston Braves
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Yankees
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Robins
+BSN,Boston Braves
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Yankees
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Robins
+BSN,Boston Braves
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Yankees
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Robins
+BSN,Boston Braves
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Yankees
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Robins
+BSN,Boston Braves
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Yankees
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Robins
+BSN,Boston Braves
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Yankees
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Robins
+BSN,Boston Braves
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Yankees
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Robins
+BSN,Boston Braves
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Yankees
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Robins
+BSN,Boston Braves
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Yankees
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Robins
+BSN,Boston Braves
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Yankees
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Robins
+BSN,Boston Braves
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Yankees
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Robins
+BSN,Boston Braves
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Yankees
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Robins
+BSN,Boston Braves
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Yankees
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Robins
+BSN,Boston Braves
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Yankees
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Robins
+BSN,Boston Braves
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Yankees
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Robins
+BSN,Boston Braves
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Yankees
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Dodgers
+BSN,Boston Braves
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Yankees
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Dodgers
+BSN,Boston Braves
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Yankees
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Dodgers
+BSN,Boston Braves
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Yankees
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Dodgers
+BSN,Boston Braves
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Yankees
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Dodgers
+BSN,Boston Bees
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Yankees
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Dodgers
+BSN,Boston Bees
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Yankees
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Dodgers
+BSN,Boston Bees
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Yankees
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Dodgers
+BSN,Boston Bees
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Yankees
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Dodgers
+BSN,Boston Bees
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Yankees
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Dodgers
+BSN,Boston Braves
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Yankees
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Dodgers
+BSN,Boston Braves
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Yankees
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Dodgers
+BSN,Boston Braves
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Yankees
+PHA,Philadelphia Athletics
+PHI,Philadelphia Blue Jays
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Dodgers
+BSN,Boston Braves
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Yankees
+PHA,Philadelphia Athletics
+PHI,Philadelphia Blue Jays
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Dodgers
+BSN,Boston Braves
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Yankees
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Dodgers
+BSN,Boston Braves
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Yankees
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Dodgers
+BSN,Boston Braves
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Yankees
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Dodgers
+BSN,Boston Braves
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Yankees
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Dodgers
+BSN,Boston Braves
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Yankees
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Dodgers
+BSN,Boston Braves
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Yankees
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Dodgers
+BSN,Boston Braves
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Yankees
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Dodgers
+BSN,Boston Braves
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+NY1,New York Giants
+NYA,New York Yankees
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BOS,Boston Red Sox
+BRO,Brooklyn Dodgers
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+ML1,Milwaukee Braves
+NY1,New York Giants
+NYA,New York Yankees
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLA,St. Louis Browns
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+BRO,Brooklyn Dodgers
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Redlegs
+CLE,Cleveland Indians
+DET,Detroit Tigers
+ML1,Milwaukee Braves
+NY1,New York Giants
+NYA,New York Yankees
+PHA,Philadelphia Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+BRO,Brooklyn Dodgers
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Redlegs
+CLE,Cleveland Indians
+DET,Detroit Tigers
+KC1,Kansas City Athletics
+ML1,Milwaukee Braves
+NY1,New York Giants
+NYA,New York Yankees
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+BRO,Brooklyn Dodgers
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Redlegs
+CLE,Cleveland Indians
+DET,Detroit Tigers
+KC1,Kansas City Athletics
+ML1,Milwaukee Braves
+NY1,New York Giants
+NYA,New York Yankees
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+BRO,Brooklyn Dodgers
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Redlegs
+CLE,Cleveland Indians
+DET,Detroit Tigers
+KC1,Kansas City Athletics
+ML1,Milwaukee Braves
+NY1,New York Giants
+NYA,New York Yankees
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Redlegs
+CLE,Cleveland Indians
+DET,Detroit Tigers
+KC1,Kansas City Athletics
+LAN,Los Angeles Dodgers
+ML1,Milwaukee Braves
+NYA,New York Yankees
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Redlegs
+CLE,Cleveland Indians
+DET,Detroit Tigers
+KC1,Kansas City Athletics
+LAN,Los Angeles Dodgers
+ML1,Milwaukee Braves
+NYA,New York Yankees
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+KC1,Kansas City Athletics
+LAN,Los Angeles Dodgers
+ML1,Milwaukee Braves
+NYA,New York Yankees
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+WS1,Washington Senators
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+KC1,Kansas City Athletics
+LAA,Los Angeles Angels
+LAN,Los Angeles Dodgers
+MIN,Minnesota Twins
+ML1,Milwaukee Braves
+NYA,New York Yankees
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+WS2,Washington Senators
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+HOU,Houston Colt .45's
+KC1,Kansas City Athletics
+LAA,Los Angeles Angels
+LAN,Los Angeles Dodgers
+MIN,Minnesota Twins
+ML1,Milwaukee Braves
+NYA,New York Yankees
+NYN,New York Mets
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+WS2,Washington Senators
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+HOU,Houston Colt .45's
+KC1,Kansas City Athletics
+LAA,Los Angeles Angels
+LAN,Los Angeles Dodgers
+MIN,Minnesota Twins
+ML1,Milwaukee Braves
+NYA,New York Yankees
+NYN,New York Mets
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+WS2,Washington Senators
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+HOU,Houston Colt .45's
+KC1,Kansas City Athletics
+LAA,Los Angeles Angels
+LAN,Los Angeles Dodgers
+MIN,Minnesota Twins
+ML1,Milwaukee Braves
+NYA,New York Yankees
+NYN,New York Mets
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+WS2,Washington Senators
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CAL,California Angels
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+HOU,Houston Astros
+KC1,Kansas City Athletics
+LAN,Los Angeles Dodgers
+MIN,Minnesota Twins
+ML1,Milwaukee Braves
+NYA,New York Yankees
+NYN,New York Mets
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+WS2,Washington Senators
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CAL,California Angels
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+HOU,Houston Astros
+KC1,Kansas City Athletics
+LAN,Los Angeles Dodgers
+MIN,Minnesota Twins
+NYA,New York Yankees
+NYN,New York Mets
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+WS2,Washington Senators
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CAL,California Angels
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+HOU,Houston Astros
+KC1,Kansas City Athletics
+LAN,Los Angeles Dodgers
+MIN,Minnesota Twins
+NYA,New York Yankees
+NYN,New York Mets
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+WS2,Washington Senators
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CAL,California Angels
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+HOU,Houston Astros
+LAN,Los Angeles Dodgers
+MIN,Minnesota Twins
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+WS2,Washington Senators
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CAL,California Angels
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAN,Los Angeles Dodgers
+MIN,Minnesota Twins
+MON,Montreal Expos
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SE1,Seattle Pilots
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+WS2,Washington Senators
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CAL,California Angels
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAN,Los Angeles Dodgers
+MIN,Minnesota Twins
+ML4,Milwaukee Brewers
+MON,Montreal Expos
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+WS2,Washington Senators
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CAL,California Angels
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAN,Los Angeles Dodgers
+MIN,Minnesota Twins
+ML4,Milwaukee Brewers
+MON,Montreal Expos
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+WS2,Washington Senators
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CAL,California Angels
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAN,Los Angeles Dodgers
+MIN,Minnesota Twins
+ML4,Milwaukee Brewers
+MON,Montreal Expos
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TEX,Texas Rangers
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CAL,California Angels
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAN,Los Angeles Dodgers
+MIN,Minnesota Twins
+ML4,Milwaukee Brewers
+MON,Montreal Expos
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TEX,Texas Rangers
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CAL,California Angels
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAN,Los Angeles Dodgers
+MIN,Minnesota Twins
+ML4,Milwaukee Brewers
+MON,Montreal Expos
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TEX,Texas Rangers
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CAL,California Angels
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAN,Los Angeles Dodgers
+MIN,Minnesota Twins
+ML4,Milwaukee Brewers
+MON,Montreal Expos
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TEX,Texas Rangers
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CAL,California Angels
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAN,Los Angeles Dodgers
+MIN,Minnesota Twins
+ML4,Milwaukee Brewers
+MON,Montreal Expos
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TEX,Texas Rangers
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CAL,California Angels
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAN,Los Angeles Dodgers
+MIN,Minnesota Twins
+ML4,Milwaukee Brewers
+MON,Montreal Expos
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SEA,Seattle Mariners
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TEX,Texas Rangers
+TOR,Toronto Blue Jays
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CAL,California Angels
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAN,Los Angeles Dodgers
+MIN,Minnesota Twins
+ML4,Milwaukee Brewers
+MON,Montreal Expos
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SEA,Seattle Mariners
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TEX,Texas Rangers
+TOR,Toronto Blue Jays
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CAL,California Angels
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAN,Los Angeles Dodgers
+MIN,Minnesota Twins
+ML4,Milwaukee Brewers
+MON,Montreal Expos
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SEA,Seattle Mariners
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TEX,Texas Rangers
+TOR,Toronto Blue Jays
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CAL,California Angels
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAN,Los Angeles Dodgers
+MIN,Minnesota Twins
+ML4,Milwaukee Brewers
+MON,Montreal Expos
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SEA,Seattle Mariners
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TEX,Texas Rangers
+TOR,Toronto Blue Jays
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CAL,California Angels
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAN,Los Angeles Dodgers
+MIN,Minnesota Twins
+ML4,Milwaukee Brewers
+MON,Montreal Expos
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SEA,Seattle Mariners
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TEX,Texas Rangers
+TOR,Toronto Blue Jays
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CAL,California Angels
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAN,Los Angeles Dodgers
+MIN,Minnesota Twins
+ML4,Milwaukee Brewers
+MON,Montreal Expos
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SEA,Seattle Mariners
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TEX,Texas Rangers
+TOR,Toronto Blue Jays
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CAL,California Angels
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAN,Los Angeles Dodgers
+MIN,Minnesota Twins
+ML4,Milwaukee Brewers
+MON,Montreal Expos
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SEA,Seattle Mariners
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TEX,Texas Rangers
+TOR,Toronto Blue Jays
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CAL,California Angels
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAN,Los Angeles Dodgers
+MIN,Minnesota Twins
+ML4,Milwaukee Brewers
+MON,Montreal Expos
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SEA,Seattle Mariners
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TEX,Texas Rangers
+TOR,Toronto Blue Jays
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CAL,California Angels
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAN,Los Angeles Dodgers
+MIN,Minnesota Twins
+ML4,Milwaukee Brewers
+MON,Montreal Expos
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SEA,Seattle Mariners
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TEX,Texas Rangers
+TOR,Toronto Blue Jays
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CAL,California Angels
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAN,Los Angeles Dodgers
+MIN,Minnesota Twins
+ML4,Milwaukee Brewers
+MON,Montreal Expos
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SEA,Seattle Mariners
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TEX,Texas Rangers
+TOR,Toronto Blue Jays
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CAL,California Angels
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAN,Los Angeles Dodgers
+MIN,Minnesota Twins
+ML4,Milwaukee Brewers
+MON,Montreal Expos
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SEA,Seattle Mariners
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TEX,Texas Rangers
+TOR,Toronto Blue Jays
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CAL,California Angels
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAN,Los Angeles Dodgers
+MIN,Minnesota Twins
+ML4,Milwaukee Brewers
+MON,Montreal Expos
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SEA,Seattle Mariners
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TEX,Texas Rangers
+TOR,Toronto Blue Jays
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CAL,California Angels
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAN,Los Angeles Dodgers
+MIN,Minnesota Twins
+ML4,Milwaukee Brewers
+MON,Montreal Expos
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SEA,Seattle Mariners
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TEX,Texas Rangers
+TOR,Toronto Blue Jays
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CAL,California Angels
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAN,Los Angeles Dodgers
+MIN,Minnesota Twins
+ML4,Milwaukee Brewers
+MON,Montreal Expos
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SEA,Seattle Mariners
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TEX,Texas Rangers
+TOR,Toronto Blue Jays
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CAL,California Angels
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAN,Los Angeles Dodgers
+MIN,Minnesota Twins
+ML4,Milwaukee Brewers
+MON,Montreal Expos
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SEA,Seattle Mariners
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TEX,Texas Rangers
+TOR,Toronto Blue Jays
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CAL,California Angels
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+DET,Detroit Tigers
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAN,Los Angeles Dodgers
+MIN,Minnesota Twins
+ML4,Milwaukee Brewers
+MON,Montreal Expos
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SEA,Seattle Mariners
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TEX,Texas Rangers
+TOR,Toronto Blue Jays
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CAL,California Angels
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+COL,Colorado Rockies
+DET,Detroit Tigers
+FLO,Florida Marlins
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAN,Los Angeles Dodgers
+MIN,Minnesota Twins
+ML4,Milwaukee Brewers
+MON,Montreal Expos
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SEA,Seattle Mariners
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TEX,Texas Rangers
+TOR,Toronto Blue Jays
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CAL,California Angels
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+COL,Colorado Rockies
+DET,Detroit Tigers
+FLO,Florida Marlins
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAN,Los Angeles Dodgers
+MIN,Minnesota Twins
+ML4,Milwaukee Brewers
+MON,Montreal Expos
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SEA,Seattle Mariners
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TEX,Texas Rangers
+TOR,Toronto Blue Jays
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CAL,California Angels
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+COL,Colorado Rockies
+DET,Detroit Tigers
+FLO,Florida Marlins
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAN,Los Angeles Dodgers
+MIN,Minnesota Twins
+ML4,Milwaukee Brewers
+MON,Montreal Expos
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SEA,Seattle Mariners
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TEX,Texas Rangers
+TOR,Toronto Blue Jays
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CAL,California Angels
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+COL,Colorado Rockies
+DET,Detroit Tigers
+FLO,Florida Marlins
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAN,Los Angeles Dodgers
+MIN,Minnesota Twins
+ML4,Milwaukee Brewers
+MON,Montreal Expos
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SEA,Seattle Mariners
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TEX,Texas Rangers
+TOR,Toronto Blue Jays
+ANA,Anaheim Angels
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+COL,Colorado Rockies
+DET,Detroit Tigers
+FLO,Florida Marlins
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAN,Los Angeles Dodgers
+MIN,Minnesota Twins
+ML4,Milwaukee Brewers
+MON,Montreal Expos
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SEA,Seattle Mariners
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TEX,Texas Rangers
+TOR,Toronto Blue Jays
+ANA,Anaheim Angels
+ARI,Arizona Diamondbacks
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+COL,Colorado Rockies
+DET,Detroit Tigers
+FLO,Florida Marlins
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAN,Los Angeles Dodgers
+MIL,Milwaukee Brewers
+MIN,Minnesota Twins
+MON,Montreal Expos
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SEA,Seattle Mariners
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TBA,Tampa Bay Devil Rays
+TEX,Texas Rangers
+TOR,Toronto Blue Jays
+ANA,Anaheim Angels
+ARI,Arizona Diamondbacks
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+COL,Colorado Rockies
+DET,Detroit Tigers
+FLO,Florida Marlins
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAN,Los Angeles Dodgers
+MIL,Milwaukee Brewers
+MIN,Minnesota Twins
+MON,Montreal Expos
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SEA,Seattle Mariners
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TBA,Tampa Bay Devil Rays
+TEX,Texas Rangers
+TOR,Toronto Blue Jays
+ANA,Anaheim Angels
+ARI,Arizona Diamondbacks
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+COL,Colorado Rockies
+DET,Detroit Tigers
+FLO,Florida Marlins
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAN,Los Angeles Dodgers
+MIL,Milwaukee Brewers
+MIN,Minnesota Twins
+MON,Montreal Expos
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SEA,Seattle Mariners
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TBA,Tampa Bay Devil Rays
+TEX,Texas Rangers
+TOR,Toronto Blue Jays
+ANA,Anaheim Angels
+ARI,Arizona Diamondbacks
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+COL,Colorado Rockies
+DET,Detroit Tigers
+FLO,Florida Marlins
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAN,Los Angeles Dodgers
+MIL,Milwaukee Brewers
+MIN,Minnesota Twins
+MON,Montreal Expos
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SEA,Seattle Mariners
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TBA,Tampa Bay Devil Rays
+TEX,Texas Rangers
+TOR,Toronto Blue Jays
+ANA,Anaheim Angels
+ARI,Arizona Diamondbacks
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+COL,Colorado Rockies
+DET,Detroit Tigers
+FLO,Florida Marlins
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAN,Los Angeles Dodgers
+MIL,Milwaukee Brewers
+MIN,Minnesota Twins
+MON,Montreal Expos
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SEA,Seattle Mariners
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TBA,Tampa Bay Devil Rays
+TEX,Texas Rangers
+TOR,Toronto Blue Jays
+ANA,Anaheim Angels
+ARI,Arizona Diamondbacks
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+COL,Colorado Rockies
+DET,Detroit Tigers
+FLO,Florida Marlins
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAN,Los Angeles Dodgers
+MIL,Milwaukee Brewers
+MIN,Minnesota Twins
+MON,Montreal Expos
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SEA,Seattle Mariners
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TBA,Tampa Bay Devil Rays
+TEX,Texas Rangers
+TOR,Toronto Blue Jays
+ANA,Anaheim Angels
+ARI,Arizona Diamondbacks
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+COL,Colorado Rockies
+DET,Detroit Tigers
+FLO,Florida Marlins
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAN,Los Angeles Dodgers
+MIL,Milwaukee Brewers
+MIN,Minnesota Twins
+MON,Montreal Expos
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SEA,Seattle Mariners
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TBA,Tampa Bay Devil Rays
+TEX,Texas Rangers
+TOR,Toronto Blue Jays
+ARI,Arizona Diamondbacks
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+COL,Colorado Rockies
+DET,Detroit Tigers
+FLO,Florida Marlins
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAA,Los Angeles Angels of Anaheim
+LAN,Los Angeles Dodgers
+MIL,Milwaukee Brewers
+MIN,Minnesota Twins
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SEA,Seattle Mariners
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TBA,Tampa Bay Devil Rays
+TEX,Texas Rangers
+TOR,Toronto Blue Jays
+WAS,Washington Nationals
+ARI,Arizona Diamondbacks
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+COL,Colorado Rockies
+DET,Detroit Tigers
+FLO,Florida Marlins
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAA,Los Angeles Angels of Anaheim
+LAN,Los Angeles Dodgers
+MIL,Milwaukee Brewers
+MIN,Minnesota Twins
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SEA,Seattle Mariners
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TBA,Tampa Bay Devil Rays
+TEX,Texas Rangers
+TOR,Toronto Blue Jays
+WAS,Washington Nationals
+ARI,Arizona Diamondbacks
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+COL,Colorado Rockies
+DET,Detroit Tigers
+FLO,Florida Marlins
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAA,Los Angeles Angels of Anaheim
+LAN,Los Angeles Dodgers
+MIL,Milwaukee Brewers
+MIN,Minnesota Twins
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SEA,Seattle Mariners
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TBA,Tampa Bay Devil Rays
+TEX,Texas Rangers
+TOR,Toronto Blue Jays
+WAS,Washington Nationals
+ARI,Arizona Diamondbacks
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+COL,Colorado Rockies
+DET,Detroit Tigers
+FLO,Florida Marlins
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAA,Los Angeles Angels of Anaheim
+LAN,Los Angeles Dodgers
+MIL,Milwaukee Brewers
+MIN,Minnesota Twins
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SEA,Seattle Mariners
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TBA,Tampa Bay Rays
+TEX,Texas Rangers
+TOR,Toronto Blue Jays
+WAS,Washington Nationals
+ARI,Arizona Diamondbacks
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+COL,Colorado Rockies
+DET,Detroit Tigers
+FLO,Florida Marlins
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAA,Los Angeles Angels of Anaheim
+LAN,Los Angeles Dodgers
+MIL,Milwaukee Brewers
+MIN,Minnesota Twins
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SEA,Seattle Mariners
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TBA,Tampa Bay Rays
+TEX,Texas Rangers
+TOR,Toronto Blue Jays
+WAS,Washington Nationals
+ARI,Arizona Diamondbacks
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+COL,Colorado Rockies
+DET,Detroit Tigers
+FLO,Florida Marlins
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAA,Los Angeles Angels of Anaheim
+LAN,Los Angeles Dodgers
+MIL,Milwaukee Brewers
+MIN,Minnesota Twins
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SEA,Seattle Mariners
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TBA,Tampa Bay Rays
+TEX,Texas Rangers
+TOR,Toronto Blue Jays
+WAS,Washington Nationals
+ARI,Arizona Diamondbacks
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+COL,Colorado Rockies
+DET,Detroit Tigers
+FLO,Florida Marlins
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAA,Los Angeles Angels of Anaheim
+LAN,Los Angeles Dodgers
+MIL,Milwaukee Brewers
+MIN,Minnesota Twins
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SEA,Seattle Mariners
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TBA,Tampa Bay Rays
+TEX,Texas Rangers
+TOR,Toronto Blue Jays
+WAS,Washington Nationals
+ARI,Arizona Diamondbacks
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+COL,Colorado Rockies
+DET,Detroit Tigers
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAA,Los Angeles Angels of Anaheim
+LAN,Los Angeles Dodgers
+MIA,Miami Marlins
+MIL,Milwaukee Brewers
+MIN,Minnesota Twins
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SEA,Seattle Mariners
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TBA,Tampa Bay Rays
+TEX,Texas Rangers
+TOR,Toronto Blue Jays
+WAS,Washington Nationals
+ARI,Arizona Diamondbacks
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+COL,Colorado Rockies
+DET,Detroit Tigers
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAA,Los Angeles Angels of Anaheim
+LAN,Los Angeles Dodgers
+MIA,Miami Marlins
+MIL,Milwaukee Brewers
+MIN,Minnesota Twins
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SEA,Seattle Mariners
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TBA,Tampa Bay Rays
+TEX,Texas Rangers
+TOR,Toronto Blue Jays
+WAS,Washington Nationals
+ARI,Arizona Diamondbacks
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+COL,Colorado Rockies
+DET,Detroit Tigers
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAA,Los Angeles Angels of Anaheim
+LAN,Los Angeles Dodgers
+MIA,Miami Marlins
+MIL,Milwaukee Brewers
+MIN,Minnesota Twins
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SEA,Seattle Mariners
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TBA,Tampa Bay Rays
+TEX,Texas Rangers
+TOR,Toronto Blue Jays
+WAS,Washington Nationals
+ARI,Arizona Diamondbacks
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+COL,Colorado Rockies
+DET,Detroit Tigers
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAA,Los Angeles Angels of Anaheim
+LAN,Los Angeles Dodgers
+MIA,Miami Marlins
+MIL,Milwaukee Brewers
+MIN,Minnesota Twins
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SEA,Seattle Mariners
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TBA,Tampa Bay Rays
+TEX,Texas Rangers
+TOR,Toronto Blue Jays
+WAS,Washington Nationals
+ARI,Arizona Diamondbacks
+ATL,Atlanta Braves
+BAL,Baltimore Orioles
+BOS,Boston Red Sox
+CHA,Chicago White Sox
+CHN,Chicago Cubs
+CIN,Cincinnati Reds
+CLE,Cleveland Indians
+COL,Colorado Rockies
+DET,Detroit Tigers
+HOU,Houston Astros
+KCA,Kansas City Royals
+LAA,Los Angeles Angels of Anaheim
+LAN,Los Angeles Dodgers
+MIA,Miami Marlins
+MIL,Milwaukee Brewers
+MIN,Minnesota Twins
+NYA,New York Yankees
+NYN,New York Mets
+OAK,Oakland Athletics
+PHI,Philadelphia Phillies
+PIT,Pittsburgh Pirates
+SDN,San Diego Padres
+SEA,Seattle Mariners
+SFN,San Francisco Giants
+SLN,St. Louis Cardinals
+TBA,Tampa Bay Rays
+TEX,Texas Rangers
+TOR,Toronto Blue Jays
+WAS,Washington Nationals
