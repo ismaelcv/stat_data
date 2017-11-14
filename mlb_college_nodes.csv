@@ -1003,110 +1003,85 @@ wyoming,University of Wyoming,college
 xavier,Xavier University,college
 yale,Yale University,college
 youngst,Youngstown State University,college
-NY2,New York Mutuals,mlb
-PH1,Philadelphia Athletics,mlb
-RC1,Rockford Forest Citys,mlb
+NNA,New York Mutuals,mlb
+PNA,Philadelphia Athletics,mlb
+ROK,Rockford Forest Citys,mlb
 TRO,Troy Haymakers,mlb
-BR1,Brooklyn Eckfords,mlb
-ELI,Elizabeth Resolutes,mlb
-PH2,Philadelphia Whites,mlb
-NH1,New Haven Elm Citys,mlb
-BSN,Boston Red Caps,mlb
-CHN,Chicago White Stockings,mlb
-LS1,Louisville Grays,mlb
-NY3,New York Mutuals,mlb
-SL3,St. Louis Brown Stockings,mlb
-ML2,Milwaukee Grays,mlb
+ECK,Brooklyn Eckfords,mlb
+RES,Elizabeth Resolutes,mlb
+PWS,Philadelphia Whites,mlb
+NHV,New Haven Elm Citys,mlb
+ATL,Boston Red Caps,mlb
+CHC,Chicago White Stockings,mlb
+LGR,Louisville Grays,mlb
+NYU,New York Mutuals,mlb
+SBS,St. Louis Brown Stockings,mlb
+MLG,Milwaukee Grays,mlb
 PRO,Providence Grays,mlb
-BFN,Buffalo Bisons,mlb
-CL2,Cleveland Blues,mlb
-TRN,Troy Trojans,mlb
+BUF,Buffalo Bisons,mlb
+CBL,Cleveland Blues,mlb
+TRT,Troy Trojans,mlb
 WOR,Worcester Ruby Legs,mlb
 DTN,Detroit Wolverines,mlb
-BL2,Baltimore Orioles,mlb
-CN2,Cincinnati Red Stockings,mlb
-LS2,Louisville Eclipse,mlb
-PH4,Philadelphia Athletics,mlb
-PT1,Pittsburg Alleghenys,mlb
-SL4,St. Louis Brown Stockings,mlb
-CL5,Columbus Buckeyes,mlb
-NY1,New York Gothams,mlb
-NY4,New York Metropolitans,mlb
-PHI,Philadelphia Quakers,mlb
-BR3,Brooklyn Atlantics,mlb
-BSU,Boston Reds,mlb
-KCU,Kansas City Cowboys,mlb
-TL1,Toledo Blue Stockings,mlb
-WIL,Wilmington Quicksteps,mlb
-WS7,Washington Nationals,mlb
-WSU,Washington Nationals,mlb
-SL5,St. Louis Maroons,mlb
-KCN,Kansas City Cowboys,mlb
-IN3,Indianapolis Hoosiers,mlb
+BLO,Baltimore Orioles,mlb
+CIN,Cincinnati Red Stockings,mlb
+LOU,Louisville Eclipse,mlb
+PHA,Philadelphia Athletics,mlb
 PIT,Pittsburg Alleghenys,mlb
-CL4,Cleveland Spiders,mlb
-CL6,Columbus Solons,mlb
-BL3,Baltimore Orioles,mlb
-BR4,Brooklyn Gladiators,mlb
-BRO,Brooklyn Bridegrooms,mlb
-BRP,Brooklyn Ward's Wonders,mlb
+STL,St. Louis Brown Stockings,mlb
+CBK,Columbus Buckeyes,mlb
+SFG,New York Gothams,mlb
+NYP,New York Metropolitans,mlb
+PHI,Philadelphia Quakers,mlb
+LAD,Brooklyn Atlantics,mlb
+BRD,Boston Reds,mlb
+KCU,Kansas City Cowboys,mlb
+SLM,St. Louis Maroons,mlb
+TOL,Toledo Blue Stockings,mlb
+WIL,Wilmington Quicksteps,mlb
+WST,Washington Nationals,mlb
+WNA,Washington Nationals,mlb
+KCN,Kansas City Cowboys,mlb
+CLV,Cleveland Blues,mlb
+IND,Indianapolis Hoosiers,mlb
+CLS,Columbus Solons,mlb
+BRG,Brooklyn Gladiators,mlb
+BWW,Brooklyn Ward's Wonders,mlb
+BRS,Boston Reds,mlb
 CHP,Chicago Pirates,mlb
-CIN,Cincinnati Reds,mlb
-CLP,Cleveland Infants,mlb
-PHP,Philadelphia Athletics,mlb
-SR2,Syracuse Stars,mlb
-BS2,Boston Reds,mlb
-CN3,Cincinnati Kelly's Killers,mlb
-ML3,Milwaukee Brewers,mlb
-WS9,Washington Statesmen,mlb
-BLN,Baltimore Orioles,mlb
-LS3,Louisville Colonels,mlb
-SLN,St. Louis Browns,mlb
-WAS,Washington Senators,mlb
-BLA,Baltimore Orioles,mlb
+CLI,Cleveland Infants,mlb
+PHQ,Philadelphia Athletics,mlb
+SYS,Syracuse Stars,mlb
+CKK,Cincinnati Kelly's Killers,mlb
+MLA,Milwaukee Brewers,mlb
+WAS,Washington Statesmen,mlb
+NYY,Baltimore Orioles,mlb
 BOS,Boston Americans,mlb
-CHA,Chicago White Sox,mlb
+CHW,Chicago White Sox,mlb
 CLE,Cleveland Blues,mlb
 DET,Detroit Tigers,mlb
-MLA,Milwaukee Brewers,mlb
-PHA,Philadelphia Athletics,mlb
-WS1,Washington Senators,mlb
-SLA,St. Louis Browns,mlb
-NYA,New York Highlanders,mlb
-BLF,Baltimore Terrapins,mlb
-BRF,Brooklyn Tip-Tops,mlb
-BUF,Buffalo Buffeds,mlb
-CHF,Chicago Chi-Feds,mlb
-IND,Indianapolis Hoosiers,mlb
-KCF,Kansas City Packers,mlb
-PTF,Pittsburgh Rebels,mlb
-SLF,St. Louis Terriers,mlb
-NEW,Newark Pepper,mlb
-ML1,Milwaukee Braves,mlb
-BAL,Baltimore Orioles,mlb
-KC1,Kansas City Athletics,mlb
-LAN,Los Angeles Dodgers,mlb
-SFN,San Francisco Giants,mlb
-LAA,Los Angeles Angels,mlb
-MIN,Minnesota Twins,mlb
-WS2,Washington Senators,mlb
+BAL,Milwaukee Brewers,mlb
+OAK,Philadelphia Athletics,mlb
+MIN,Washington Senators,mlb
+BLT,Baltimore Terrapins,mlb
+BTT,Brooklyn Tip-Tops,mlb
+BFL,Buffalo Buffeds,mlb
+CHH,Chicago Chi-Feds,mlb
+NEW,Indianapolis Hoosiers,mlb
+KCP,Kansas City Packers,mlb
+PBS,Pittsburgh Rebels,mlb
+SLI,St. Louis Terriers,mlb
+ANA,Los Angeles Angels,mlb
+TEX,Washington Senators,mlb
 HOU,Houston Colt .45's,mlb
-NYN,New York Mets,mlb
-CAL,California Angels,mlb
-ATL,Atlanta Braves,mlb
-OAK,Oakland Athletics,mlb
-KCA,Kansas City Royals,mlb
-MON,Montreal Expos,mlb
-SDN,San Diego Padres,mlb
-SE1,Seattle Pilots,mlb
-ML4,Milwaukee Brewers,mlb
-TEX,Texas Rangers,mlb
+NYM,New York Mets,mlb
+KCR,Kansas City Royals,mlb
+WSN,Montreal Expos,mlb
+SDP,San Diego Padres,mlb
+MIL,Seattle Pilots,mlb
 SEA,Seattle Mariners,mlb
 TOR,Toronto Blue Jays,mlb
 COL,Colorado Rockies,mlb
-FLO,Florida Marlins,mlb
-ANA,Anaheim Angels,mlb
+FLA,Florida Marlins,mlb
 ARI,Arizona Diamondbacks,mlb
-MIL,Milwaukee Brewers,mlb
-TBA,Tampa Bay Devil Rays,mlb
-MIA,Miami Marlins,mlb
+TBD,Tampa Bay Devil Rays,mlb
