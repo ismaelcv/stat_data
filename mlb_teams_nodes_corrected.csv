@@ -1,0 +1,2827 @@
+id,franchID,franchName,wins,losses,R,AB,salary_mean,salary_sum
+1872,BLC,Baltimore Canaries,35,19,617,2576,NA,NA
+1872,BNA,Boston Red Stockings,39,8,521,2137,NA,NA
+1872,BRA,Brooklyn Atlantics,9,28,237,1466,NA,NA
+1872,CFC,Cleveland Forest Citys,6,16,174,935,NA,NA
+1872,ECK,Brooklyn Eckfords,3,26,152,1075,NA,NA
+1872,MAN,Middletown Mansfields,5,19,220,1014,NA,NA
+1872,NAT,Washington Nationals,0,11,80,460,NA,NA
+1872,NNA,New York Mutuals,34,20,523,2423,NA,NA
+1872,OLY,Washington Olympics,2,7,54,363,NA,NA
+1872,PNA,Philadelphia Athletics,30,14,539,2140,NA,NA
+1872,TRO,Troy Haymakers,15,10,273,1124,NA,NA
+1873,BLC,Baltimore Canaries,34,22,644,2563,NA,NA
+1873,BNA,Boston Red Stockings,43,16,739,2755,NA,NA
+1873,BRA,Brooklyn Atlantics,17,37,366,2210,NA,NA
+1873,MAR,Baltimore Marylands,0,6,26,211,NA,NA
+1873,NNA,New York Mutuals,29,24,424,2214,NA,NA
+1873,PNA,Philadelphia Athletics,28,23,474,2266,NA,NA
+1873,PWS,Philadelphia White Stockings,36,17,526,2325,NA,NA
+1873,RES,Elizabeth Resolutes,2,21,98,868,NA,NA
+1873,WBL,Washington Blue Legs,8,31,283,1563,NA,NA
+1874,BLC,Baltimore Canaries,9,38,227,1781,NA,NA
+1874,BNA,Boston Red Stockings,52,18,735,3122,NA,NA
+1874,BRA,Brooklyn Atlantics,22,33,301,2165,NA,NA
+1874,CNA,Chicago White Stockings,28,31,418,2457,NA,NA
+1874,HNA,Hartford Dark Blues,16,37,371,2140,NA,NA
+1874,NNA,New York Mutuals,42,23,500,2719,NA,NA
+1874,PNA,Philadelphia Athletics,33,22,441,2260,NA,NA
+1874,PWS,Philadelphia White Stockings,29,29,476,2432,NA,NA
+1875,BNA,Boston Red Stockings,71,8,831,3516,NA,NA
+1875,BRA,Brooklyn Atlantics,2,42,132,1547,NA,NA
+1875,CEN,Philadelphia Centennials,2,12,70,529,NA,NA
+1875,CNA,Chicago White Stockings,30,37,379,2658,NA,NA
+1875,HNA,Hartford Dark Blues,54,28,557,3342,NA,NA
+1875,NHV,New Haven Elm Citys,7,40,170,1708,NA,NA
+1875,NNA,New York Mutuals,30,38,328,2683,NA,NA
+1875,PNA,Philadelphia Athletics,53,20,699,3245,NA,NA
+1875,PWS,Philadelphia White Stockings,37,31,470,2717,NA,NA
+1875,SLR,St. Louis Red Stockings,4,15,60,688,NA,NA
+1875,SNA,St. Louis Brown Stockings,39,29,386,2679,NA,NA
+1875,WES,Keokuk Westerns,1,12,45,449,NA,NA
+1875,WNT,Washington Nationals,5,23,107,997,NA,NA
+1876,ATH,Philadelphia Athletics,14,45,378,2387,NA,NA
+1876,ATL,Atlanta Braves,39,31,471,2722,NA,NA
+1876,CHC,Chicago Cubs,52,14,624,2748,NA,NA
+1876,CNR,Cincinnati Reds,9,56,238,2372,NA,NA
+1876,HAR,Hartford Dark Blues,47,21,429,2664,NA,NA
+1876,LGR,Louisville Grays,30,36,280,2570,NA,NA
+1876,NYU,New York Mutuals,21,35,260,2180,NA,NA
+1876,SBS,St. Louis Brown Stockings,45,19,386,2478,NA,NA
+1877,ATL,Atlanta Braves,42,18,419,2368,NA,NA
+1877,CHC,Chicago Cubs,26,33,366,2273,NA,NA
+1877,CNR,Cincinnati Reds,15,42,291,2135,NA,NA
+1877,HAR,Hartford Dark Blues,31,27,341,2358,NA,NA
+1877,LGR,Louisville Grays,35,25,339,2355,NA,NA
+1877,SBS,St. Louis Brown Stockings,28,32,284,2178,NA,NA
+1878,ATL,Atlanta Braves,41,19,298,2220,NA,NA
+1878,CHC,Chicago Cubs,30,30,371,2333,NA,NA
+1878,CNR,Cincinnati Reds,37,23,333,2281,NA,NA
+1878,IBL,Indianapolis Blues,24,36,293,2300,NA,NA
+1878,MLG,Milwaukee Grays,15,45,256,2212,NA,NA
+1878,PRO,Providence Grays,33,27,353,2298,NA,NA
+1879,ATL,Atlanta Braves,54,30,562,3217,NA,NA
+1879,BUF,Buffalo Bisons,46,32,394,2906,NA,NA
+1879,CBL,Cleveland Blues,27,55,322,2987,NA,NA
+1879,CHC,Chicago Cubs,46,33,437,3116,NA,NA
+1879,CNR,Cincinnati Reds,43,37,485,3085,NA,NA
+1879,PRO,Providence Grays,59,25,612,3392,NA,NA
+1879,SYR,Syracuse Stars,22,48,276,2611,NA,NA
+1879,TRT,Troy Trojans,19,56,321,2841,NA,NA
+1880,ATL,Atlanta Braves,40,44,416,3080,NA,NA
+1880,BUF,Buffalo Bisons,24,58,331,2962,NA,NA
+1880,CBL,Cleveland Blues,47,37,387,3002,NA,NA
+1880,CHC,Chicago Cubs,67,17,538,3135,NA,NA
+1880,CNR,Cincinnati Reds,21,59,296,2895,NA,NA
+1880,PRO,Providence Grays,52,32,419,3196,NA,NA
+1880,TRT,Troy Trojans,41,42,392,3007,NA,NA
+1880,WOR,Worcester Ruby Legs,40,43,412,3024,NA,NA
+1881,ATL,Atlanta Braves,38,45,349,2916,NA,NA
+1881,BUF,Buffalo Bisons,45,38,440,3019,NA,NA
+1881,CBL,Cleveland Blues,36,48,392,3117,NA,NA
+1881,CHC,Chicago Cubs,56,28,550,3114,NA,NA
+1881,DTN,Detroit Wolverines,41,43,439,2995,NA,NA
+1881,PRO,Providence Grays,47,37,447,3077,NA,NA
+1881,TRT,Troy Trojans,39,45,399,3046,NA,NA
+1881,WOR,Worcester Ruby Legs,32,50,410,3093,NA,NA
+1882,ATL,Atlanta Braves,45,39,472,3118,NA,NA
+1882,BLO,Baltimore Orioles,19,54,273,2583,NA,NA
+1882,BUF,Buffalo Bisons,45,39,500,3128,NA,NA
+1882,CBL,Cleveland Blues,42,40,402,3009,NA,NA
+1882,CHC,Chicago Cubs,55,29,604,3225,NA,NA
+1882,CIN,Cincinnati Reds,55,25,489,3007,NA,NA
+1882,DTN,Detroit Wolverines,42,41,407,3144,NA,NA
+1882,LOU,Louisville Colonels,42,38,443,2806,NA,NA
+1882,PHA,Philadelphia Athletics,41,34,406,2707,NA,NA
+1882,PIT,Pittsburgh Pirates,39,39,428,2904,NA,NA
+1882,PRO,Providence Grays,52,32,463,3104,NA,NA
+1882,STL,St. Louis Cardinals,37,43,399,2865,NA,NA
+1882,TRT,Troy Trojans,35,48,430,3057,NA,NA
+1882,WOR,Worcester Ruby Legs,18,66,379,2984,NA,NA
+1883,ATL,Atlanta Braves,63,35,669,3657,NA,NA
+1883,BLO,Baltimore Orioles,28,68,471,3534,NA,NA
+1883,BUF,Buffalo Bisons,52,45,614,3729,NA,NA
+1883,CBK,Columbus Buckeyes,32,65,476,3553,NA,NA
+1883,CBL,Cleveland Blues,55,42,476,3457,NA,NA
+1883,CHC,Chicago Cubs,59,39,679,3658,NA,NA
+1883,CIN,Cincinnati Reds,61,37,662,3669,NA,NA
+1883,DTN,Detroit Wolverines,40,58,524,3726,NA,NA
+1883,LOU,Louisville Colonels,52,45,564,3553,NA,NA
+1883,NYP,New York Metropolitans,54,42,498,3534,NA,NA
+1883,PHA,Philadelphia Athletics,66,32,720,3714,NA,NA
+1883,PHI,Philadelphia Phillies,17,81,437,3576,NA,NA
+1883,PIT,Pittsburgh Pirates,31,67,525,3609,NA,NA
+1883,PRO,Providence Grays,58,40,636,3685,NA,NA
+1883,SFG,San Francisco Giants,46,50,530,3524,NA,NA
+1883,STL,St. Louis Cardinals,65,33,549,3495,NA,NA
+1884,ALT,Altoona Mountain City,6,19,90,899,NA,NA
+1884,ATL,Atlanta Braves,73,38,684,4189,NA,NA
+1884,BLO,Baltimore Orioles,63,43,636,3845,NA,NA
+1884,BLU,Baltimore Monumentals,58,47,662,3883,NA,NA
+1884,BRD,Boston Reds,58,51,636,3940,NA,NA
+1884,BUF,Buffalo Bisons,64,47,700,4197,NA,NA
+1884,CBK,Columbus Buckeyes,69,39,585,3759,NA,NA
+1884,CBL,Cleveland Blues,35,77,458,3934,NA,NA
+1884,CHC,Chicago Cubs,62,50,834,4182,NA,NA
+1884,CIN,Cincinnati Reds,68,41,754,4090,NA,NA
+1884,COR,Cincinnati Outlaw Reds,69,36,703,3786,NA,NA
+1884,CPI,Chicago/Pittsburgh (Union League),41,50,438,3212,NA,NA
+1884,DTN,Detroit Wolverines,28,84,445,3970,NA,NA
+1884,IHO,Indianapolis Hoosiers,29,78,462,3813,NA,NA
+1884,KCU,Kansas City Cowboys,16,63,311,2802,NA,NA
+1884,LAD,Los Angeles Dodgers,40,64,476,3763,NA,NA
+1884,LOU,Louisville Colonels,68,40,573,3957,NA,NA
+1884,MLU,Milwaukee Brewers,8,4,53,395,NA,NA
+1884,NYP,New York Metropolitans,75,32,734,4012,NA,NA
+1884,PHA,Philadelphia Athletics,61,46,700,3959,NA,NA
+1884,PHI,Philadelphia Phillies,39,73,549,3998,NA,NA
+1884,PHK,Philadelphia Keystones,21,46,414,2518,NA,NA
+1884,PIT,Pittsburgh Pirates,30,78,406,3689,NA,NA
+1884,PRO,Providence Grays,84,28,665,4093,NA,NA
+1884,RIC,Richmond Virginians,12,30,194,1469,NA,NA
+1884,SFG,San Francisco Giants,62,50,693,4124,NA,NA
+1884,SLM,St. Louis Maroons,94,19,887,4285,NA,NA
+1884,STL,St. Louis Cardinals,67,40,658,3952,NA,NA
+1884,STP,St. Paul Apostles,2,6,24,272,NA,NA
+1884,TOL,Toledo Blue Stockings,46,58,463,3712,NA,NA
+1884,WIL,Wilmington Quicksteps,2,16,35,521,NA,NA
+1884,WNA,Washington Nationals,47,65,572,3926,NA,NA
+1884,WST,Washington Statesmen,12,51,248,2166,NA,NA
+1885,ATL,Atlanta Braves,46,66,528,3950,NA,NA
+1885,BLO,Baltimore Orioles,41,68,541,3820,NA,NA
+1885,BUF,Buffalo Bisons,38,74,495,3900,NA,NA
+1885,CHC,Chicago Cubs,87,25,834,4093,NA,NA
+1885,CIN,Cincinnati Reds,63,49,642,4050,NA,NA
+1885,DTN,Detroit Wolverines,41,67,514,3773,NA,NA
+1885,LAD,Los Angeles Dodgers,53,59,624,3943,NA,NA
+1885,LOU,Louisville Colonels,53,59,564,3969,NA,NA
+1885,NYP,New York Metropolitans,44,64,526,3731,NA,NA
+1885,PHA,Philadelphia Athletics,55,57,764,4142,NA,NA
+1885,PHI,Philadelphia Phillies,56,54,513,3893,NA,NA
+1885,PIT,Pittsburgh Pirates,56,55,547,3975,NA,NA
+1885,PRO,Providence Grays,53,57,442,3727,NA,NA
+1885,SFG,San Francisco Giants,85,27,691,4029,NA,NA
+1885,SLM,St. Louis Maroons,36,72,390,3758,NA,NA
+1885,STL,St. Louis Cardinals,79,33,677,3972,NA,NA
+1886,ATL,Atlanta Braves,56,61,657,4180,NA,NA
+1886,BLO,Baltimore Orioles,48,83,625,4639,NA,NA
+1886,CHC,Chicago Cubs,90,34,900,4378,NA,NA
+1886,CIN,Cincinnati Reds,65,73,883,4915,NA,NA
+1886,DTN,Detroit Wolverines,87,36,829,4501,NA,NA
+1886,KCN,Kansas City Cowboys,30,91,494,4236,NA,NA
+1886,LAD,Los Angeles Dodgers,76,61,832,5053,NA,NA
+1886,LOU,Louisville Colonels,66,70,833,4921,NA,NA
+1886,NYP,New York Metropolitans,53,82,628,4683,NA,NA
+1886,PHA,Philadelphia Athletics,63,72,772,4856,NA,NA
+1886,PHI,Philadelphia Phillies,71,43,621,4072,NA,NA
+1886,PIT,Pittsburgh Pirates,80,57,810,4854,NA,NA
+1886,SFG,San Francisco Giants,75,44,692,4298,NA,NA
+1886,SLM,St. Louis Maroons,43,79,547,4250,NA,NA
+1886,STL,St. Louis Cardinals,93,46,944,5009,NA,NA
+1886,WNL,Washington Nationals,28,92,445,4082,NA,NA
+1887,ATL,Atlanta Braves,61,60,831,4531,NA,NA
+1887,BLO,Baltimore Orioles,77,58,975,4825,NA,NA
+1887,CHC,Chicago Cubs,71,50,813,4350,NA,NA
+1887,CIN,Cincinnati Reds,81,54,892,4797,NA,NA
+1887,CLV,Cleveland Spiders,39,92,729,4649,NA,NA
+1887,DTN,Detroit Wolverines,79,45,969,4689,NA,NA
+1887,IND,Indianapolis Hoosiers,37,89,628,4368,NA,NA
+1887,LAD,Los Angeles Dodgers,60,74,904,4913,NA,NA
+1887,LOU,Louisville Colonels,76,60,956,4916,NA,NA
+1887,NYP,New York Metropolitans,44,89,754,4820,NA,NA
+1887,PHA,Philadelphia Athletics,64,69,893,4954,NA,NA
+1887,PHI,Philadelphia Phillies,75,48,901,4630,NA,NA
+1887,PIT,Pittsburgh Pirates,55,69,621,4414,NA,NA
+1887,SFG,San Francisco Giants,68,55,816,4516,NA,NA
+1887,STL,St. Louis Cardinals,95,40,1131,5048,NA,NA
+1887,WNL,Washington Nationals,46,76,601,4314,NA,NA
+1888,ATL,Atlanta Braves,70,64,669,4834,NA,NA
+1888,BLO,Baltimore Orioles,57,80,653,4656,NA,NA
+1888,CHC,Chicago Cubs,77,58,734,4616,NA,NA
+1888,CIN,Cincinnati Reds,80,54,745,4801,NA,NA
+1888,CLV,Cleveland Spiders,50,82,651,4603,NA,NA
+1888,DTN,Detroit Wolverines,68,63,721,4849,NA,NA
+1888,IND,Indianapolis Hoosiers,50,85,603,4623,NA,NA
+1888,KCC,Kansas City Cowboys,43,89,579,4588,NA,NA
+1888,LAD,Los Angeles Dodgers,88,52,758,4871,NA,NA
+1888,LOU,Louisville Colonels,48,87,689,4881,NA,NA
+1888,PHA,Philadelphia Athletics,81,52,827,4828,NA,NA
+1888,PHI,Philadelphia Phillies,69,61,535,4528,NA,NA
+1888,PIT,Pittsburgh Pirates,66,68,534,4713,NA,NA
+1888,SFG,San Francisco Giants,84,47,659,4747,NA,NA
+1888,STL,St. Louis Cardinals,92,43,789,4755,NA,NA
+1888,WNL,Washington Nationals,48,86,482,4546,NA,NA
+1889,ATL,Atlanta Braves,83,45,826,4628,NA,NA
+1889,BLO,Baltimore Orioles,70,65,791,4756,NA,NA
+1889,CHC,Chicago Cubs,67,65,867,4849,NA,NA
+1889,CIN,Cincinnati Reds,76,63,897,4844,NA,NA
+1889,CLS,Columbus Solons,60,78,779,4816,NA,NA
+1889,CLV,Cleveland Spiders,61,72,656,4673,NA,NA
+1889,IND,Indianapolis Hoosiers,59,75,819,4879,NA,NA
+1889,KCC,Kansas City Cowboys,55,82,852,4947,NA,NA
+1889,LAD,Los Angeles Dodgers,93,44,995,4815,NA,NA
+1889,LOU,Louisville Colonels,27,111,632,4955,NA,NA
+1889,PHA,Philadelphia Athletics,75,58,880,4868,NA,NA
+1889,PHI,Philadelphia Phillies,63,64,742,4695,NA,NA
+1889,PIT,Pittsburgh Pirates,61,71,726,4748,NA,NA
+1889,SFG,San Francisco Giants,83,43,935,4671,NA,NA
+1889,STL,St. Louis Cardinals,90,45,957,4939,NA,NA
+1889,WNL,Washington Nationals,41,83,632,4395,NA,NA
+1890,ATL,Atlanta Braves,76,57,763,4722,NA,NA
+1890,BFB,Buffalo Bisons,36,96,793,4795,NA,NA
+1890,BLO,Baltimore Orioles,15,19,182,1213,NA,NA
+1890,BRG,Brooklyn Gladiators,26,73,492,3475,NA,NA
+1890,BRS,Boston Reds,81,48,992,4626,NA,NA
+1890,BWW,Brooklyn Ward's Wonders,76,56,964,4887,NA,NA
+1890,CHC,Chicago Cubs,83,53,847,4891,NA,NA
+1890,CHP,Chicago Pirates,75,62,886,4968,NA,NA
+1890,CIN,Cincinnati Reds,77,55,753,4644,NA,NA
+1890,CLI,Cleveland Infants,55,75,849,4804,NA,NA
+1890,CLS,Columbus Solons,79,55,831,4741,NA,NA
+1890,CLV,Cleveland Spiders,44,88,630,4633,NA,NA
+1890,LAD,Los Angeles Dodgers,86,43,884,4419,NA,NA
+1890,LOU,Louisville Colonels,88,44,819,4687,NA,NA
+1890,NYI,New York Giants,74,57,1018,4913,NA,NA
+1890,PBB,Pittsburgh Burghers,60,68,835,4577,NA,NA
+1890,PHA,Philadelphia Athletics,54,78,702,4490,NA,NA
+1890,PHI,Philadelphia Phillies,78,53,823,4707,NA,NA
+1890,PHQ,Philadelphia Athletics,68,63,941,4855,NA,NA
+1890,PIT,Pittsburgh Pirates,23,113,597,4739,NA,NA
+1890,ROC,Rochester Broncos,63,63,709,4553,NA,NA
+1890,SFG,San Francisco Giants,63,68,713,4832,NA,NA
+1890,STL,St. Louis Cardinals,78,58,870,4800,NA,NA
+1890,SYS,Syracuse Stars,55,72,698,4469,NA,NA
+1890,TLM,Toledo Maumees,68,64,739,4575,NA,NA
+1891,ATL,Atlanta Braves,87,51,847,4956,NA,NA
+1891,BLO,Baltimore Orioles,71,64,850,4771,NA,NA
+1891,BRS,Boston Reds,93,42,1028,4889,NA,NA
+1891,CHC,Chicago Cubs,82,53,832,4873,NA,NA
+1891,CIN,Cincinnati Reds,56,81,646,4791,NA,NA
+1891,CKK,Cincinnati Kelly's Killers,43,57,549,3574,NA,NA
+1891,CLS,Columbus Solons,61,76,702,4697,NA,NA
+1891,CLV,Cleveland Spiders,65,74,835,5074,NA,NA
+1891,LAD,Los Angeles Dodgers,61,76,765,4748,NA,NA
+1891,LOU,Louisville Colonels,54,83,713,4833,NA,NA
+1891,MLA,Milwaukee Brewers,21,15,227,1271,NA,NA
+1891,PHI,Philadelphia Phillies,68,69,756,4929,NA,NA
+1891,PHQ,Philadelphia Athletics,73,66,817,5039,NA,NA
+1891,PIT,Pittsburgh Pirates,55,80,679,4794,NA,NA
+1891,SFG,San Francisco Giants,71,61,754,4833,NA,NA
+1891,STL,St. Louis Cardinals,85,51,976,5005,NA,NA
+1891,WAS,Washington Senators,44,91,691,4715,NA,NA
+1892,ATL,Atlanta Braves,102,48,862,5301,NA,NA
+1892,BLO,Baltimore Orioles,46,101,779,5296,NA,NA
+1892,CHC,Chicago Cubs,70,76,635,5063,NA,NA
+1892,CIN,Cincinnati Reds,82,68,766,5349,NA,NA
+1892,CLV,Cleveland Spiders,93,56,855,5412,NA,NA
+1892,LAD,Los Angeles Dodgers,95,59,935,5485,NA,NA
+1892,LOU,Louisville Colonels,63,89,649,5334,NA,NA
+1892,PHI,Philadelphia Phillies,87,66,860,5413,NA,NA
+1892,PIT,Pittsburgh Pirates,80,73,802,5469,NA,NA
+1892,SFG,San Francisco Giants,71,80,811,5291,NA,NA
+1892,STL,St. Louis Cardinals,56,94,703,5259,NA,NA
+1892,WAS,Washington Senators,58,93,731,5204,NA,NA
+1893,ATL,Atlanta Braves,86,43,1008,4678,NA,NA
+1893,BLO,Baltimore Orioles,60,70,820,4651,NA,NA
+1893,CHC,Chicago Cubs,56,71,829,4664,NA,NA
+1893,CIN,Cincinnati Reds,65,63,759,4617,NA,NA
+1893,CLV,Cleveland Spiders,73,55,976,4747,NA,NA
+1893,LAD,Los Angeles Dodgers,65,63,775,4511,NA,NA
+1893,LOU,Louisville Colonels,50,75,759,4566,NA,NA
+1893,PHI,Philadelphia Phillies,72,57,1011,5151,NA,NA
+1893,PIT,Pittsburgh Pirates,81,48,970,4834,NA,NA
+1893,SFG,San Francisco Giants,68,64,941,4858,NA,NA
+1893,STL,St. Louis Cardinals,57,75,745,4879,NA,NA
+1893,WAS,Washington Senators,40,89,722,4742,NA,NA
+1894,ATL,Atlanta Braves,83,49,1220,5011,NA,NA
+1894,BLO,Baltimore Orioles,89,39,1171,4799,NA,NA
+1894,CHC,Chicago Cubs,57,75,1041,4960,NA,NA
+1894,CIN,Cincinnati Reds,55,75,910,4671,NA,NA
+1894,CLV,Cleveland Spiders,68,61,932,4764,NA,NA
+1894,LAD,Los Angeles Dodgers,70,61,1021,4816,NA,NA
+1894,LOU,Louisville Colonels,36,94,692,4482,NA,NA
+1894,PHI,Philadelphia Phillies,71,57,1143,4967,NA,NA
+1894,PIT,Pittsburgh Pirates,65,65,955,4676,NA,NA
+1894,SFG,San Francisco Giants,88,44,940,4806,NA,NA
+1894,STL,St. Louis Cardinals,56,76,771,4610,NA,NA
+1894,WAS,Washington Senators,45,87,882,4581,NA,NA
+1895,ATL,Atlanta Braves,71,60,907,4715,NA,NA
+1895,BLO,Baltimore Orioles,87,43,1009,4725,NA,NA
+1895,CHC,Chicago Cubs,72,58,866,4708,NA,NA
+1895,CIN,Cincinnati Reds,66,64,903,4684,NA,NA
+1895,CLV,Cleveland Spiders,84,46,917,4658,NA,NA
+1895,LAD,Los Angeles Dodgers,71,60,867,4717,NA,NA
+1895,LOU,Louisville Colonels,35,96,698,4724,NA,NA
+1895,PHI,Philadelphia Phillies,78,53,1068,5037,NA,NA
+1895,PIT,Pittsburgh Pirates,71,61,811,4645,NA,NA
+1895,SFG,San Francisco Giants,66,65,852,4605,NA,NA
+1895,STL,St. Louis Cardinals,39,92,747,4781,NA,NA
+1895,WAS,Washington Senators,43,85,837,4577,NA,NA
+1896,ATL,Atlanta Braves,74,57,860,4717,NA,NA
+1896,BLO,Baltimore Orioles,90,39,995,4719,NA,NA
+1896,CHC,Chicago Cubs,71,57,815,4582,NA,NA
+1896,CIN,Cincinnati Reds,77,50,783,4360,NA,NA
+1896,CLV,Cleveland Spiders,80,48,840,4856,NA,NA
+1896,LAD,Los Angeles Dodgers,58,73,692,4548,NA,NA
+1896,LOU,Louisville Colonels,38,93,653,4588,NA,NA
+1896,PHI,Philadelphia Phillies,62,68,890,4680,NA,NA
+1896,PIT,Pittsburgh Pirates,66,63,787,4701,NA,NA
+1896,SFG,San Francisco Giants,64,67,829,4661,NA,NA
+1896,STL,St. Louis Cardinals,40,90,593,4520,NA,NA
+1896,WAS,Washington Senators,58,73,818,4639,NA,NA
+1897,ATL,Atlanta Braves,93,39,1025,4937,NA,NA
+1897,BLO,Baltimore Orioles,90,40,964,4872,NA,NA
+1897,CHC,Chicago Cubs,59,73,832,4803,NA,NA
+1897,CIN,Cincinnati Reds,76,56,763,4524,NA,NA
+1897,CLV,Cleveland Spiders,69,62,773,4604,NA,NA
+1897,LAD,Los Angeles Dodgers,61,71,802,4810,NA,NA
+1897,LOU,Louisville Colonels,52,78,669,4520,NA,NA
+1897,PHI,Philadelphia Phillies,55,77,752,4756,NA,NA
+1897,PIT,Pittsburgh Pirates,60,71,676,4590,NA,NA
+1897,SFG,San Francisco Giants,83,48,895,4844,NA,NA
+1897,STL,St. Louis Cardinals,29,102,588,4642,NA,NA
+1897,WAS,Washington Senators,61,71,781,4636,NA,NA
+1898,ATL,Atlanta Braves,102,47,872,5276,NA,NA
+1898,BLO,Baltimore Orioles,96,53,933,5242,NA,NA
+1898,CHC,Chicago Cubs,85,65,828,5219,NA,NA
+1898,CIN,Cincinnati Reds,92,60,831,5334,NA,NA
+1898,CLV,Cleveland Spiders,81,68,730,5246,NA,NA
+1898,LAD,Los Angeles Dodgers,54,91,638,5126,NA,NA
+1898,LOU,Louisville Colonels,70,81,728,5193,NA,NA
+1898,PHI,Philadelphia Phillies,78,71,823,5118,NA,NA
+1898,PIT,Pittsburgh Pirates,72,76,634,5087,NA,NA
+1898,SFG,San Francisco Giants,77,73,837,5349,NA,NA
+1898,STL,St. Louis Cardinals,39,111,571,5214,NA,NA
+1898,WAS,Washington Senators,51,101,704,5257,NA,NA
+1899,ATL,Atlanta Braves,95,57,858,5290,NA,NA
+1899,BLO,Baltimore Orioles,86,62,827,5073,NA,NA
+1899,CHC,Chicago Cubs,75,73,812,5148,NA,NA
+1899,CIN,Cincinnati Reds,83,67,856,5225,NA,NA
+1899,CLV,Cleveland Spiders,20,134,529,5279,NA,NA
+1899,LAD,Los Angeles Dodgers,101,47,892,4937,NA,NA
+1899,LOU,Louisville Colonels,75,77,827,5307,NA,NA
+1899,PHI,Philadelphia Phillies,94,58,916,5353,NA,NA
+1899,PIT,Pittsburgh Pirates,76,73,834,5450,NA,NA
+1899,SFG,San Francisco Giants,60,90,734,5092,NA,NA
+1899,STL,St. Louis Cardinals,84,67,819,5304,NA,NA
+1899,WAS,Washington Senators,54,98,743,5256,NA,NA
+1900,ATL,Atlanta Braves,66,72,778,4952,NA,NA
+1900,CHC,Chicago Cubs,65,75,635,4907,NA,NA
+1900,CIN,Cincinnati Reds,62,77,703,5026,NA,NA
+1900,LAD,Los Angeles Dodgers,82,54,816,4860,NA,NA
+1900,PHI,Philadelphia Phillies,75,63,810,4969,NA,NA
+1900,PIT,Pittsburgh Pirates,79,60,733,4817,NA,NA
+1900,SFG,San Francisco Giants,60,78,713,4724,NA,NA
+1900,STL,St. Louis Cardinals,65,75,744,4877,NA,NA
+1901,ATL,Atlanta Braves,69,69,531,4746,NA,NA
+1901,BAL,Baltimore Orioles,48,89,641,4795,NA,NA
+1901,BOS,Boston Red Sox,79,57,759,4866,NA,NA
+1901,CHC,Chicago Cubs,53,86,578,4844,NA,NA
+1901,CHW,Chicago White Sox,83,53,819,4725,NA,NA
+1901,CIN,Cincinnati Reds,52,87,561,4914,NA,NA
+1901,CLE,Cleveland Indians,54,82,667,4833,NA,NA
+1901,DET,Detroit Tigers,74,61,741,4676,NA,NA
+1901,LAD,Los Angeles Dodgers,79,57,744,4879,NA,NA
+1901,MIN,Minnesota Twins,61,72,682,4772,NA,NA
+1901,NYY,New York Yankees,68,65,760,4589,NA,NA
+1901,OAK,Oakland Athletics,74,62,805,4882,NA,NA
+1901,PHI,Philadelphia Phillies,83,57,668,4793,NA,NA
+1901,PIT,Pittsburgh Pirates,90,49,776,4913,NA,NA
+1901,SFG,San Francisco Giants,52,85,544,4839,NA,NA
+1901,STL,St. Louis Cardinals,76,64,792,5039,NA,NA
+1902,ATL,Atlanta Braves,73,64,572,4728,NA,NA
+1902,BAL,Baltimore Orioles,78,58,619,4736,NA,NA
+1902,BOS,Boston Red Sox,77,60,664,4875,NA,NA
+1902,CHC,Chicago Cubs,68,69,530,4802,NA,NA
+1902,CHW,Chicago White Sox,74,60,675,4654,NA,NA
+1902,CIN,Cincinnati Reds,70,70,633,4908,NA,NA
+1902,CLE,Cleveland Indians,69,67,686,4840,NA,NA
+1902,DET,Detroit Tigers,52,83,566,4644,NA,NA
+1902,LAD,Los Angeles Dodgers,75,63,564,4845,NA,NA
+1902,MIN,Minnesota Twins,61,75,707,4734,NA,NA
+1902,NYY,New York Yankees,50,88,715,4760,NA,NA
+1902,OAK,Oakland Athletics,83,53,775,4762,NA,NA
+1902,PHI,Philadelphia Phillies,56,81,484,4615,NA,NA
+1902,PIT,Pittsburgh Pirates,103,36,775,4926,NA,NA
+1902,SFG,San Francisco Giants,48,88,401,4571,NA,NA
+1902,STL,St. Louis Cardinals,56,78,517,4751,NA,NA
+1903,ATL,Atlanta Braves,58,80,578,4682,NA,NA
+1903,BAL,Baltimore Orioles,65,74,500,4639,NA,NA
+1903,BOS,Boston Red Sox,91,47,708,4919,NA,NA
+1903,CHC,Chicago Cubs,82,56,695,4733,NA,NA
+1903,CHW,Chicago White Sox,60,77,516,4670,NA,NA
+1903,CIN,Cincinnati Reds,74,65,765,4857,NA,NA
+1903,CLE,Cleveland Indians,77,63,639,4773,NA,NA
+1903,DET,Detroit Tigers,65,71,567,4582,NA,NA
+1903,LAD,Los Angeles Dodgers,70,66,667,4534,NA,NA
+1903,MIN,Minnesota Twins,43,94,437,4613,NA,NA
+1903,NYY,New York Yankees,72,62,579,4565,NA,NA
+1903,OAK,Oakland Athletics,75,60,597,4673,NA,NA
+1903,PHI,Philadelphia Phillies,49,86,617,4781,NA,NA
+1903,PIT,Pittsburgh Pirates,91,49,793,4988,NA,NA
+1903,SFG,San Francisco Giants,84,55,729,4741,NA,NA
+1903,STL,St. Louis Cardinals,43,94,505,4689,NA,NA
+1904,ATL,Atlanta Braves,55,98,491,5135,NA,NA
+1904,BAL,Baltimore Orioles,65,87,481,5291,NA,NA
+1904,BOS,Boston Red Sox,95,59,608,5231,NA,NA
+1904,CHC,Chicago Cubs,93,60,599,5210,NA,NA
+1904,CHW,Chicago White Sox,89,65,600,5027,NA,NA
+1904,CIN,Cincinnati Reds,88,65,695,5231,NA,NA
+1904,CLE,Cleveland Indians,86,65,647,5152,NA,NA
+1904,DET,Detroit Tigers,62,90,505,5321,NA,NA
+1904,LAD,Los Angeles Dodgers,56,97,497,4917,NA,NA
+1904,MIN,Minnesota Twins,38,113,437,5149,NA,NA
+1904,NYY,New York Yankees,92,59,598,5220,NA,NA
+1904,OAK,Oakland Athletics,81,70,557,5088,NA,NA
+1904,PHI,Philadelphia Phillies,52,100,571,5103,NA,NA
+1904,PIT,Pittsburgh Pirates,87,66,675,5160,NA,NA
+1904,SFG,San Francisco Giants,106,47,744,5150,NA,NA
+1904,STL,St. Louis Cardinals,75,79,602,5104,NA,NA
+1905,ATL,Atlanta Braves,51,103,468,5190,NA,NA
+1905,BAL,Baltimore Orioles,54,99,511,5204,NA,NA
+1905,BOS,Boston Red Sox,78,74,579,5049,NA,NA
+1905,CHC,Chicago Cubs,92,61,667,5108,NA,NA
+1905,CHW,Chicago White Sox,92,60,612,5114,NA,NA
+1905,CIN,Cincinnati Reds,79,74,735,5205,NA,NA
+1905,CLE,Cleveland Indians,76,78,567,5166,NA,NA
+1905,DET,Detroit Tigers,79,74,512,4971,NA,NA
+1905,LAD,Los Angeles Dodgers,48,104,506,5100,NA,NA
+1905,MIN,Minnesota Twins,64,87,559,5015,NA,NA
+1905,NYY,New York Yankees,71,78,586,4957,NA,NA
+1905,OAK,Oakland Athletics,92,56,623,5146,NA,NA
+1905,PHI,Philadelphia Phillies,83,69,708,5243,NA,NA
+1905,PIT,Pittsburgh Pirates,96,57,692,5213,NA,NA
+1905,SFG,San Francisco Giants,105,48,780,5094,NA,NA
+1905,STL,St. Louis Cardinals,58,96,535,5066,NA,NA
+1906,ATL,Atlanta Braves,49,102,408,4925,NA,NA
+1906,BAL,Baltimore Orioles,76,73,558,5030,NA,NA
+1906,BOS,Boston Red Sox,49,105,463,5168,NA,NA
+1906,CHC,Chicago Cubs,116,36,705,5018,NA,NA
+1906,CHW,Chicago White Sox,93,58,570,4925,NA,NA
+1906,CIN,Cincinnati Reds,64,87,533,5025,NA,NA
+1906,CLE,Cleveland Indians,89,64,663,5426,NA,NA
+1906,DET,Detroit Tigers,71,78,518,4930,NA,NA
+1906,LAD,Los Angeles Dodgers,66,86,496,4897,NA,NA
+1906,MIN,Minnesota Twins,55,95,518,4956,NA,NA
+1906,NYY,New York Yankees,90,61,644,5095,NA,NA
+1906,OAK,Oakland Athletics,78,67,561,4883,NA,NA
+1906,PHI,Philadelphia Phillies,71,82,528,4911,NA,NA
+1906,PIT,Pittsburgh Pirates,93,60,623,5030,NA,NA
+1906,SFG,San Francisco Giants,96,56,625,4768,NA,NA
+1906,STL,St. Louis Cardinals,52,98,470,5075,NA,NA
+1907,ATL,Atlanta Braves,58,90,502,5020,NA,NA
+1907,BAL,Baltimore Orioles,69,83,542,5224,NA,NA
+1907,BOS,Boston Red Sox,59,90,464,5235,NA,NA
+1907,CHC,Chicago Cubs,107,45,574,4892,NA,NA
+1907,CHW,Chicago White Sox,87,64,588,5070,NA,NA
+1907,CIN,Cincinnati Reds,66,87,526,4966,NA,NA
+1907,CLE,Cleveland Indians,85,67,530,5068,NA,NA
+1907,DET,Detroit Tigers,92,58,694,5204,NA,NA
+1907,LAD,Los Angeles Dodgers,65,83,446,4895,NA,NA
+1907,MIN,Minnesota Twins,49,102,506,5112,NA,NA
+1907,NYY,New York Yankees,70,78,605,5044,NA,NA
+1907,OAK,Oakland Athletics,88,57,582,5008,NA,NA
+1907,PHI,Philadelphia Phillies,83,64,512,4725,NA,NA
+1907,PIT,Pittsburgh Pirates,91,63,634,4957,NA,NA
+1907,SFG,San Francisco Giants,82,71,574,4874,NA,NA
+1907,STL,St. Louis Cardinals,52,101,419,5008,NA,NA
+1908,ATL,Atlanta Braves,63,91,537,5131,NA,NA
+1908,BAL,Baltimore Orioles,83,69,544,5151,NA,NA
+1908,BOS,Boston Red Sox,75,79,564,5048,NA,NA
+1908,CHC,Chicago Cubs,99,55,624,5085,NA,NA
+1908,CHW,Chicago White Sox,88,64,537,5027,NA,NA
+1908,CIN,Cincinnati Reds,73,81,489,4879,NA,NA
+1908,CLE,Cleveland Indians,90,64,568,5108,NA,NA
+1908,DET,Detroit Tigers,90,63,647,5115,NA,NA
+1908,LAD,Los Angeles Dodgers,53,101,377,4897,NA,NA
+1908,MIN,Minnesota Twins,67,85,479,5041,NA,NA
+1908,NYY,New York Yankees,51,103,459,5046,NA,NA
+1908,OAK,Oakland Athletics,68,85,486,5065,NA,NA
+1908,PHI,Philadelphia Phillies,83,71,504,5012,NA,NA
+1908,PIT,Pittsburgh Pirates,98,56,585,5109,NA,NA
+1908,SFG,San Francisco Giants,98,56,652,5006,NA,NA
+1908,STL,St. Louis Cardinals,49,105,371,4959,NA,NA
+1909,ATL,Atlanta Braves,45,108,435,5017,NA,NA
+1909,BAL,Baltimore Orioles,61,89,441,4964,NA,NA
+1909,BOS,Boston Red Sox,88,63,597,4979,NA,NA
+1909,CHC,Chicago Cubs,104,49,635,4999,NA,NA
+1909,CHW,Chicago White Sox,78,74,492,5017,NA,NA
+1909,CIN,Cincinnati Reds,77,76,606,5088,NA,NA
+1909,CLE,Cleveland Indians,71,82,493,5048,NA,NA
+1909,DET,Detroit Tigers,98,54,666,5095,NA,NA
+1909,LAD,Los Angeles Dodgers,55,98,444,5056,NA,NA
+1909,MIN,Minnesota Twins,42,110,380,4983,NA,NA
+1909,NYY,New York Yankees,74,77,590,4981,NA,NA
+1909,OAK,Oakland Athletics,95,58,605,4905,NA,NA
+1909,PHI,Philadelphia Phillies,74,79,516,5034,NA,NA
+1909,PIT,Pittsburgh Pirates,110,42,699,5129,NA,NA
+1909,SFG,San Francisco Giants,92,61,623,5218,NA,NA
+1909,STL,St. Louis Cardinals,54,98,583,5108,NA,NA
+1910,ATL,Atlanta Braves,53,100,495,5123,NA,NA
+1910,BAL,Baltimore Orioles,47,107,451,5077,NA,NA
+1910,BOS,Boston Red Sox,81,72,638,5204,NA,NA
+1910,CHC,Chicago Cubs,104,50,712,4977,NA,NA
+1910,CHW,Chicago White Sox,68,85,457,5024,NA,NA
+1910,CIN,Cincinnati Reds,75,79,620,5121,NA,NA
+1910,CLE,Cleveland Indians,71,81,548,5385,NA,NA
+1910,DET,Detroit Tigers,86,68,679,5039,NA,NA
+1910,LAD,Los Angeles Dodgers,64,90,497,5125,NA,NA
+1910,MIN,Minnesota Twins,66,85,501,4989,NA,NA
+1910,NYY,New York Yankees,88,63,626,5051,NA,NA
+1910,OAK,Oakland Athletics,102,48,673,5156,NA,NA
+1910,PHI,Philadelphia Phillies,78,75,674,5171,NA,NA
+1910,PIT,Pittsburgh Pirates,86,67,655,5125,NA,NA
+1910,SFG,San Francisco Giants,91,63,715,5061,NA,NA
+1910,STL,St. Louis Cardinals,63,90,639,4912,NA,NA
+1911,ATL,Atlanta Braves,44,107,699,5308,NA,NA
+1911,BAL,Baltimore Orioles,45,107,567,4996,NA,NA
+1911,BOS,Boston Red Sox,78,75,680,5014,NA,NA
+1911,CHC,Chicago Cubs,92,62,757,5130,NA,NA
+1911,CHW,Chicago White Sox,77,74,719,5213,NA,NA
+1911,CIN,Cincinnati Reds,70,83,682,5291,NA,NA
+1911,CLE,Cleveland Indians,80,73,691,5321,NA,NA
+1911,DET,Detroit Tigers,89,65,831,5294,NA,NA
+1911,LAD,Los Angeles Dodgers,64,86,539,5059,NA,NA
+1911,MIN,Minnesota Twins,64,90,625,5065,NA,NA
+1911,NYY,New York Yankees,76,76,684,5052,NA,NA
+1911,OAK,Oakland Athletics,101,50,861,5199,NA,NA
+1911,PHI,Philadelphia Phillies,79,73,658,5044,NA,NA
+1911,PIT,Pittsburgh Pirates,85,69,744,5137,NA,NA
+1911,SFG,San Francisco Giants,99,54,756,5006,NA,NA
+1911,STL,St. Louis Cardinals,75,74,671,5132,NA,NA
+1912,ATL,Atlanta Braves,52,101,693,5361,NA,NA
+1912,BAL,Baltimore Orioles,53,101,552,5080,NA,NA
+1912,BOS,Boston Red Sox,105,47,799,5071,NA,NA
+1912,CHC,Chicago Cubs,91,59,756,5048,NA,NA
+1912,CHW,Chicago White Sox,78,76,639,5182,NA,NA
+1912,CIN,Cincinnati Reds,75,78,656,5115,NA,NA
+1912,CLE,Cleveland Indians,75,78,677,5133,NA,NA
+1912,DET,Detroit Tigers,69,84,720,5143,NA,NA
+1912,LAD,Los Angeles Dodgers,58,95,651,5141,NA,NA
+1912,MIN,Minnesota Twins,91,61,699,5075,NA,NA
+1912,NYY,New York Yankees,50,102,630,5092,NA,NA
+1912,OAK,Oakland Athletics,90,62,779,5111,NA,NA
+1912,PHI,Philadelphia Phillies,73,79,670,5077,NA,NA
+1912,PIT,Pittsburgh Pirates,93,58,751,5252,NA,NA
+1912,SFG,San Francisco Giants,103,48,823,5067,NA,NA
+1912,STL,St. Louis Cardinals,63,90,659,5092,NA,NA
+1913,ATL,Atlanta Braves,69,82,641,5145,NA,NA
+1913,BAL,Baltimore Orioles,57,96,528,5031,NA,NA
+1913,BOS,Boston Red Sox,79,71,631,4965,NA,NA
+1913,CHC,Chicago Cubs,88,65,720,5022,NA,NA
+1913,CHW,Chicago White Sox,78,74,488,4822,NA,NA
+1913,CIN,Cincinnati Reds,64,89,607,5132,NA,NA
+1913,CLE,Cleveland Indians,86,66,633,5031,NA,NA
+1913,DET,Detroit Tigers,66,87,624,5064,NA,NA
+1913,LAD,Los Angeles Dodgers,65,84,595,5165,NA,NA
+1913,MIN,Minnesota Twins,90,64,596,5074,NA,NA
+1913,NYY,New York Yankees,57,94,529,4880,NA,NA
+1913,OAK,Oakland Athletics,96,57,794,5044,NA,NA
+1913,PHI,Philadelphia Phillies,88,63,693,5400,NA,NA
+1913,PIT,Pittsburgh Pirates,78,71,673,5252,NA,NA
+1913,SFG,San Francisco Giants,101,51,684,5218,NA,NA
+1913,STL,St. Louis Cardinals,51,99,528,4967,NA,NA
+1914,ATL,Atlanta Braves,94,59,657,5206,NA,NA
+1914,BAL,Baltimore Orioles,71,82,523,5101,NA,NA
+1914,BFL,Buffalo Bisons,80,71,620,5064,NA,NA
+1914,BLT,Baltimore Terrapins,84,70,645,5120,NA,NA
+1914,BOS,Boston Red Sox,91,62,589,5117,NA,NA
+1914,BTT,Brooklyn Tip-Tops,77,77,662,5221,NA,NA
+1914,CHC,Chicago Cubs,78,76,605,5050,NA,NA
+1914,CHH,Chicago Whales,87,67,621,5098,NA,NA
+1914,CHW,Chicago White Sox,70,84,487,5040,NA,NA
+1914,CIN,Cincinnati Reds,60,94,530,4991,NA,NA
+1914,CLE,Cleveland Indians,51,102,538,5157,NA,NA
+1914,DET,Detroit Tigers,80,73,615,5102,NA,NA
+1914,KCP,Kansas City Packers,67,84,644,5127,NA,NA
+1914,LAD,Los Angeles Dodgers,75,79,622,5152,NA,NA
+1914,MIN,Minnesota Twins,81,73,572,5108,NA,NA
+1914,NEW,Newark Pepper,88,65,762,5176,NA,NA
+1914,NYY,New York Yankees,70,84,537,4992,NA,NA
+1914,OAK,Oakland Athletics,99,53,749,5126,NA,NA
+1914,PBS,Pittsburgh Rebels,64,86,605,5114,NA,NA
+1914,PHI,Philadelphia Phillies,74,80,651,5110,NA,NA
+1914,PIT,Pittsburgh Pirates,69,85,503,5145,NA,NA
+1914,SFG,San Francisco Giants,84,70,672,5146,NA,NA
+1914,SLI,St. Louis Terriers,62,89,565,5078,NA,NA
+1914,STL,St. Louis Cardinals,81,72,558,5046,NA,NA
+1915,ATL,Atlanta Braves,83,69,582,5070,NA,NA
+1915,BAL,Baltimore Orioles,63,91,521,5112,NA,NA
+1915,BFL,Buffalo Bisons,74,78,574,5065,NA,NA
+1915,BLT,Baltimore Terrapins,47,107,550,5060,NA,NA
+1915,BOS,Boston Red Sox,101,50,669,5024,NA,NA
+1915,BTT,Brooklyn Tip-Tops,70,82,647,5035,NA,NA
+1915,CHC,Chicago Cubs,73,80,570,5114,NA,NA
+1915,CHH,Chicago Whales,86,66,640,5133,NA,NA
+1915,CHW,Chicago White Sox,93,61,717,4914,NA,NA
+1915,CIN,Cincinnati Reds,71,83,516,5231,NA,NA
+1915,CLE,Cleveland Indians,57,95,539,5034,NA,NA
+1915,DET,Detroit Tigers,100,54,778,5128,NA,NA
+1915,KCP,Kansas City Packers,81,72,547,4937,NA,NA
+1915,LAD,Los Angeles Dodgers,80,72,536,5120,NA,NA
+1915,MIN,Minnesota Twins,85,68,569,5029,NA,NA
+1915,NEW,Newark Pepper,80,72,585,5097,NA,NA
+1915,NYY,New York Yankees,69,83,584,4982,NA,NA
+1915,OAK,Oakland Athletics,43,109,545,5081,NA,NA
+1915,PBS,Pittsburgh Rebels,86,67,592,5040,NA,NA
+1915,PHI,Philadelphia Phillies,90,62,589,4916,NA,NA
+1915,PIT,Pittsburgh Pirates,73,81,557,5113,NA,NA
+1915,SFG,San Francisco Giants,69,83,582,5218,NA,NA
+1915,SLI,St. Louis Terriers,87,67,634,5145,NA,NA
+1915,STL,St. Louis Cardinals,72,81,590,5106,NA,NA
+1916,ATL,Atlanta Braves,89,63,542,5075,NA,NA
+1916,BAL,Baltimore Orioles,79,75,588,5159,NA,NA
+1916,BOS,Boston Red Sox,91,63,550,5018,NA,NA
+1916,CHC,Chicago Cubs,67,86,520,5179,NA,NA
+1916,CHW,Chicago White Sox,89,65,601,5081,NA,NA
+1916,CIN,Cincinnati Reds,60,93,505,5254,NA,NA
+1916,CLE,Cleveland Indians,77,77,630,5064,NA,NA
+1916,DET,Detroit Tigers,87,67,670,5193,NA,NA
+1916,LAD,Los Angeles Dodgers,94,60,585,5234,NA,NA
+1916,MIN,Minnesota Twins,76,77,536,5114,NA,NA
+1916,NYY,New York Yankees,80,74,577,5198,NA,NA
+1916,OAK,Oakland Athletics,36,117,447,5010,NA,NA
+1916,PHI,Philadelphia Phillies,91,62,581,4985,NA,NA
+1916,PIT,Pittsburgh Pirates,65,89,484,5181,NA,NA
+1916,SFG,San Francisco Giants,86,66,597,5152,NA,NA
+1916,STL,St. Louis Cardinals,60,93,476,5030,NA,NA
+1917,ATL,Atlanta Braves,72,81,536,5201,NA,NA
+1917,BAL,Baltimore Orioles,57,97,510,5091,NA,NA
+1917,BOS,Boston Red Sox,90,62,555,5048,NA,NA
+1917,CHC,Chicago Cubs,74,80,552,5135,NA,NA
+1917,CHW,Chicago White Sox,100,54,656,5057,NA,NA
+1917,CIN,Cincinnati Reds,78,76,601,5251,NA,NA
+1917,CLE,Cleveland Indians,88,66,584,4994,NA,NA
+1917,DET,Detroit Tigers,78,75,639,5093,NA,NA
+1917,LAD,Los Angeles Dodgers,70,81,511,5251,NA,NA
+1917,MIN,Minnesota Twins,74,79,543,5142,NA,NA
+1917,NYY,New York Yankees,71,82,524,5136,NA,NA
+1917,OAK,Oakland Athletics,55,98,529,5109,NA,NA
+1917,PHI,Philadelphia Phillies,87,65,578,5084,NA,NA
+1917,PIT,Pittsburgh Pirates,51,103,464,5169,NA,NA
+1917,SFG,San Francisco Giants,98,56,635,5211,NA,NA
+1917,STL,St. Louis Cardinals,82,70,531,5083,NA,NA
+1918,ATL,Atlanta Braves,53,71,424,4162,NA,NA
+1918,BAL,Baltimore Orioles,58,64,426,4019,NA,NA
+1918,BOS,Boston Red Sox,75,51,474,3982,NA,NA
+1918,CHC,Chicago Cubs,84,45,538,4325,NA,NA
+1918,CHW,Chicago White Sox,57,67,457,4132,NA,NA
+1918,CIN,Cincinnati Reds,68,60,530,4265,NA,NA
+1918,CLE,Cleveland Indians,73,54,504,4166,NA,NA
+1918,DET,Detroit Tigers,55,71,476,4262,NA,NA
+1918,LAD,Los Angeles Dodgers,57,69,360,4212,NA,NA
+1918,MIN,Minnesota Twins,72,56,461,4472,NA,NA
+1918,NYY,New York Yankees,60,63,493,4224,NA,NA
+1918,OAK,Oakland Athletics,52,76,412,4278,NA,NA
+1918,PHI,Philadelphia Phillies,55,68,430,4192,NA,NA
+1918,PIT,Pittsburgh Pirates,65,60,466,4091,NA,NA
+1918,SFG,San Francisco Giants,71,53,480,4164,NA,NA
+1918,STL,St. Louis Cardinals,51,78,454,4369,NA,NA
+1919,ATL,Atlanta Braves,57,82,465,4746,NA,NA
+1919,BAL,Baltimore Orioles,67,72,533,4672,NA,NA
+1919,BOS,Boston Red Sox,66,71,564,4548,NA,NA
+1919,CHC,Chicago Cubs,75,65,454,4581,NA,NA
+1919,CHW,Chicago White Sox,88,52,667,4675,NA,NA
+1919,CIN,Cincinnati Reds,96,44,577,4577,NA,NA
+1919,CLE,Cleveland Indians,84,55,636,4565,NA,NA
+1919,DET,Detroit Tigers,80,60,618,4665,NA,NA
+1919,LAD,Los Angeles Dodgers,69,71,525,4844,NA,NA
+1919,MIN,Minnesota Twins,56,84,533,4757,NA,NA
+1919,NYY,New York Yankees,80,59,578,4775,NA,NA
+1919,OAK,Oakland Athletics,36,104,457,4730,NA,NA
+1919,PHI,Philadelphia Phillies,47,90,510,4746,NA,NA
+1919,PIT,Pittsburgh Pirates,71,68,472,4538,NA,NA
+1919,SFG,San Francisco Giants,87,53,605,4664,NA,NA
+1919,STL,St. Louis Cardinals,54,83,463,4588,NA,NA
+1920,ATL,Atlanta Braves,62,90,523,5218,NA,NA
+1920,BAL,Baltimore Orioles,76,77,797,5358,NA,NA
+1920,BOS,Boston Red Sox,72,81,650,5199,NA,NA
+1920,CHC,Chicago Cubs,75,79,619,5117,NA,NA
+1920,CHW,Chicago White Sox,96,58,794,5328,NA,NA
+1920,CIN,Cincinnati Reds,82,71,639,5176,NA,NA
+1920,CLE,Cleveland Indians,98,56,857,5203,NA,NA
+1920,DET,Detroit Tigers,61,93,652,5215,NA,NA
+1920,LAD,Los Angeles Dodgers,93,61,660,5399,NA,NA
+1920,MIN,Minnesota Twins,68,84,723,5251,NA,NA
+1920,NYY,New York Yankees,95,59,838,5176,NA,NA
+1920,OAK,Oakland Athletics,48,106,558,5256,NA,NA
+1920,PHI,Philadelphia Phillies,62,91,565,5264,NA,NA
+1920,PIT,Pittsburgh Pirates,79,75,530,5219,NA,NA
+1920,SFG,San Francisco Giants,86,68,682,5309,NA,NA
+1920,STL,St. Louis Cardinals,75,79,675,5495,NA,NA
+1921,ATL,Atlanta Braves,79,74,721,5385,NA,NA
+1921,BAL,Baltimore Orioles,81,73,835,5442,NA,NA
+1921,BOS,Boston Red Sox,75,79,668,5206,NA,NA
+1921,CHC,Chicago Cubs,64,89,668,5321,NA,NA
+1921,CHW,Chicago White Sox,62,92,683,5329,NA,NA
+1921,CIN,Cincinnati Reds,70,83,618,5112,NA,NA
+1921,CLE,Cleveland Indians,94,60,925,5383,NA,NA
+1921,DET,Detroit Tigers,71,82,883,5461,NA,NA
+1921,LAD,Los Angeles Dodgers,77,75,667,5263,NA,NA
+1921,MIN,Minnesota Twins,80,73,704,5294,NA,NA
+1921,NYY,New York Yankees,98,55,948,5249,NA,NA
+1921,OAK,Oakland Athletics,53,100,657,5465,NA,NA
+1921,PHI,Philadelphia Phillies,51,103,617,5329,NA,NA
+1921,PIT,Pittsburgh Pirates,90,63,692,5379,NA,NA
+1921,SFG,San Francisco Giants,94,59,840,5278,NA,NA
+1921,STL,St. Louis Cardinals,87,66,809,5309,NA,NA
+1922,ATL,Atlanta Braves,53,100,596,5161,NA,NA
+1922,BAL,Baltimore Orioles,93,61,867,5416,NA,NA
+1922,BOS,Boston Red Sox,61,93,598,5288,NA,NA
+1922,CHC,Chicago Cubs,80,74,771,5335,NA,NA
+1922,CHW,Chicago White Sox,77,77,691,5267,NA,NA
+1922,CIN,Cincinnati Reds,86,68,766,5282,NA,NA
+1922,CLE,Cleveland Indians,78,76,768,5293,NA,NA
+1922,DET,Detroit Tigers,79,75,828,5360,NA,NA
+1922,LAD,Los Angeles Dodgers,76,78,743,5413,NA,NA
+1922,MIN,Minnesota Twins,69,85,650,5201,NA,NA
+1922,NYY,New York Yankees,94,60,758,5245,NA,NA
+1922,OAK,Oakland Athletics,65,89,705,5211,NA,NA
+1922,PHI,Philadelphia Phillies,57,96,738,5459,NA,NA
+1922,PIT,Pittsburgh Pirates,85,69,865,5521,NA,NA
+1922,SFG,San Francisco Giants,93,61,852,5454,NA,NA
+1922,STL,St. Louis Cardinals,85,69,863,5425,NA,NA
+1923,ATL,Atlanta Braves,54,100,636,5329,NA,NA
+1923,BAL,Baltimore Orioles,74,78,688,5298,NA,NA
+1923,BOS,Boston Red Sox,61,91,584,5181,NA,NA
+1923,CHC,Chicago Cubs,83,71,756,5259,NA,NA
+1923,CHW,Chicago White Sox,69,85,692,5246,NA,NA
+1923,CIN,Cincinnati Reds,91,63,708,5278,NA,NA
+1923,CLE,Cleveland Indians,82,71,888,5290,NA,NA
+1923,DET,Detroit Tigers,83,71,831,5266,NA,NA
+1923,LAD,Los Angeles Dodgers,76,78,753,5476,NA,NA
+1923,MIN,Minnesota Twins,75,78,720,5244,NA,NA
+1923,NYY,New York Yankees,98,54,823,5347,NA,NA
+1923,OAK,Oakland Athletics,69,83,661,5196,NA,NA
+1923,PHI,Philadelphia Phillies,50,104,748,5491,NA,NA
+1923,PIT,Pittsburgh Pirates,87,67,786,5405,NA,NA
+1923,SFG,San Francisco Giants,95,58,854,5452,NA,NA
+1923,STL,St. Louis Cardinals,79,74,746,5526,NA,NA
+1924,ATL,Atlanta Braves,53,100,520,5283,NA,NA
+1924,BAL,Baltimore Orioles,74,78,769,5236,NA,NA
+1924,BOS,Boston Red Sox,67,87,737,5340,NA,NA
+1924,CHC,Chicago Cubs,81,72,698,5134,NA,NA
+1924,CHW,Chicago White Sox,66,87,793,5255,NA,NA
+1924,CIN,Cincinnati Reds,83,70,649,5301,NA,NA
+1924,CLE,Cleveland Indians,67,86,755,5332,NA,NA
+1924,DET,Detroit Tigers,86,68,849,5389,NA,NA
+1924,LAD,Los Angeles Dodgers,92,62,717,5339,NA,NA
+1924,MIN,Minnesota Twins,92,62,755,5304,NA,NA
+1924,NYY,New York Yankees,89,63,798,5240,NA,NA
+1924,OAK,Oakland Athletics,71,81,685,5184,NA,NA
+1924,PHI,Philadelphia Phillies,55,96,676,5306,NA,NA
+1924,PIT,Pittsburgh Pirates,90,63,724,5288,NA,NA
+1924,SFG,San Francisco Giants,93,60,857,5445,NA,NA
+1924,STL,St. Louis Cardinals,65,89,740,5349,NA,NA
+1925,ATL,Atlanta Braves,70,83,708,5365,NA,NA
+1925,BAL,Baltimore Orioles,82,71,900,5440,NA,NA
+1925,BOS,Boston Red Sox,47,105,639,5166,NA,NA
+1925,CHC,Chicago Cubs,68,86,723,5353,NA,NA
+1925,CHW,Chicago White Sox,79,75,811,5224,NA,NA
+1925,CIN,Cincinnati Reds,80,73,690,5233,NA,NA
+1925,CLE,Cleveland Indians,70,84,782,5436,NA,NA
+1925,DET,Detroit Tigers,81,73,903,5371,NA,NA
+1925,LAD,Los Angeles Dodgers,68,85,786,5468,NA,NA
+1925,MIN,Minnesota Twins,96,55,829,5206,NA,NA
+1925,NYY,New York Yankees,69,85,706,5353,NA,NA
+1925,OAK,Oakland Athletics,88,64,831,5399,NA,NA
+1925,PHI,Philadelphia Phillies,68,85,812,5412,NA,NA
+1925,PIT,Pittsburgh Pirates,95,58,912,5372,NA,NA
+1925,SFG,San Francisco Giants,86,66,736,5327,NA,NA
+1925,STL,St. Louis Cardinals,77,76,828,5329,NA,NA
+1926,ATL,Atlanta Braves,66,86,624,5216,NA,NA
+1926,BAL,Baltimore Orioles,62,92,682,5259,NA,NA
+1926,BOS,Boston Red Sox,46,107,562,5185,NA,NA
+1926,CHC,Chicago Cubs,82,72,682,5229,NA,NA
+1926,CHW,Chicago White Sox,81,72,730,5220,NA,NA
+1926,CIN,Cincinnati Reds,87,67,747,5320,NA,NA
+1926,CLE,Cleveland Indians,88,66,738,5293,NA,NA
+1926,DET,Detroit Tigers,79,75,793,5315,NA,NA
+1926,LAD,Los Angeles Dodgers,71,82,623,5130,NA,NA
+1926,MIN,Minnesota Twins,81,69,802,5223,NA,NA
+1926,NYY,New York Yankees,91,63,847,5221,NA,NA
+1926,OAK,Oakland Athletics,83,67,677,5046,NA,NA
+1926,PHI,Philadelphia Phillies,58,93,687,5254,NA,NA
+1926,PIT,Pittsburgh Pirates,84,69,769,5312,NA,NA
+1926,SFG,San Francisco Giants,74,77,663,5167,NA,NA
+1926,STL,St. Louis Cardinals,89,65,817,5381,NA,NA
+1927,ATL,Atlanta Braves,60,94,651,5370,NA,NA
+1927,BAL,Baltimore Orioles,59,94,724,5220,NA,NA
+1927,BOS,Boston Red Sox,51,103,597,5207,NA,NA
+1927,CHC,Chicago Cubs,85,68,750,5303,NA,NA
+1927,CHW,Chicago White Sox,70,83,662,5157,NA,NA
+1927,CIN,Cincinnati Reds,75,78,643,5185,NA,NA
+1927,CLE,Cleveland Indians,66,87,668,5202,NA,NA
+1927,DET,Detroit Tigers,82,71,845,5299,NA,NA
+1927,LAD,Los Angeles Dodgers,65,88,541,5193,NA,NA
+1927,MIN,Minnesota Twins,85,69,782,5389,NA,NA
+1927,NYY,New York Yankees,110,44,975,5347,NA,NA
+1927,OAK,Oakland Athletics,91,63,841,5296,NA,NA
+1927,PHI,Philadelphia Phillies,51,103,678,5317,NA,NA
+1927,PIT,Pittsburgh Pirates,94,60,817,5397,NA,NA
+1927,SFG,San Francisco Giants,92,62,817,5372,NA,NA
+1927,STL,St. Louis Cardinals,92,61,754,5207,NA,NA
+1928,ATL,Atlanta Braves,50,103,631,5228,NA,NA
+1928,BAL,Baltimore Orioles,82,72,772,5217,NA,NA
+1928,BOS,Boston Red Sox,57,96,589,5132,NA,NA
+1928,CHC,Chicago Cubs,91,63,714,5260,NA,NA
+1928,CHW,Chicago White Sox,72,82,656,5207,NA,NA
+1928,CIN,Cincinnati Reds,78,74,648,5184,NA,NA
+1928,CLE,Cleveland Indians,62,92,674,5386,NA,NA
+1928,DET,Detroit Tigers,68,86,744,5292,NA,NA
+1928,LAD,Los Angeles Dodgers,77,76,665,5243,NA,NA
+1928,MIN,Minnesota Twins,75,79,718,5320,NA,NA
+1928,NYY,New York Yankees,101,53,894,5337,NA,NA
+1928,OAK,Oakland Athletics,98,55,829,5226,NA,NA
+1928,PHI,Philadelphia Phillies,43,109,660,5234,NA,NA
+1928,PIT,Pittsburgh Pirates,85,67,837,5371,NA,NA
+1928,SFG,San Francisco Giants,93,61,807,5459,NA,NA
+1928,STL,St. Louis Cardinals,95,59,807,5357,NA,NA
+1929,ATL,Atlanta Braves,56,98,657,5291,NA,NA
+1929,BAL,Baltimore Orioles,79,73,733,5174,NA,NA
+1929,BOS,Boston Red Sox,58,96,605,5160,NA,NA
+1929,CHC,Chicago Cubs,98,54,982,5471,NA,NA
+1929,CHW,Chicago White Sox,59,93,627,5248,NA,NA
+1929,CIN,Cincinnati Reds,66,88,686,5269,NA,NA
+1929,CLE,Cleveland Indians,81,71,717,5187,NA,NA
+1929,DET,Detroit Tigers,70,84,926,5592,NA,NA
+1929,LAD,Los Angeles Dodgers,70,83,755,5273,NA,NA
+1929,MIN,Minnesota Twins,71,81,730,5237,NA,NA
+1929,NYY,New York Yankees,88,66,899,5379,NA,NA
+1929,OAK,Oakland Athletics,104,46,901,5204,NA,NA
+1929,PHI,Philadelphia Phillies,71,82,897,5484,NA,NA
+1929,PIT,Pittsburgh Pirates,88,65,904,5490,NA,NA
+1929,SFG,San Francisco Giants,84,67,897,5388,NA,NA
+1929,STL,St. Louis Cardinals,78,74,831,5364,NA,NA
+1930,ATL,Atlanta Braves,70,84,693,5356,NA,NA
+1930,BAL,Baltimore Orioles,64,90,751,5278,NA,NA
+1930,BOS,Boston Red Sox,52,102,612,5286,NA,NA
+1930,CHC,Chicago Cubs,90,64,998,5581,NA,NA
+1930,CHW,Chicago White Sox,62,92,729,5419,NA,NA
+1930,CIN,Cincinnati Reds,59,95,665,5245,NA,NA
+1930,CLE,Cleveland Indians,81,73,890,5439,NA,NA
+1930,DET,Detroit Tigers,75,79,783,5297,NA,NA
+1930,LAD,Los Angeles Dodgers,86,68,871,5433,NA,NA
+1930,MIN,Minnesota Twins,94,60,892,5370,NA,NA
+1930,NYY,New York Yankees,86,68,1062,5448,NA,NA
+1930,OAK,Oakland Athletics,102,52,951,5345,NA,NA
+1930,PHI,Philadelphia Phillies,52,102,944,5667,NA,NA
+1930,PIT,Pittsburgh Pirates,80,74,891,5346,NA,NA
+1930,SFG,San Francisco Giants,87,67,959,5553,NA,NA
+1930,STL,St. Louis Cardinals,92,62,1004,5512,NA,NA
+1931,ATL,Atlanta Braves,64,90,533,5296,NA,NA
+1931,BAL,Baltimore Orioles,63,91,722,5374,NA,NA
+1931,BOS,Boston Red Sox,62,90,625,5379,NA,NA
+1931,CHC,Chicago Cubs,84,70,828,5451,NA,NA
+1931,CHW,Chicago White Sox,56,97,704,5481,NA,NA
+1931,CIN,Cincinnati Reds,58,96,592,5343,NA,NA
+1931,CLE,Cleveland Indians,78,76,885,5445,NA,NA
+1931,DET,Detroit Tigers,61,93,651,5430,NA,NA
+1931,LAD,Los Angeles Dodgers,79,73,681,5309,NA,NA
+1931,MIN,Minnesota Twins,92,62,843,5576,NA,NA
+1931,NYY,New York Yankees,94,59,1067,5608,NA,NA
+1931,OAK,Oakland Athletics,107,45,858,5377,NA,NA
+1931,PHI,Philadelphia Phillies,66,88,684,5375,NA,NA
+1931,PIT,Pittsburgh Pirates,75,79,636,5360,NA,NA
+1931,SFG,San Francisco Giants,87,65,768,5372,NA,NA
+1931,STL,St. Louis Cardinals,101,53,815,5435,NA,NA
+1932,ATL,Atlanta Braves,77,77,649,5506,NA,NA
+1932,BAL,Baltimore Orioles,63,91,736,5449,NA,NA
+1932,BOS,Boston Red Sox,43,111,566,5295,NA,NA
+1932,CHC,Chicago Cubs,90,64,720,5462,NA,NA
+1932,CHW,Chicago White Sox,49,102,667,5336,NA,NA
+1932,CIN,Cincinnati Reds,60,94,575,5443,NA,NA
+1932,CLE,Cleveland Indians,87,65,845,5412,NA,NA
+1932,DET,Detroit Tigers,76,75,799,5409,NA,NA
+1932,LAD,Los Angeles Dodgers,81,73,752,5433,NA,NA
+1932,MIN,Minnesota Twins,93,61,840,5515,NA,NA
+1932,NYY,New York Yankees,107,47,1002,5477,NA,NA
+1932,OAK,Oakland Athletics,94,60,981,5537,NA,NA
+1932,PHI,Philadelphia Phillies,78,76,844,5510,NA,NA
+1932,PIT,Pittsburgh Pirates,86,68,701,5421,NA,NA
+1932,SFG,San Francisco Giants,72,82,755,5530,NA,NA
+1932,STL,St. Louis Cardinals,72,82,684,5458,NA,NA
+1933,ATL,Atlanta Braves,83,71,552,5243,NA,NA
+1933,BAL,Baltimore Orioles,55,96,669,5285,NA,NA
+1933,BOS,Boston Red Sox,63,86,700,5201,NA,NA
+1933,CHC,Chicago Cubs,86,68,646,5255,NA,NA
+1933,CHW,Chicago White Sox,67,83,683,5318,NA,NA
+1933,CIN,Cincinnati Reds,58,94,496,5156,NA,NA
+1933,CLE,Cleveland Indians,75,76,654,5240,NA,NA
+1933,DET,Detroit Tigers,75,79,722,5502,NA,NA
+1933,LAD,Los Angeles Dodgers,65,88,617,5367,NA,NA
+1933,MIN,Minnesota Twins,99,53,850,5524,NA,NA
+1933,NYY,New York Yankees,91,59,927,5274,NA,NA
+1933,OAK,Oakland Athletics,79,72,875,5330,NA,NA
+1933,PHI,Philadelphia Phillies,60,92,607,5261,NA,NA
+1933,PIT,Pittsburgh Pirates,87,67,667,5429,NA,NA
+1933,SFG,San Francisco Giants,91,61,636,5461,NA,NA
+1933,STL,St. Louis Cardinals,82,71,687,5387,NA,NA
+1934,ATL,Atlanta Braves,78,73,683,5370,NA,NA
+1934,BAL,Baltimore Orioles,67,85,674,5288,NA,NA
+1934,BOS,Boston Red Sox,76,76,820,5339,NA,NA
+1934,CHC,Chicago Cubs,86,65,705,5347,NA,NA
+1934,CHW,Chicago White Sox,53,99,704,5301,NA,NA
+1934,CIN,Cincinnati Reds,52,99,590,5361,NA,NA
+1934,CLE,Cleveland Indians,85,69,814,5396,NA,NA
+1934,DET,Detroit Tigers,101,53,958,5475,NA,NA
+1934,LAD,Los Angeles Dodgers,71,81,748,5427,NA,NA
+1934,MIN,Minnesota Twins,66,86,729,5448,NA,NA
+1934,NYY,New York Yankees,94,60,842,5368,NA,NA
+1934,OAK,Oakland Athletics,68,82,764,5317,NA,NA
+1934,PHI,Philadelphia Phillies,56,93,675,5218,NA,NA
+1934,PIT,Pittsburgh Pirates,74,76,735,5361,NA,NA
+1934,SFG,San Francisco Giants,93,60,760,5396,NA,NA
+1934,STL,St. Louis Cardinals,95,58,799,5502,NA,NA
+1935,ATL,Atlanta Braves,38,115,575,5309,NA,NA
+1935,BAL,Baltimore Orioles,65,87,718,5365,NA,NA
+1935,BOS,Boston Red Sox,78,75,718,5288,NA,NA
+1935,CHC,Chicago Cubs,100,54,847,5486,NA,NA
+1935,CHW,Chicago White Sox,74,78,738,5314,NA,NA
+1935,CIN,Cincinnati Reds,68,85,646,5296,NA,NA
+1935,CLE,Cleveland Indians,82,71,776,5534,NA,NA
+1935,DET,Detroit Tigers,93,58,919,5423,NA,NA
+1935,LAD,Los Angeles Dodgers,70,83,711,5410,NA,NA
+1935,MIN,Minnesota Twins,67,86,823,5592,NA,NA
+1935,NYY,New York Yankees,89,60,818,5214,NA,NA
+1935,OAK,Oakland Athletics,58,91,710,5269,NA,NA
+1935,PHI,Philadelphia Phillies,64,89,685,5442,NA,NA
+1935,PIT,Pittsburgh Pirates,86,67,743,5415,NA,NA
+1935,SFG,San Francisco Giants,91,62,770,5623,NA,NA
+1935,STL,St. Louis Cardinals,96,58,829,5457,NA,NA
+1936,ATL,Atlanta Braves,71,83,631,5478,NA,NA
+1936,BAL,Baltimore Orioles,57,95,804,5391,NA,NA
+1936,BOS,Boston Red Sox,74,80,775,5383,NA,NA
+1936,CHC,Chicago Cubs,87,67,755,5409,NA,NA
+1936,CHW,Chicago White Sox,81,70,920,5466,NA,NA
+1936,CIN,Cincinnati Reds,74,80,722,5393,NA,NA
+1936,CLE,Cleveland Indians,80,74,921,5646,NA,NA
+1936,DET,Detroit Tigers,83,71,921,5464,NA,NA
+1936,LAD,Los Angeles Dodgers,67,87,662,5574,NA,NA
+1936,MIN,Minnesota Twins,82,71,889,5433,NA,NA
+1936,NYY,New York Yankees,102,51,1065,5591,NA,NA
+1936,OAK,Oakland Athletics,53,100,714,5373,NA,NA
+1936,PHI,Philadelphia Phillies,54,100,726,5465,NA,NA
+1936,PIT,Pittsburgh Pirates,84,70,804,5586,NA,NA
+1936,SFG,San Francisco Giants,92,62,742,5449,NA,NA
+1936,STL,St. Louis Cardinals,87,67,795,5537,NA,NA
+1937,ATL,Atlanta Braves,79,73,579,5124,NA,NA
+1937,BAL,Baltimore Orioles,46,108,715,5510,NA,NA
+1937,BOS,Boston Red Sox,80,72,821,5354,NA,NA
+1937,CHC,Chicago Cubs,93,61,811,5349,NA,NA
+1937,CHW,Chicago White Sox,86,68,780,5277,NA,NA
+1937,CIN,Cincinnati Reds,56,98,612,5230,NA,NA
+1937,CLE,Cleveland Indians,83,71,817,5353,NA,NA
+1937,DET,Detroit Tigers,89,65,935,5516,NA,NA
+1937,LAD,Los Angeles Dodgers,62,91,616,5295,NA,NA
+1937,MIN,Minnesota Twins,73,80,757,5578,NA,NA
+1937,NYY,New York Yankees,102,52,979,5487,NA,NA
+1937,OAK,Oakland Athletics,54,97,699,5228,NA,NA
+1937,PHI,Philadelphia Phillies,61,92,724,5424,NA,NA
+1937,PIT,Pittsburgh Pirates,86,68,704,5433,NA,NA
+1937,SFG,San Francisco Giants,95,57,732,5329,NA,NA
+1937,STL,St. Louis Cardinals,81,73,789,5476,NA,NA
+1938,ATL,Atlanta Braves,77,75,561,5250,NA,NA
+1938,BAL,Baltimore Orioles,55,97,755,5333,NA,NA
+1938,BOS,Boston Red Sox,88,61,902,5229,NA,NA
+1938,CHC,Chicago Cubs,89,63,713,5333,NA,NA
+1938,CHW,Chicago White Sox,65,83,709,5199,NA,NA
+1938,CIN,Cincinnati Reds,82,68,723,5391,NA,NA
+1938,CLE,Cleveland Indians,86,66,847,5356,NA,NA
+1938,DET,Detroit Tigers,84,70,862,5270,NA,NA
+1938,LAD,Los Angeles Dodgers,69,80,704,5142,NA,NA
+1938,MIN,Minnesota Twins,75,76,814,5474,NA,NA
+1938,NYY,New York Yankees,99,53,966,5410,NA,NA
+1938,OAK,Oakland Athletics,53,99,726,5229,NA,NA
+1938,PHI,Philadelphia Phillies,45,105,550,5192,NA,NA
+1938,PIT,Pittsburgh Pirates,86,64,707,5422,NA,NA
+1938,SFG,San Francisco Giants,83,67,705,5255,NA,NA
+1938,STL,St. Louis Cardinals,71,80,725,5528,NA,NA
+1939,ATL,Atlanta Braves,63,88,572,5286,NA,NA
+1939,BAL,Baltimore Orioles,43,111,733,5422,NA,NA
+1939,BOS,Boston Red Sox,89,62,890,5308,NA,NA
+1939,CHC,Chicago Cubs,84,70,724,5293,NA,NA
+1939,CHW,Chicago White Sox,85,69,755,5279,NA,NA
+1939,CIN,Cincinnati Reds,97,57,767,5378,NA,NA
+1939,CLE,Cleveland Indians,87,67,797,5316,NA,NA
+1939,DET,Detroit Tigers,81,73,849,5326,NA,NA
+1939,LAD,Los Angeles Dodgers,84,69,708,5350,NA,NA
+1939,MIN,Minnesota Twins,65,87,702,5334,NA,NA
+1939,NYY,New York Yankees,106,45,967,5300,NA,NA
+1939,OAK,Oakland Athletics,55,97,711,5309,NA,NA
+1939,PHI,Philadelphia Phillies,45,106,553,5133,NA,NA
+1939,PIT,Pittsburgh Pirates,68,85,666,5269,NA,NA
+1939,SFG,San Francisco Giants,77,74,703,5129,NA,NA
+1939,STL,St. Louis Cardinals,92,61,779,5447,NA,NA
+1940,ATL,Atlanta Braves,65,87,623,5329,NA,NA
+1940,BAL,Baltimore Orioles,67,87,757,5416,NA,NA
+1940,BOS,Boston Red Sox,82,72,872,5481,NA,NA
+1940,CHC,Chicago Cubs,75,79,681,5389,NA,NA
+1940,CHW,Chicago White Sox,82,72,735,5386,NA,NA
+1940,CIN,Cincinnati Reds,100,53,707,5372,NA,NA
+1940,CLE,Cleveland Indians,89,65,710,5361,NA,NA
+1940,DET,Detroit Tigers,90,64,888,5418,NA,NA
+1940,LAD,Los Angeles Dodgers,88,65,697,5470,NA,NA
+1940,MIN,Minnesota Twins,64,90,665,5365,NA,NA
+1940,NYY,New York Yankees,88,66,817,5286,NA,NA
+1940,OAK,Oakland Athletics,54,100,703,5304,NA,NA
+1940,PHI,Philadelphia Phillies,50,103,494,5137,NA,NA
+1940,PIT,Pittsburgh Pirates,78,76,809,5466,NA,NA
+1940,SFG,San Francisco Giants,72,80,663,5324,NA,NA
+1940,STL,St. Louis Cardinals,84,69,747,5499,NA,NA
+1941,ATL,Atlanta Braves,62,92,592,5414,NA,NA
+1941,BAL,Baltimore Orioles,70,84,765,5408,NA,NA
+1941,BOS,Boston Red Sox,84,70,865,5359,NA,NA
+1941,CHC,Chicago Cubs,70,84,666,5230,NA,NA
+1941,CHW,Chicago White Sox,77,77,638,5404,NA,NA
+1941,CIN,Cincinnati Reds,88,66,616,5218,NA,NA
+1941,CLE,Cleveland Indians,75,79,677,5283,NA,NA
+1941,DET,Detroit Tigers,75,79,686,5370,NA,NA
+1941,LAD,Los Angeles Dodgers,100,54,800,5485,NA,NA
+1941,MIN,Minnesota Twins,70,84,728,5521,NA,NA
+1941,NYY,New York Yankees,101,53,830,5444,NA,NA
+1941,OAK,Oakland Athletics,64,90,713,5336,NA,NA
+1941,PHI,Philadelphia Phillies,43,111,501,5233,NA,NA
+1941,PIT,Pittsburgh Pirates,81,73,690,5297,NA,NA
+1941,SFG,San Francisco Giants,74,79,667,5395,NA,NA
+1941,STL,St. Louis Cardinals,97,56,734,5457,NA,NA
+1942,ATL,Atlanta Braves,59,89,515,5077,NA,NA
+1942,BAL,Baltimore Orioles,82,69,730,5229,NA,NA
+1942,BOS,Boston Red Sox,93,59,761,5248,NA,NA
+1942,CHC,Chicago Cubs,68,86,591,5352,NA,NA
+1942,CHW,Chicago White Sox,66,82,538,4949,NA,NA
+1942,CIN,Cincinnati Reds,76,76,527,5260,NA,NA
+1942,CLE,Cleveland Indians,75,79,590,5317,NA,NA
+1942,DET,Detroit Tigers,73,81,589,5327,NA,NA
+1942,LAD,Los Angeles Dodgers,104,50,742,5285,NA,NA
+1942,MIN,Minnesota Twins,62,89,653,5295,NA,NA
+1942,NYY,New York Yankees,103,51,801,5305,NA,NA
+1942,OAK,Oakland Athletics,55,99,549,5285,NA,NA
+1942,PHI,Philadelphia Phillies,42,109,394,5060,NA,NA
+1942,PIT,Pittsburgh Pirates,66,81,585,5104,NA,NA
+1942,SFG,San Francisco Giants,85,67,675,5210,NA,NA
+1942,STL,St. Louis Cardinals,106,48,755,5421,NA,NA
+1943,ATL,Atlanta Braves,68,85,465,5196,NA,NA
+1943,BAL,Baltimore Orioles,72,80,596,5175,NA,NA
+1943,BOS,Boston Red Sox,68,84,563,5392,NA,NA
+1943,CHC,Chicago Cubs,74,79,632,5279,NA,NA
+1943,CHW,Chicago White Sox,82,72,573,5254,NA,NA
+1943,CIN,Cincinnati Reds,87,67,608,5329,NA,NA
+1943,CLE,Cleveland Indians,82,71,600,5269,NA,NA
+1943,DET,Detroit Tigers,78,76,632,5364,NA,NA
+1943,LAD,Los Angeles Dodgers,81,72,716,5309,NA,NA
+1943,MIN,Minnesota Twins,84,69,666,5233,NA,NA
+1943,NYY,New York Yankees,98,56,669,5282,NA,NA
+1943,OAK,Oakland Athletics,49,105,497,5244,NA,NA
+1943,PHI,Philadelphia Phillies,64,90,571,5297,NA,NA
+1943,PIT,Pittsburgh Pirates,80,74,669,5353,NA,NA
+1943,SFG,San Francisco Giants,55,98,558,5290,NA,NA
+1943,STL,St. Louis Cardinals,105,49,679,5438,NA,NA
+1944,ATL,Atlanta Braves,65,89,593,5282,NA,NA
+1944,BAL,Baltimore Orioles,89,65,684,5269,NA,NA
+1944,BOS,Boston Red Sox,77,77,739,5400,NA,NA
+1944,CHC,Chicago Cubs,75,79,702,5462,NA,NA
+1944,CHW,Chicago White Sox,71,83,543,5292,NA,NA
+1944,CIN,Cincinnati Reds,89,65,573,5271,NA,NA
+1944,CLE,Cleveland Indians,72,82,643,5481,NA,NA
+1944,DET,Detroit Tigers,88,66,658,5344,NA,NA
+1944,LAD,Los Angeles Dodgers,63,91,690,5393,NA,NA
+1944,MIN,Minnesota Twins,64,90,592,5319,NA,NA
+1944,NYY,New York Yankees,83,71,674,5331,NA,NA
+1944,OAK,Oakland Athletics,72,82,525,5312,NA,NA
+1944,PHI,Philadelphia Phillies,61,92,539,5301,NA,NA
+1944,PIT,Pittsburgh Pirates,90,63,744,5428,NA,NA
+1944,SFG,San Francisco Giants,67,87,682,5306,NA,NA
+1944,STL,St. Louis Cardinals,105,49,772,5475,NA,NA
+1945,ATL,Atlanta Braves,67,85,721,5441,NA,NA
+1945,BAL,Baltimore Orioles,81,70,597,5227,NA,NA
+1945,BOS,Boston Red Sox,71,83,599,5367,NA,NA
+1945,CHC,Chicago Cubs,98,56,735,5298,NA,NA
+1945,CHW,Chicago White Sox,71,78,596,5077,NA,NA
+1945,CIN,Cincinnati Reds,61,93,536,5283,NA,NA
+1945,CLE,Cleveland Indians,73,72,557,4898,NA,NA
+1945,DET,Detroit Tigers,88,65,633,5257,NA,NA
+1945,LAD,Los Angeles Dodgers,87,67,795,5418,NA,NA
+1945,MIN,Minnesota Twins,87,67,622,5326,NA,NA
+1945,NYY,New York Yankees,81,71,676,5176,NA,NA
+1945,OAK,Oakland Athletics,52,98,494,5296,NA,NA
+1945,PHI,Philadelphia Phillies,46,108,548,5203,NA,NA
+1945,PIT,Pittsburgh Pirates,82,72,753,5343,NA,NA
+1945,SFG,San Francisco Giants,78,74,668,5350,NA,NA
+1945,STL,St. Louis Cardinals,95,59,756,5487,NA,NA
+1946,ATL,Atlanta Braves,81,72,630,5225,NA,NA
+1946,BAL,Baltimore Orioles,66,88,621,5373,NA,NA
+1946,BOS,Boston Red Sox,104,50,792,5318,NA,NA
+1946,CHC,Chicago Cubs,82,71,626,5298,NA,NA
+1946,CHW,Chicago White Sox,74,80,562,5312,NA,NA
+1946,CIN,Cincinnati Reds,67,87,523,5291,NA,NA
+1946,CLE,Cleveland Indians,68,86,537,5242,NA,NA
+1946,DET,Detroit Tigers,92,62,704,5318,NA,NA
+1946,LAD,Los Angeles Dodgers,96,60,701,5285,NA,NA
+1946,MIN,Minnesota Twins,76,78,608,5337,NA,NA
+1946,NYY,New York Yankees,87,67,684,5139,NA,NA
+1946,OAK,Oakland Athletics,49,105,529,5200,NA,NA
+1946,PHI,Philadelphia Phillies,69,85,560,5233,NA,NA
+1946,PIT,Pittsburgh Pirates,63,91,552,5199,NA,NA
+1946,SFG,San Francisco Giants,61,93,612,5191,NA,NA
+1946,STL,St. Louis Cardinals,98,58,712,5372,NA,NA
+1947,ATL,Atlanta Braves,86,68,701,5253,NA,NA
+1947,BAL,Baltimore Orioles,59,95,564,5145,NA,NA
+1947,BOS,Boston Red Sox,83,71,720,5322,NA,NA
+1947,CHC,Chicago Cubs,69,85,567,5305,NA,NA
+1947,CHW,Chicago White Sox,70,84,553,5274,NA,NA
+1947,CIN,Cincinnati Reds,73,81,681,5299,NA,NA
+1947,CLE,Cleveland Indians,80,74,687,5367,NA,NA
+1947,DET,Detroit Tigers,85,69,714,5276,NA,NA
+1947,LAD,Los Angeles Dodgers,94,60,774,5249,NA,NA
+1947,MIN,Minnesota Twins,64,90,496,5112,NA,NA
+1947,NYY,New York Yankees,97,57,794,5308,NA,NA
+1947,OAK,Oakland Athletics,78,76,633,5198,NA,NA
+1947,PHI,Philadelphia Phillies,62,92,589,5256,NA,NA
+1947,PIT,Pittsburgh Pirates,62,92,744,5307,NA,NA
+1947,SFG,San Francisco Giants,81,73,830,5343,NA,NA
+1947,STL,St. Louis Cardinals,89,65,780,5422,NA,NA
+1948,ATL,Atlanta Braves,91,62,739,5297,NA,NA
+1948,BAL,Baltimore Orioles,59,94,671,5303,NA,NA
+1948,BOS,Boston Red Sox,96,59,907,5363,NA,NA
+1948,CHC,Chicago Cubs,64,90,597,5352,NA,NA
+1948,CHW,Chicago White Sox,51,101,559,5192,NA,NA
+1948,CIN,Cincinnati Reds,64,89,588,5127,NA,NA
+1948,CLE,Cleveland Indians,97,58,840,5446,NA,NA
+1948,DET,Detroit Tigers,78,76,700,5235,NA,NA
+1948,LAD,Los Angeles Dodgers,84,70,744,5328,NA,NA
+1948,MIN,Minnesota Twins,56,97,578,5111,NA,NA
+1948,NYY,New York Yankees,94,60,857,5324,NA,NA
+1948,OAK,Oakland Athletics,84,70,729,5181,NA,NA
+1948,PHI,Philadelphia Phillies,66,88,591,5287,NA,NA
+1948,PIT,Pittsburgh Pirates,83,71,706,5286,NA,NA
+1948,SFG,San Francisco Giants,78,76,780,5277,NA,NA
+1948,STL,St. Louis Cardinals,85,69,742,5302,NA,NA
+1949,ATL,Atlanta Braves,75,79,706,5336,NA,NA
+1949,BAL,Baltimore Orioles,53,101,667,5112,NA,NA
+1949,BOS,Boston Red Sox,96,58,896,5320,NA,NA
+1949,CHC,Chicago Cubs,61,93,593,5214,NA,NA
+1949,CHW,Chicago White Sox,63,91,648,5204,NA,NA
+1949,CIN,Cincinnati Reds,62,92,627,5469,NA,NA
+1949,CLE,Cleveland Indians,89,65,675,5221,NA,NA
+1949,DET,Detroit Tigers,87,67,751,5259,NA,NA
+1949,LAD,Los Angeles Dodgers,97,57,879,5400,NA,NA
+1949,MIN,Minnesota Twins,50,104,584,5234,NA,NA
+1949,NYY,New York Yankees,97,57,829,5196,NA,NA
+1949,OAK,Oakland Athletics,81,73,726,5123,NA,NA
+1949,PHI,Philadelphia Phillies,81,73,662,5307,NA,NA
+1949,PIT,Pittsburgh Pirates,71,83,681,5214,NA,NA
+1949,SFG,San Francisco Giants,73,81,736,5308,NA,NA
+1949,STL,St. Louis Cardinals,96,58,766,5463,NA,NA
+1950,ATL,Atlanta Braves,83,71,785,5363,NA,NA
+1950,BAL,Baltimore Orioles,58,96,684,5163,NA,NA
+1950,BOS,Boston Red Sox,94,60,1027,5516,NA,NA
+1950,CHC,Chicago Cubs,64,89,643,5230,NA,NA
+1950,CHW,Chicago White Sox,60,94,625,5260,NA,NA
+1950,CIN,Cincinnati Reds,66,87,654,5253,NA,NA
+1950,CLE,Cleveland Indians,92,62,806,5263,NA,NA
+1950,DET,Detroit Tigers,95,59,837,5381,NA,NA
+1950,LAD,Los Angeles Dodgers,89,65,847,5364,NA,NA
+1950,MIN,Minnesota Twins,67,87,690,5251,NA,NA
+1950,NYY,New York Yankees,98,56,914,5361,NA,NA
+1950,OAK,Oakland Athletics,52,102,670,5212,NA,NA
+1950,PHI,Philadelphia Phillies,91,63,722,5426,NA,NA
+1950,PIT,Pittsburgh Pirates,57,96,681,5327,NA,NA
+1950,SFG,San Francisco Giants,86,68,735,5238,NA,NA
+1950,STL,St. Louis Cardinals,78,75,693,5215,NA,NA
+1951,ATL,Atlanta Braves,76,78,723,5293,NA,NA
+1951,BAL,Baltimore Orioles,52,102,611,5219,NA,NA
+1951,BOS,Boston Red Sox,87,67,804,5378,NA,NA
+1951,CHC,Chicago Cubs,62,92,614,5307,NA,NA
+1951,CHW,Chicago White Sox,81,73,714,5378,NA,NA
+1951,CIN,Cincinnati Reds,68,86,559,5285,NA,NA
+1951,CLE,Cleveland Indians,93,61,696,5250,NA,NA
+1951,DET,Detroit Tigers,73,81,685,5336,NA,NA
+1951,LAD,Los Angeles Dodgers,97,60,855,5492,NA,NA
+1951,MIN,Minnesota Twins,62,92,672,5329,NA,NA
+1951,NYY,New York Yankees,98,56,798,5194,NA,NA
+1951,OAK,Oakland Athletics,70,84,736,5277,NA,NA
+1951,PHI,Philadelphia Phillies,73,81,648,5332,NA,NA
+1951,PIT,Pittsburgh Pirates,64,90,689,5318,NA,NA
+1951,SFG,San Francisco Giants,98,59,781,5360,NA,NA
+1951,STL,St. Louis Cardinals,81,73,683,5317,NA,NA
+1952,ATL,Atlanta Braves,64,89,569,5221,NA,NA
+1952,BAL,Baltimore Orioles,64,90,604,5353,NA,NA
+1952,BOS,Boston Red Sox,76,78,668,5246,NA,NA
+1952,CHC,Chicago Cubs,77,77,628,5330,NA,NA
+1952,CHW,Chicago White Sox,81,73,610,5316,NA,NA
+1952,CIN,Cincinnati Reds,69,85,615,5234,NA,NA
+1952,CLE,Cleveland Indians,93,61,763,5330,NA,NA
+1952,DET,Detroit Tigers,50,104,557,5258,NA,NA
+1952,LAD,Los Angeles Dodgers,96,57,775,5266,NA,NA
+1952,MIN,Minnesota Twins,78,76,598,5357,NA,NA
+1952,NYY,New York Yankees,95,59,727,5294,NA,NA
+1952,OAK,Oakland Athletics,79,75,664,5163,NA,NA
+1952,PHI,Philadelphia Phillies,87,67,657,5205,NA,NA
+1952,PIT,Pittsburgh Pirates,42,112,515,5193,NA,NA
+1952,SFG,San Francisco Giants,92,62,722,5229,NA,NA
+1952,STL,St. Louis Cardinals,88,66,677,5200,NA,NA
+1953,ATL,Atlanta Braves,92,62,738,5349,NA,NA
+1953,BAL,Baltimore Orioles,54,100,555,5264,NA,NA
+1953,BOS,Boston Red Sox,84,69,656,5246,NA,NA
+1953,CHC,Chicago Cubs,65,89,633,5272,NA,NA
+1953,CHW,Chicago White Sox,89,65,716,5212,NA,NA
+1953,CIN,Cincinnati Reds,68,86,714,5343,NA,NA
+1953,CLE,Cleveland Indians,92,62,770,5285,NA,NA
+1953,DET,Detroit Tigers,60,94,695,5553,NA,NA
+1953,LAD,Los Angeles Dodgers,105,49,955,5373,NA,NA
+1953,MIN,Minnesota Twins,76,76,687,5149,NA,NA
+1953,NYY,New York Yankees,99,52,801,5194,NA,NA
+1953,OAK,Oakland Athletics,59,95,632,5455,NA,NA
+1953,PHI,Philadelphia Phillies,83,71,716,5290,NA,NA
+1953,PIT,Pittsburgh Pirates,50,104,622,5253,NA,NA
+1953,SFG,San Francisco Giants,70,84,768,5362,NA,NA
+1953,STL,St. Louis Cardinals,83,71,768,5397,NA,NA
+1954,ATL,Atlanta Braves,89,65,670,5261,NA,NA
+1954,BAL,Baltimore Orioles,54,100,483,5206,NA,NA
+1954,BOS,Boston Red Sox,69,85,700,5399,NA,NA
+1954,CHC,Chicago Cubs,64,90,700,5359,NA,NA
+1954,CHW,Chicago White Sox,94,60,711,5168,NA,NA
+1954,CIN,Cincinnati Reds,74,80,729,5234,NA,NA
+1954,CLE,Cleveland Indians,111,43,746,5222,NA,NA
+1954,DET,Detroit Tigers,68,86,584,5233,NA,NA
+1954,LAD,Los Angeles Dodgers,92,62,778,5251,NA,NA
+1954,MIN,Minnesota Twins,66,88,632,5249,NA,NA
+1954,NYY,New York Yankees,103,51,805,5226,NA,NA
+1954,OAK,Oakland Athletics,51,103,542,5206,NA,NA
+1954,PHI,Philadelphia Phillies,75,79,659,5184,NA,NA
+1954,PIT,Pittsburgh Pirates,53,101,557,5088,NA,NA
+1954,SFG,San Francisco Giants,97,57,732,5245,NA,NA
+1954,STL,St. Louis Cardinals,72,82,799,5405,NA,NA
+1955,ATL,Atlanta Braves,85,69,743,5277,NA,NA
+1955,BAL,Baltimore Orioles,57,97,540,5257,NA,NA
+1955,BOS,Boston Red Sox,84,70,755,5273,NA,NA
+1955,CHC,Chicago Cubs,72,81,626,5214,NA,NA
+1955,CHW,Chicago White Sox,91,63,725,5220,NA,NA
+1955,CIN,Cincinnati Reds,75,79,761,5270,NA,NA
+1955,CLE,Cleveland Indians,93,61,698,5146,NA,NA
+1955,DET,Detroit Tigers,79,75,775,5283,NA,NA
+1955,LAD,Los Angeles Dodgers,98,55,857,5193,NA,NA
+1955,MIN,Minnesota Twins,53,101,598,5142,NA,NA
+1955,NYY,New York Yankees,96,58,762,5161,NA,NA
+1955,OAK,Oakland Athletics,63,91,638,5335,NA,NA
+1955,PHI,Philadelphia Phillies,77,77,675,5092,NA,NA
+1955,PIT,Pittsburgh Pirates,60,94,560,5173,NA,NA
+1955,SFG,San Francisco Giants,80,74,702,5288,NA,NA
+1955,STL,St. Louis Cardinals,68,86,654,5266,NA,NA
+1956,ATL,Atlanta Braves,92,62,709,5207,NA,NA
+1956,BAL,Baltimore Orioles,69,85,571,5090,NA,NA
+1956,BOS,Boston Red Sox,84,70,780,5349,NA,NA
+1956,CHC,Chicago Cubs,60,94,597,5260,NA,NA
+1956,CHW,Chicago White Sox,85,69,776,5286,NA,NA
+1956,CIN,Cincinnati Reds,91,63,775,5291,NA,NA
+1956,CLE,Cleveland Indians,88,66,712,5148,NA,NA
+1956,DET,Detroit Tigers,82,72,789,5364,NA,NA
+1956,LAD,Los Angeles Dodgers,93,61,720,5098,NA,NA
+1956,MIN,Minnesota Twins,59,95,652,5202,NA,NA
+1956,NYY,New York Yankees,97,57,857,5312,NA,NA
+1956,OAK,Oakland Athletics,52,102,619,5256,NA,NA
+1956,PHI,Philadelphia Phillies,71,83,668,5204,NA,NA
+1956,PIT,Pittsburgh Pirates,66,88,588,5221,NA,NA
+1956,SFG,San Francisco Giants,67,87,540,5190,NA,NA
+1956,STL,St. Louis Cardinals,76,78,678,5378,NA,NA
+1957,ATL,Atlanta Braves,95,59,772,5458,NA,NA
+1957,BAL,Baltimore Orioles,76,76,597,5264,NA,NA
+1957,BOS,Boston Red Sox,82,72,721,5267,NA,NA
+1957,CHC,Chicago Cubs,62,92,628,5369,NA,NA
+1957,CHW,Chicago White Sox,90,64,707,5265,NA,NA
+1957,CIN,Cincinnati Reds,80,74,747,5389,NA,NA
+1957,CLE,Cleveland Indians,76,77,682,5171,NA,NA
+1957,DET,Detroit Tigers,78,76,614,5348,NA,NA
+1957,LAD,Los Angeles Dodgers,84,70,690,5242,NA,NA
+1957,MIN,Minnesota Twins,55,99,603,5231,NA,NA
+1957,NYY,New York Yankees,98,56,723,5271,NA,NA
+1957,OAK,Oakland Athletics,59,94,563,5170,NA,NA
+1957,PHI,Philadelphia Phillies,77,77,623,5241,NA,NA
+1957,PIT,Pittsburgh Pirates,62,92,586,5402,NA,NA
+1957,SFG,San Francisco Giants,69,85,643,5346,NA,NA
+1957,STL,St. Louis Cardinals,87,67,737,5472,NA,NA
+1958,ATL,Atlanta Braves,92,62,675,5225,NA,NA
+1958,BAL,Baltimore Orioles,74,79,521,5111,NA,NA
+1958,BOS,Boston Red Sox,79,75,697,5218,NA,NA
+1958,CHC,Chicago Cubs,72,82,709,5289,NA,NA
+1958,CHW,Chicago White Sox,82,72,634,5249,NA,NA
+1958,CIN,Cincinnati Reds,76,78,695,5273,NA,NA
+1958,CLE,Cleveland Indians,77,76,694,5201,NA,NA
+1958,DET,Detroit Tigers,77,77,659,5194,NA,NA
+1958,LAD,Los Angeles Dodgers,71,83,668,5173,NA,NA
+1958,MIN,Minnesota Twins,61,93,553,5156,NA,NA
+1958,NYY,New York Yankees,92,62,759,5294,NA,NA
+1958,OAK,Oakland Athletics,73,81,642,5261,NA,NA
+1958,PHI,Philadelphia Phillies,69,85,664,5363,NA,NA
+1958,PIT,Pittsburgh Pirates,84,70,662,5247,NA,NA
+1958,SFG,San Francisco Giants,80,74,727,5318,NA,NA
+1958,STL,St. Louis Cardinals,72,82,619,5255,NA,NA
+1959,ATL,Atlanta Braves,86,70,724,5388,NA,NA
+1959,BAL,Baltimore Orioles,74,80,551,5208,NA,NA
+1959,BOS,Boston Red Sox,75,79,726,5225,NA,NA
+1959,CHC,Chicago Cubs,74,80,673,5296,NA,NA
+1959,CHW,Chicago White Sox,94,60,669,5297,NA,NA
+1959,CIN,Cincinnati Reds,74,80,764,5288,NA,NA
+1959,CLE,Cleveland Indians,89,65,745,5288,NA,NA
+1959,DET,Detroit Tigers,76,78,713,5211,NA,NA
+1959,LAD,Los Angeles Dodgers,88,68,705,5282,NA,NA
+1959,MIN,Minnesota Twins,63,91,619,5092,NA,NA
+1959,NYY,New York Yankees,79,75,687,5379,NA,NA
+1959,OAK,Oakland Athletics,66,88,681,5264,NA,NA
+1959,PHI,Philadelphia Phillies,64,90,599,5109,NA,NA
+1959,PIT,Pittsburgh Pirates,78,76,651,5369,NA,NA
+1959,SFG,San Francisco Giants,83,71,705,5281,NA,NA
+1959,STL,St. Louis Cardinals,71,83,641,5317,NA,NA
+1960,ATL,Atlanta Braves,88,66,724,5263,NA,NA
+1960,BAL,Baltimore Orioles,89,65,682,5170,NA,NA
+1960,BOS,Boston Red Sox,65,89,658,5215,NA,NA
+1960,CHC,Chicago Cubs,60,94,634,5311,NA,NA
+1960,CHW,Chicago White Sox,87,67,741,5191,NA,NA
+1960,CIN,Cincinnati Reds,67,87,640,5289,NA,NA
+1960,CLE,Cleveland Indians,76,78,667,5296,NA,NA
+1960,DET,Detroit Tigers,71,83,633,5202,NA,NA
+1960,LAD,Los Angeles Dodgers,82,72,662,5227,NA,NA
+1960,MIN,Minnesota Twins,73,81,672,5248,NA,NA
+1960,NYY,New York Yankees,97,57,746,5290,NA,NA
+1960,OAK,Oakland Athletics,58,96,615,5226,NA,NA
+1960,PHI,Philadelphia Phillies,59,95,546,5169,NA,NA
+1960,PIT,Pittsburgh Pirates,95,59,734,5406,NA,NA
+1960,SFG,San Francisco Giants,79,75,671,5324,NA,NA
+1960,STL,St. Louis Cardinals,86,68,639,5187,NA,NA
+1961,ANA,Los Angeles Angels of Anaheim,70,91,744,5424,NA,NA
+1961,ATL,Atlanta Braves,83,71,712,5288,NA,NA
+1961,BAL,Baltimore Orioles,95,67,691,5481,NA,NA
+1961,BOS,Boston Red Sox,76,86,729,5508,NA,NA
+1961,CHC,Chicago Cubs,64,90,689,5344,NA,NA
+1961,CHW,Chicago White Sox,86,76,765,5556,NA,NA
+1961,CIN,Cincinnati Reds,93,61,710,5243,NA,NA
+1961,CLE,Cleveland Indians,78,83,737,5609,NA,NA
+1961,DET,Detroit Tigers,101,61,841,5561,NA,NA
+1961,LAD,Los Angeles Dodgers,89,65,735,5189,NA,NA
+1961,MIN,Minnesota Twins,70,90,707,5417,NA,NA
+1961,NYY,New York Yankees,109,53,827,5559,NA,NA
+1961,OAK,Oakland Athletics,61,100,683,5423,NA,NA
+1961,PHI,Philadelphia Phillies,47,107,584,5213,NA,NA
+1961,PIT,Pittsburgh Pirates,75,79,694,5311,NA,NA
+1961,SFG,San Francisco Giants,85,69,773,5233,NA,NA
+1961,STL,St. Louis Cardinals,80,74,703,5307,NA,NA
+1961,TEX,Texas Rangers,61,100,618,5366,NA,NA
+1962,ANA,Los Angeles Angels of Anaheim,86,76,718,5499,NA,NA
+1962,ATL,Atlanta Braves,86,76,730,5458,NA,NA
+1962,BAL,Baltimore Orioles,77,85,652,5491,NA,NA
+1962,BOS,Boston Red Sox,76,84,707,5530,NA,NA
+1962,CHC,Chicago Cubs,59,103,632,5534,NA,NA
+1962,CHW,Chicago White Sox,85,77,707,5514,NA,NA
+1962,CIN,Cincinnati Reds,98,64,802,5645,NA,NA
+1962,CLE,Cleveland Indians,80,82,682,5484,NA,NA
+1962,DET,Detroit Tigers,85,76,758,5456,NA,NA
+1962,HOU,Houston Astros,64,96,592,5558,NA,NA
+1962,LAD,Los Angeles Dodgers,102,63,842,5628,NA,NA
+1962,MIN,Minnesota Twins,91,71,798,5561,NA,NA
+1962,NYM,New York Mets,40,120,617,5492,NA,NA
+1962,NYY,New York Yankees,96,66,817,5644,NA,NA
+1962,OAK,Oakland Athletics,72,90,745,5576,NA,NA
+1962,PHI,Philadelphia Phillies,81,80,705,5420,NA,NA
+1962,PIT,Pittsburgh Pirates,93,68,706,5483,NA,NA
+1962,SFG,San Francisco Giants,103,62,878,5588,NA,NA
+1962,STL,St. Louis Cardinals,84,78,774,5643,NA,NA
+1962,TEX,Texas Rangers,60,101,599,5484,NA,NA
+1963,ANA,Los Angeles Angels of Anaheim,70,91,597,5506,NA,NA
+1963,ATL,Atlanta Braves,84,78,677,5518,NA,NA
+1963,BAL,Baltimore Orioles,86,76,644,5448,NA,NA
+1963,BOS,Boston Red Sox,76,85,666,5575,NA,NA
+1963,CHC,Chicago Cubs,82,80,570,5404,NA,NA
+1963,CHW,Chicago White Sox,94,68,683,5508,NA,NA
+1963,CIN,Cincinnati Reds,86,76,648,5416,NA,NA
+1963,CLE,Cleveland Indians,79,83,635,5496,NA,NA
+1963,DET,Detroit Tigers,79,83,700,5500,NA,NA
+1963,HOU,Houston Astros,66,96,464,5384,NA,NA
+1963,LAD,Los Angeles Dodgers,99,63,640,5428,NA,NA
+1963,MIN,Minnesota Twins,91,70,767,5531,NA,NA
+1963,NYM,New York Mets,51,111,501,5336,NA,NA
+1963,NYY,New York Yankees,104,57,714,5506,NA,NA
+1963,OAK,Oakland Athletics,73,89,615,5495,NA,NA
+1963,PHI,Philadelphia Phillies,87,75,642,5524,NA,NA
+1963,PIT,Pittsburgh Pirates,74,88,567,5536,NA,NA
+1963,SFG,San Francisco Giants,88,74,725,5579,NA,NA
+1963,STL,St. Louis Cardinals,93,69,747,5678,NA,NA
+1963,TEX,Texas Rangers,56,106,578,5446,NA,NA
+1964,ANA,Los Angeles Angels of Anaheim,82,80,544,5362,NA,NA
+1964,ATL,Atlanta Braves,88,74,803,5591,NA,NA
+1964,BAL,Baltimore Orioles,97,65,679,5463,NA,NA
+1964,BOS,Boston Red Sox,72,90,688,5513,NA,NA
+1964,CHC,Chicago Cubs,76,86,649,5545,NA,NA
+1964,CHW,Chicago White Sox,98,64,642,5491,NA,NA
+1964,CIN,Cincinnati Reds,92,70,660,5561,NA,NA
+1964,CLE,Cleveland Indians,79,83,689,5603,NA,NA
+1964,DET,Detroit Tigers,85,77,699,5513,NA,NA
+1964,HOU,Houston Astros,66,96,495,5303,NA,NA
+1964,LAD,Los Angeles Dodgers,80,82,614,5499,NA,NA
+1964,MIN,Minnesota Twins,79,83,737,5610,NA,NA
+1964,NYM,New York Mets,53,109,569,5566,NA,NA
+1964,NYY,New York Yankees,99,63,730,5705,NA,NA
+1964,OAK,Oakland Athletics,57,105,621,5524,NA,NA
+1964,PHI,Philadelphia Phillies,92,70,693,5493,NA,NA
+1964,PIT,Pittsburgh Pirates,80,82,663,5566,NA,NA
+1964,SFG,San Francisco Giants,90,72,656,5535,NA,NA
+1964,STL,St. Louis Cardinals,93,69,715,5625,NA,NA
+1964,TEX,Texas Rangers,62,100,578,5396,NA,NA
+1965,ANA,Los Angeles Angels of Anaheim,75,87,527,5354,NA,NA
+1965,ATL,Atlanta Braves,86,76,708,5542,NA,NA
+1965,BAL,Baltimore Orioles,94,68,641,5450,NA,NA
+1965,BOS,Boston Red Sox,62,100,669,5487,NA,NA
+1965,CHC,Chicago Cubs,72,90,635,5540,NA,NA
+1965,CHW,Chicago White Sox,95,67,647,5509,NA,NA
+1965,CIN,Cincinnati Reds,89,73,825,5658,NA,NA
+1965,CLE,Cleveland Indians,87,75,663,5469,NA,NA
+1965,DET,Detroit Tigers,89,73,680,5368,NA,NA
+1965,HOU,Houston Astros,65,97,569,5483,NA,NA
+1965,LAD,Los Angeles Dodgers,97,65,608,5425,NA,NA
+1965,MIN,Minnesota Twins,102,60,774,5488,NA,NA
+1965,NYM,New York Mets,50,112,495,5441,NA,NA
+1965,NYY,New York Yankees,77,85,611,5470,NA,NA
+1965,OAK,Oakland Athletics,59,103,585,5393,NA,NA
+1965,PHI,Philadelphia Phillies,85,76,654,5528,NA,NA
+1965,PIT,Pittsburgh Pirates,90,72,675,5686,NA,NA
+1965,SFG,San Francisco Giants,95,67,682,5495,NA,NA
+1965,STL,St. Louis Cardinals,80,81,707,5579,NA,NA
+1965,TEX,Texas Rangers,70,92,591,5374,NA,NA
+1966,ANA,Los Angeles Angels of Anaheim,80,82,604,5360,NA,NA
+1966,ATL,Atlanta Braves,85,77,782,5617,NA,NA
+1966,BAL,Baltimore Orioles,97,63,755,5529,NA,NA
+1966,BOS,Boston Red Sox,72,90,655,5498,NA,NA
+1966,CHC,Chicago Cubs,59,103,644,5592,NA,NA
+1966,CHW,Chicago White Sox,83,79,574,5348,NA,NA
+1966,CIN,Cincinnati Reds,76,84,692,5521,NA,NA
+1966,CLE,Cleveland Indians,81,81,574,5474,NA,NA
+1966,DET,Detroit Tigers,88,74,719,5507,NA,NA
+1966,HOU,Houston Astros,72,90,612,5511,NA,NA
+1966,LAD,Los Angeles Dodgers,95,67,606,5471,NA,NA
+1966,MIN,Minnesota Twins,89,73,663,5390,NA,NA
+1966,NYM,New York Mets,66,95,587,5371,NA,NA
+1966,NYY,New York Yankees,70,89,611,5330,NA,NA
+1966,OAK,Oakland Athletics,74,86,564,5328,NA,NA
+1966,PHI,Philadelphia Phillies,87,75,696,5607,NA,NA
+1966,PIT,Pittsburgh Pirates,92,70,759,5676,NA,NA
+1966,SFG,San Francisco Giants,93,68,675,5539,NA,NA
+1966,STL,St. Louis Cardinals,83,79,571,5480,NA,NA
+1966,TEX,Texas Rangers,71,88,557,5318,NA,NA
+1967,ANA,Los Angeles Angels of Anaheim,84,77,567,5307,NA,NA
+1967,ATL,Atlanta Braves,77,85,631,5450,NA,NA
+1967,BAL,Baltimore Orioles,76,85,654,5456,NA,NA
+1967,BOS,Boston Red Sox,92,70,722,5471,NA,NA
+1967,CHC,Chicago Cubs,87,74,702,5463,NA,NA
+1967,CHW,Chicago White Sox,89,73,531,5383,NA,NA
+1967,CIN,Cincinnati Reds,87,75,604,5519,NA,NA
+1967,CLE,Cleveland Indians,75,87,559,5461,NA,NA
+1967,DET,Detroit Tigers,91,71,683,5410,NA,NA
+1967,HOU,Houston Astros,69,93,626,5506,NA,NA
+1967,LAD,Los Angeles Dodgers,73,89,519,5456,NA,NA
+1967,MIN,Minnesota Twins,91,71,671,5458,NA,NA
+1967,NYM,New York Mets,61,101,498,5417,NA,NA
+1967,NYY,New York Yankees,72,90,522,5443,NA,NA
+1967,OAK,Oakland Athletics,62,99,533,5349,NA,NA
+1967,PHI,Philadelphia Phillies,82,80,612,5401,NA,NA
+1967,PIT,Pittsburgh Pirates,81,81,679,5724,NA,NA
+1967,SFG,San Francisco Giants,91,71,652,5524,NA,NA
+1967,STL,St. Louis Cardinals,101,60,695,5566,NA,NA
+1967,TEX,Texas Rangers,76,85,550,5441,NA,NA
+1968,ANA,Los Angeles Angels of Anaheim,67,95,498,5331,NA,NA
+1968,ATL,Atlanta Braves,81,81,514,5552,NA,NA
+1968,BAL,Baltimore Orioles,91,71,579,5275,NA,NA
+1968,BOS,Boston Red Sox,86,76,614,5303,NA,NA
+1968,CHC,Chicago Cubs,84,78,612,5458,NA,NA
+1968,CHW,Chicago White Sox,67,95,463,5405,NA,NA
+1968,CIN,Cincinnati Reds,83,79,690,5767,NA,NA
+1968,CLE,Cleveland Indians,86,75,516,5416,NA,NA
+1968,DET,Detroit Tigers,103,59,671,5490,NA,NA
+1968,HOU,Houston Astros,72,90,510,5336,NA,NA
+1968,LAD,Los Angeles Dodgers,76,86,470,5354,NA,NA
+1968,MIN,Minnesota Twins,79,83,562,5373,NA,NA
+1968,NYM,New York Mets,73,89,473,5503,NA,NA
+1968,NYY,New York Yankees,83,79,536,5310,NA,NA
+1968,OAK,Oakland Athletics,82,80,569,5406,NA,NA
+1968,PHI,Philadelphia Phillies,76,86,543,5372,NA,NA
+1968,PIT,Pittsburgh Pirates,80,82,583,5569,NA,NA
+1968,SFG,San Francisco Giants,88,74,599,5441,NA,NA
+1968,STL,St. Louis Cardinals,97,65,583,5561,NA,NA
+1968,TEX,Texas Rangers,65,96,524,5400,NA,NA
+1969,ANA,Los Angeles Angels of Anaheim,71,91,528,5316,NA,NA
+1969,ATL,Atlanta Braves,93,69,691,5460,NA,NA
+1969,BAL,Baltimore Orioles,109,53,779,5518,NA,NA
+1969,BOS,Boston Red Sox,87,75,743,5494,NA,NA
+1969,CHC,Chicago Cubs,92,70,720,5530,NA,NA
+1969,CHW,Chicago White Sox,68,94,625,5450,NA,NA
+1969,CIN,Cincinnati Reds,89,73,798,5634,NA,NA
+1969,CLE,Cleveland Indians,62,99,573,5365,NA,NA
+1969,DET,Detroit Tigers,90,72,701,5441,NA,NA
+1969,HOU,Houston Astros,81,81,676,5348,NA,NA
+1969,KCR,Kansas City Royals,69,93,586,5462,NA,NA
+1969,LAD,Los Angeles Dodgers,85,77,645,5532,NA,NA
+1969,MIL,Milwaukee Brewers,64,98,639,5444,NA,NA
+1969,MIN,Minnesota Twins,97,65,790,5677,NA,NA
+1969,NYM,New York Mets,100,62,632,5427,NA,NA
+1969,NYY,New York Yankees,80,81,562,5308,NA,NA
+1969,OAK,Oakland Athletics,88,74,740,5614,NA,NA
+1969,PHI,Philadelphia Phillies,63,99,645,5408,NA,NA
+1969,PIT,Pittsburgh Pirates,88,74,725,5626,NA,NA
+1969,SDP,San Diego Padres,52,110,468,5357,NA,NA
+1969,SFG,San Francisco Giants,90,72,713,5474,NA,NA
+1969,STL,St. Louis Cardinals,87,75,595,5536,NA,NA
+1969,TEX,Texas Rangers,86,76,694,5447,NA,NA
+1969,WSN,Washington Nationals,52,110,582,5419,NA,NA
+1970,ANA,Los Angeles Angels of Anaheim,86,76,631,5532,NA,NA
+1970,ATL,Atlanta Braves,76,86,736,5546,NA,NA
+1970,BAL,Baltimore Orioles,108,54,792,5545,NA,NA
+1970,BOS,Boston Red Sox,87,75,786,5535,NA,NA
+1970,CHC,Chicago Cubs,84,78,806,5491,NA,NA
+1970,CHW,Chicago White Sox,56,106,633,5514,NA,NA
+1970,CIN,Cincinnati Reds,102,60,775,5540,NA,NA
+1970,CLE,Cleveland Indians,76,86,649,5463,NA,NA
+1970,DET,Detroit Tigers,79,83,666,5377,NA,NA
+1970,HOU,Houston Astros,79,83,744,5574,NA,NA
+1970,KCR,Kansas City Royals,65,97,611,5503,NA,NA
+1970,LAD,Los Angeles Dodgers,87,74,749,5606,NA,NA
+1970,MIL,Milwaukee Brewers,65,97,613,5395,NA,NA
+1970,MIN,Minnesota Twins,98,64,744,5483,NA,NA
+1970,NYM,New York Mets,83,79,695,5443,NA,NA
+1970,NYY,New York Yankees,93,69,680,5492,NA,NA
+1970,OAK,Oakland Athletics,89,73,678,5376,NA,NA
+1970,PHI,Philadelphia Phillies,73,88,594,5456,NA,NA
+1970,PIT,Pittsburgh Pirates,89,73,729,5637,NA,NA
+1970,SDP,San Diego Padres,63,99,681,5494,NA,NA
+1970,SFG,San Francisco Giants,86,76,831,5578,NA,NA
+1970,STL,St. Louis Cardinals,76,86,744,5689,NA,NA
+1970,TEX,Texas Rangers,70,92,626,5460,NA,NA
+1970,WSN,Washington Nationals,73,89,687,5411,NA,NA
+1971,ANA,Los Angeles Angels of Anaheim,76,86,511,5495,NA,NA
+1971,ATL,Atlanta Braves,82,80,643,5575,NA,NA
+1971,BAL,Baltimore Orioles,101,57,742,5303,NA,NA
+1971,BOS,Boston Red Sox,85,77,691,5401,NA,NA
+1971,CHC,Chicago Cubs,83,79,637,5438,NA,NA
+1971,CHW,Chicago White Sox,79,83,617,5382,NA,NA
+1971,CIN,Cincinnati Reds,79,83,586,5414,NA,NA
+1971,CLE,Cleveland Indians,60,102,543,5467,NA,NA
+1971,DET,Detroit Tigers,91,71,701,5502,NA,NA
+1971,HOU,Houston Astros,79,83,585,5492,NA,NA
+1971,KCR,Kansas City Royals,85,76,603,5295,NA,NA
+1971,LAD,Los Angeles Dodgers,89,73,663,5523,NA,NA
+1971,MIL,Milwaukee Brewers,69,92,534,5185,NA,NA
+1971,MIN,Minnesota Twins,74,86,654,5414,NA,NA
+1971,NYM,New York Mets,83,79,588,5477,NA,NA
+1971,NYY,New York Yankees,82,80,648,5413,NA,NA
+1971,OAK,Oakland Athletics,101,60,691,5494,NA,NA
+1971,PHI,Philadelphia Phillies,67,95,558,5538,NA,NA
+1971,PIT,Pittsburgh Pirates,97,65,788,5674,NA,NA
+1971,SDP,San Diego Padres,61,100,486,5366,NA,NA
+1971,SFG,San Francisco Giants,90,72,706,5461,NA,NA
+1971,STL,St. Louis Cardinals,90,72,739,5610,NA,NA
+1971,TEX,Texas Rangers,63,96,537,5290,NA,NA
+1971,WSN,Washington Nationals,71,90,622,5335,NA,NA
+1972,ANA,Los Angeles Angels of Anaheim,75,80,454,5165,NA,NA
+1972,ATL,Atlanta Braves,70,84,628,5278,NA,NA
+1972,BAL,Baltimore Orioles,80,74,519,5028,NA,NA
+1972,BOS,Boston Red Sox,85,70,640,5208,NA,NA
+1972,CHC,Chicago Cubs,85,70,685,5247,NA,NA
+1972,CHW,Chicago White Sox,87,67,566,5083,NA,NA
+1972,CIN,Cincinnati Reds,95,59,707,5241,NA,NA
+1972,CLE,Cleveland Indians,72,84,472,5207,NA,NA
+1972,DET,Detroit Tigers,86,70,558,5099,NA,NA
+1972,HOU,Houston Astros,84,69,708,5267,NA,NA
+1972,KCR,Kansas City Royals,76,78,580,5167,NA,NA
+1972,LAD,Los Angeles Dodgers,85,70,584,5270,NA,NA
+1972,MIL,Milwaukee Brewers,65,91,493,5124,NA,NA
+1972,MIN,Minnesota Twins,77,77,537,5234,NA,NA
+1972,NYM,New York Mets,83,73,528,5135,NA,NA
+1972,NYY,New York Yankees,79,76,557,5168,NA,NA
+1972,OAK,Oakland Athletics,93,62,604,5200,NA,NA
+1972,PHI,Philadelphia Phillies,59,97,503,5248,NA,NA
+1972,PIT,Pittsburgh Pirates,96,59,691,5490,NA,NA
+1972,SDP,San Diego Padres,58,95,488,5213,NA,NA
+1972,SFG,San Francisco Giants,69,86,662,5245,NA,NA
+1972,STL,St. Louis Cardinals,75,81,568,5326,NA,NA
+1972,TEX,Texas Rangers,54,100,461,5029,NA,NA
+1972,WSN,Washington Nationals,70,86,513,5156,NA,NA
+1973,ANA,Los Angeles Angels of Anaheim,79,83,629,5505,NA,NA
+1973,ATL,Atlanta Braves,76,85,799,5631,NA,NA
+1973,BAL,Baltimore Orioles,97,65,754,5537,NA,NA
+1973,BOS,Boston Red Sox,89,73,738,5513,NA,NA
+1973,CHC,Chicago Cubs,77,84,614,5363,NA,NA
+1973,CHW,Chicago White Sox,77,85,652,5475,NA,NA
+1973,CIN,Cincinnati Reds,99,63,741,5505,NA,NA
+1973,CLE,Cleveland Indians,71,91,680,5592,NA,NA
+1973,DET,Detroit Tigers,85,77,642,5508,NA,NA
+1973,HOU,Houston Astros,82,80,681,5532,NA,NA
+1973,KCR,Kansas City Royals,88,74,755,5508,NA,NA
+1973,LAD,Los Angeles Dodgers,95,66,675,5604,NA,NA
+1973,MIL,Milwaukee Brewers,74,88,708,5526,NA,NA
+1973,MIN,Minnesota Twins,81,81,738,5625,NA,NA
+1973,NYM,New York Mets,82,79,608,5457,NA,NA
+1973,NYY,New York Yankees,80,82,641,5492,NA,NA
+1973,OAK,Oakland Athletics,94,68,758,5507,NA,NA
+1973,PHI,Philadelphia Phillies,71,91,642,5546,NA,NA
+1973,PIT,Pittsburgh Pirates,80,82,704,5608,NA,NA
+1973,SDP,San Diego Padres,60,102,548,5457,NA,NA
+1973,SFG,San Francisco Giants,88,74,739,5537,NA,NA
+1973,STL,St. Louis Cardinals,81,81,643,5478,NA,NA
+1973,TEX,Texas Rangers,57,105,619,5488,NA,NA
+1973,WSN,Washington Nationals,79,83,668,5369,NA,NA
+1974,ANA,Los Angeles Angels of Anaheim,68,94,618,5401,NA,NA
+1974,ATL,Atlanta Braves,88,74,661,5533,NA,NA
+1974,BAL,Baltimore Orioles,91,71,659,5535,NA,NA
+1974,BOS,Boston Red Sox,84,78,696,5499,NA,NA
+1974,CHC,Chicago Cubs,66,96,669,5574,NA,NA
+1974,CHW,Chicago White Sox,80,80,684,5577,NA,NA
+1974,CIN,Cincinnati Reds,98,64,776,5535,NA,NA
+1974,CLE,Cleveland Indians,77,85,662,5474,NA,NA
+1974,DET,Detroit Tigers,72,90,620,5568,NA,NA
+1974,HOU,Houston Astros,81,81,653,5489,NA,NA
+1974,KCR,Kansas City Royals,77,85,667,5582,NA,NA
+1974,LAD,Los Angeles Dodgers,102,60,798,5557,NA,NA
+1974,MIL,Milwaukee Brewers,76,86,647,5472,NA,NA
+1974,MIN,Minnesota Twins,82,80,673,5632,NA,NA
+1974,NYM,New York Mets,71,91,572,5468,NA,NA
+1974,NYY,New York Yankees,89,73,671,5524,NA,NA
+1974,OAK,Oakland Athletics,90,72,689,5331,NA,NA
+1974,PHI,Philadelphia Phillies,80,82,676,5494,NA,NA
+1974,PIT,Pittsburgh Pirates,88,74,751,5702,NA,NA
+1974,SDP,San Diego Padres,60,102,541,5415,NA,NA
+1974,SFG,San Francisco Giants,72,90,634,5482,NA,NA
+1974,STL,St. Louis Cardinals,86,75,677,5620,NA,NA
+1974,TEX,Texas Rangers,84,76,690,5449,NA,NA
+1974,WSN,Washington Nationals,79,82,662,5343,NA,NA
+1975,ANA,Los Angeles Angels of Anaheim,72,89,628,5377,NA,NA
+1975,ATL,Atlanta Braves,67,94,583,5424,NA,NA
+1975,BAL,Baltimore Orioles,90,69,682,5474,NA,NA
+1975,BOS,Boston Red Sox,95,65,796,5448,NA,NA
+1975,CHC,Chicago Cubs,75,87,712,5470,NA,NA
+1975,CHW,Chicago White Sox,75,86,655,5490,NA,NA
+1975,CIN,Cincinnati Reds,108,54,840,5581,NA,NA
+1975,CLE,Cleveland Indians,79,80,688,5404,NA,NA
+1975,DET,Detroit Tigers,57,102,570,5366,NA,NA
+1975,HOU,Houston Astros,64,97,664,5515,NA,NA
+1975,KCR,Kansas City Royals,91,71,710,5491,NA,NA
+1975,LAD,Los Angeles Dodgers,88,74,648,5453,NA,NA
+1975,MIL,Milwaukee Brewers,68,94,675,5378,NA,NA
+1975,MIN,Minnesota Twins,76,83,724,5514,NA,NA
+1975,NYM,New York Mets,82,80,646,5587,NA,NA
+1975,NYY,New York Yankees,83,77,681,5415,NA,NA
+1975,OAK,Oakland Athletics,98,64,758,5415,NA,NA
+1975,PHI,Philadelphia Phillies,86,76,735,5592,NA,NA
+1975,PIT,Pittsburgh Pirates,92,69,712,5489,NA,NA
+1975,SDP,San Diego Padres,71,91,552,5429,NA,NA
+1975,SFG,San Francisco Giants,80,81,659,5447,NA,NA
+1975,STL,St. Louis Cardinals,82,80,662,5597,NA,NA
+1975,TEX,Texas Rangers,79,83,714,5599,NA,NA
+1975,WSN,Washington Nationals,75,87,601,5518,NA,NA
+1976,ANA,Los Angeles Angels of Anaheim,76,86,550,5385,NA,NA
+1976,ATL,Atlanta Braves,70,92,620,5345,NA,NA
+1976,BAL,Baltimore Orioles,88,74,619,5457,NA,NA
+1976,BOS,Boston Red Sox,83,79,716,5511,NA,NA
+1976,CHC,Chicago Cubs,75,87,611,5519,NA,NA
+1976,CHW,Chicago White Sox,64,97,586,5532,NA,NA
+1976,CIN,Cincinnati Reds,102,60,857,5702,NA,NA
+1976,CLE,Cleveland Indians,81,78,615,5412,NA,NA
+1976,DET,Detroit Tigers,74,87,609,5441,NA,NA
+1976,HOU,Houston Astros,80,82,625,5464,NA,NA
+1976,KCR,Kansas City Royals,90,72,713,5540,NA,NA
+1976,LAD,Los Angeles Dodgers,92,70,608,5472,NA,NA
+1976,MIL,Milwaukee Brewers,66,95,570,5396,NA,NA
+1976,MIN,Minnesota Twins,85,77,743,5574,NA,NA
+1976,NYM,New York Mets,86,76,615,5415,NA,NA
+1976,NYY,New York Yankees,97,62,730,5555,NA,NA
+1976,OAK,Oakland Athletics,87,74,686,5353,NA,NA
+1976,PHI,Philadelphia Phillies,101,61,770,5528,NA,NA
+1976,PIT,Pittsburgh Pirates,92,70,708,5604,NA,NA
+1976,SDP,San Diego Padres,73,89,570,5369,NA,NA
+1976,SFG,San Francisco Giants,74,88,595,5452,NA,NA
+1976,STL,St. Louis Cardinals,72,90,629,5516,NA,NA
+1976,TEX,Texas Rangers,76,86,616,5555,NA,NA
+1976,WSN,Washington Nationals,55,107,531,5428,NA,NA
+1977,ANA,Los Angeles Angels of Anaheim,74,88,675,5410,NA,NA
+1977,ATL,Atlanta Braves,61,101,678,5534,NA,NA
+1977,BAL,Baltimore Orioles,97,64,719,5494,NA,NA
+1977,BOS,Boston Red Sox,97,64,859,5510,NA,NA
+1977,CHC,Chicago Cubs,81,81,692,5604,NA,NA
+1977,CHW,Chicago White Sox,90,72,844,5633,NA,NA
+1977,CIN,Cincinnati Reds,88,74,802,5524,NA,NA
+1977,CLE,Cleveland Indians,71,90,676,5491,NA,NA
+1977,DET,Detroit Tigers,74,88,714,5604,NA,NA
+1977,HOU,Houston Astros,81,81,680,5530,NA,NA
+1977,KCR,Kansas City Royals,102,60,822,5594,NA,NA
+1977,LAD,Los Angeles Dodgers,98,64,769,5589,NA,NA
+1977,MIL,Milwaukee Brewers,67,95,639,5517,NA,NA
+1977,MIN,Minnesota Twins,84,77,867,5639,NA,NA
+1977,NYM,New York Mets,64,98,587,5410,NA,NA
+1977,NYY,New York Yankees,100,62,831,5605,NA,NA
+1977,OAK,Oakland Athletics,63,98,605,5358,NA,NA
+1977,PHI,Philadelphia Phillies,101,61,847,5546,NA,NA
+1977,PIT,Pittsburgh Pirates,96,66,734,5662,NA,NA
+1977,SDP,San Diego Padres,69,93,692,5602,NA,NA
+1977,SEA,Seattle Mariners,64,98,624,5460,NA,NA
+1977,SFG,San Francisco Giants,75,87,673,5497,NA,NA
+1977,STL,St. Louis Cardinals,83,79,737,5527,NA,NA
+1977,TEX,Texas Rangers,94,68,767,5541,NA,NA
+1977,TOR,Toronto Blue Jays,54,107,605,5418,NA,NA
+1977,WSN,Washington Nationals,75,87,665,5675,NA,NA
+1978,ANA,Los Angeles Angels of Anaheim,87,75,691,5472,NA,NA
+1978,ATL,Atlanta Braves,69,93,600,5381,NA,NA
+1978,BAL,Baltimore Orioles,90,71,659,5422,NA,NA
+1978,BOS,Boston Red Sox,99,64,796,5587,NA,NA
+1978,CHC,Chicago Cubs,79,83,664,5532,NA,NA
+1978,CHW,Chicago White Sox,71,90,634,5393,NA,NA
+1978,CIN,Cincinnati Reds,92,69,710,5392,NA,NA
+1978,CLE,Cleveland Indians,69,90,639,5365,NA,NA
+1978,DET,Detroit Tigers,86,76,714,5601,NA,NA
+1978,HOU,Houston Astros,74,88,605,5458,NA,NA
+1978,KCR,Kansas City Royals,92,70,743,5474,NA,NA
+1978,LAD,Los Angeles Dodgers,95,67,727,5437,NA,NA
+1978,MIL,Milwaukee Brewers,93,69,804,5536,NA,NA
+1978,MIN,Minnesota Twins,73,89,666,5522,NA,NA
+1978,NYM,New York Mets,66,96,607,5433,NA,NA
+1978,NYY,New York Yankees,100,63,735,5583,NA,NA
+1978,OAK,Oakland Athletics,69,93,532,5321,NA,NA
+1978,PHI,Philadelphia Phillies,90,72,708,5448,NA,NA
+1978,PIT,Pittsburgh Pirates,88,73,684,5406,NA,NA
+1978,SDP,San Diego Padres,84,78,591,5360,NA,NA
+1978,SEA,Seattle Mariners,56,104,614,5358,NA,NA
+1978,SFG,San Francisco Giants,89,73,613,5364,NA,NA
+1978,STL,St. Louis Cardinals,69,93,600,5415,NA,NA
+1978,TEX,Texas Rangers,87,75,692,5347,NA,NA
+1978,TOR,Toronto Blue Jays,59,102,590,5430,NA,NA
+1978,WSN,Washington Nationals,76,86,633,5530,NA,NA
+1979,ANA,Los Angeles Angels of Anaheim,88,74,866,5550,NA,NA
+1979,ATL,Atlanta Braves,66,94,669,5422,NA,NA
+1979,BAL,Baltimore Orioles,102,57,757,5371,NA,NA
+1979,BOS,Boston Red Sox,91,69,841,5538,NA,NA
+1979,CHC,Chicago Cubs,80,82,706,5550,NA,NA
+1979,CHW,Chicago White Sox,73,87,730,5463,NA,NA
+1979,CIN,Cincinnati Reds,90,71,731,5477,NA,NA
+1979,CLE,Cleveland Indians,81,80,760,5376,NA,NA
+1979,DET,Detroit Tigers,85,76,770,5375,NA,NA
+1979,HOU,Houston Astros,89,73,583,5394,NA,NA
+1979,KCR,Kansas City Royals,85,77,851,5653,NA,NA
+1979,LAD,Los Angeles Dodgers,79,83,739,5490,NA,NA
+1979,MIL,Milwaukee Brewers,95,66,807,5536,NA,NA
+1979,MIN,Minnesota Twins,82,80,764,5544,NA,NA
+1979,NYM,New York Mets,63,99,593,5591,NA,NA
+1979,NYY,New York Yankees,89,71,734,5421,NA,NA
+1979,OAK,Oakland Athletics,54,108,573,5348,NA,NA
+1979,PHI,Philadelphia Phillies,84,78,683,5463,NA,NA
+1979,PIT,Pittsburgh Pirates,98,64,775,5661,NA,NA
+1979,SDP,San Diego Padres,68,93,603,5446,NA,NA
+1979,SEA,Seattle Mariners,67,95,711,5544,NA,NA
+1979,SFG,San Francisco Giants,71,91,672,5395,NA,NA
+1979,STL,St. Louis Cardinals,86,76,731,5734,NA,NA
+1979,TEX,Texas Rangers,83,79,750,5562,NA,NA
+1979,TOR,Toronto Blue Jays,53,109,613,5423,NA,NA
+1979,WSN,Washington Nationals,95,65,701,5465,NA,NA
+1980,ANA,Los Angeles Angels of Anaheim,65,95,698,5443,NA,NA
+1980,ATL,Atlanta Braves,81,80,630,5402,NA,NA
+1980,BAL,Baltimore Orioles,100,62,805,5585,NA,NA
+1980,BOS,Boston Red Sox,83,77,757,5603,NA,NA
+1980,CHC,Chicago Cubs,64,98,614,5619,NA,NA
+1980,CHW,Chicago White Sox,70,90,587,5444,NA,NA
+1980,CIN,Cincinnati Reds,89,73,707,5516,NA,NA
+1980,CLE,Cleveland Indians,79,81,738,5470,NA,NA
+1980,DET,Detroit Tigers,84,78,830,5648,NA,NA
+1980,HOU,Houston Astros,93,70,637,5566,NA,NA
+1980,KCR,Kansas City Royals,97,65,809,5714,NA,NA
+1980,LAD,Los Angeles Dodgers,92,71,663,5568,NA,NA
+1980,MIL,Milwaukee Brewers,86,76,811,5653,NA,NA
+1980,MIN,Minnesota Twins,77,84,670,5530,NA,NA
+1980,NYM,New York Mets,67,95,611,5478,NA,NA
+1980,NYY,New York Yankees,103,59,820,5553,NA,NA
+1980,OAK,Oakland Athletics,83,79,686,5495,NA,NA
+1980,PHI,Philadelphia Phillies,91,71,728,5625,NA,NA
+1980,PIT,Pittsburgh Pirates,83,79,666,5517,NA,NA
+1980,SDP,San Diego Padres,73,89,591,5540,NA,NA
+1980,SEA,Seattle Mariners,59,103,610,5489,NA,NA
+1980,SFG,San Francisco Giants,75,86,573,5368,NA,NA
+1980,STL,St. Louis Cardinals,74,88,738,5608,NA,NA
+1980,TEX,Texas Rangers,76,85,756,5690,NA,NA
+1980,TOR,Toronto Blue Jays,67,95,624,5571,NA,NA
+1980,WSN,Washington Nationals,90,72,694,5465,NA,NA
+1981,ANA,Los Angeles Angels of Anaheim,51,59,476,3688,NA,NA
+1981,ATL,Atlanta Braves,50,56,395,3642,NA,NA
+1981,BAL,Baltimore Orioles,59,46,429,3516,NA,NA
+1981,BOS,Boston Red Sox,59,49,519,3820,NA,NA
+1981,CHC,Chicago Cubs,38,65,370,3546,NA,NA
+1981,CHW,Chicago White Sox,54,52,476,3615,NA,NA
+1981,CIN,Cincinnati Reds,66,42,464,3637,NA,NA
+1981,CLE,Cleveland Indians,52,51,431,3507,NA,NA
+1981,DET,Detroit Tigers,60,49,427,3600,NA,NA
+1981,HOU,Houston Astros,61,49,394,3693,NA,NA
+1981,KCR,Kansas City Royals,50,53,397,3560,NA,NA
+1981,LAD,Los Angeles Dodgers,63,47,450,3751,NA,NA
+1981,MIL,Milwaukee Brewers,62,47,493,3743,NA,NA
+1981,MIN,Minnesota Twins,41,68,378,3676,NA,NA
+1981,NYM,New York Mets,41,62,348,3493,NA,NA
+1981,NYY,New York Yankees,59,48,421,3529,NA,NA
+1981,OAK,Oakland Athletics,64,45,458,3677,NA,NA
+1981,PHI,Philadelphia Phillies,59,48,491,3665,NA,NA
+1981,PIT,Pittsburgh Pirates,46,56,407,3576,NA,NA
+1981,SDP,San Diego Padres,41,69,382,3757,NA,NA
+1981,SEA,Seattle Mariners,44,65,426,3780,NA,NA
+1981,SFG,San Francisco Giants,56,55,427,3766,NA,NA
+1981,STL,St. Louis Cardinals,59,43,464,3537,NA,NA
+1981,TEX,Texas Rangers,57,48,452,3581,NA,NA
+1981,TOR,Toronto Blue Jays,37,69,329,3521,NA,NA
+1981,WSN,Washington Nationals,60,48,443,3591,NA,NA
+1982,ANA,Los Angeles Angels of Anaheim,93,69,814,5532,NA,NA
+1982,ATL,Atlanta Braves,89,73,739,5507,NA,NA
+1982,BAL,Baltimore Orioles,94,68,774,5557,NA,NA
+1982,BOS,Boston Red Sox,89,73,753,5596,NA,NA
+1982,CHC,Chicago Cubs,73,89,676,5531,NA,NA
+1982,CHW,Chicago White Sox,87,75,786,5575,NA,NA
+1982,CIN,Cincinnati Reds,61,101,545,5479,NA,NA
+1982,CLE,Cleveland Indians,78,84,683,5559,NA,NA
+1982,DET,Detroit Tigers,83,79,729,5590,NA,NA
+1982,HOU,Houston Astros,77,85,569,5440,NA,NA
+1982,KCR,Kansas City Royals,90,72,784,5629,NA,NA
+1982,LAD,Los Angeles Dodgers,88,74,691,5642,NA,NA
+1982,MIL,Milwaukee Brewers,95,67,891,5733,NA,NA
+1982,MIN,Minnesota Twins,60,102,657,5544,NA,NA
+1982,NYM,New York Mets,65,97,609,5510,NA,NA
+1982,NYY,New York Yankees,79,83,709,5526,NA,NA
+1982,OAK,Oakland Athletics,68,94,691,5448,NA,NA
+1982,PHI,Philadelphia Phillies,89,73,664,5454,NA,NA
+1982,PIT,Pittsburgh Pirates,84,78,724,5614,NA,NA
+1982,SDP,San Diego Padres,81,81,675,5575,NA,NA
+1982,SEA,Seattle Mariners,76,86,651,5626,NA,NA
+1982,SFG,San Francisco Giants,87,75,673,5499,NA,NA
+1982,STL,St. Louis Cardinals,92,70,685,5455,NA,NA
+1982,TEX,Texas Rangers,64,98,590,5445,NA,NA
+1982,TOR,Toronto Blue Jays,78,84,651,5526,NA,NA
+1982,WSN,Washington Nationals,86,76,697,5557,NA,NA
+1983,ANA,Los Angeles Angels of Anaheim,70,92,722,5640,NA,NA
+1983,ATL,Atlanta Braves,88,74,746,5472,NA,NA
+1983,BAL,Baltimore Orioles,98,64,799,5546,NA,NA
+1983,BOS,Boston Red Sox,78,84,724,5590,NA,NA
+1983,CHC,Chicago Cubs,71,91,701,5512,NA,NA
+1983,CHW,Chicago White Sox,99,63,800,5484,NA,NA
+1983,CIN,Cincinnati Reds,74,88,623,5333,NA,NA
+1983,CLE,Cleveland Indians,70,92,704,5476,NA,NA
+1983,DET,Detroit Tigers,92,70,789,5592,NA,NA
+1983,HOU,Houston Astros,85,77,643,5502,NA,NA
+1983,KCR,Kansas City Royals,79,83,696,5598,NA,NA
+1983,LAD,Los Angeles Dodgers,91,71,654,5440,NA,NA
+1983,MIL,Milwaukee Brewers,87,75,764,5620,NA,NA
+1983,MIN,Minnesota Twins,70,92,709,5601,NA,NA
+1983,NYM,New York Mets,68,94,575,5444,NA,NA
+1983,NYY,New York Yankees,91,71,770,5631,NA,NA
+1983,OAK,Oakland Athletics,74,88,708,5516,NA,NA
+1983,PHI,Philadelphia Phillies,90,72,696,5426,NA,NA
+1983,PIT,Pittsburgh Pirates,84,78,659,5531,NA,NA
+1983,SDP,San Diego Padres,81,81,653,5527,NA,NA
+1983,SEA,Seattle Mariners,60,102,558,5336,NA,NA
+1983,SFG,San Francisco Giants,79,83,687,5369,NA,NA
+1983,STL,St. Louis Cardinals,79,83,679,5550,NA,NA
+1983,TEX,Texas Rangers,77,85,639,5610,NA,NA
+1983,TOR,Toronto Blue Jays,89,73,795,5581,NA,NA
+1983,WSN,Washington Nationals,82,80,677,5611,NA,NA
+1984,ANA,Los Angeles Angels of Anaheim,81,81,696,5470,NA,NA
+1984,ATL,Atlanta Braves,80,82,632,5422,NA,NA
+1984,BAL,Baltimore Orioles,85,77,681,5456,NA,NA
+1984,BOS,Boston Red Sox,86,76,810,5648,NA,NA
+1984,CHC,Chicago Cubs,96,65,762,5437,NA,NA
+1984,CHW,Chicago White Sox,74,88,679,5513,NA,NA
+1984,CIN,Cincinnati Reds,70,92,627,5498,NA,NA
+1984,CLE,Cleveland Indians,75,87,761,5643,NA,NA
+1984,DET,Detroit Tigers,104,58,829,5644,NA,NA
+1984,HOU,Houston Astros,80,82,693,5548,NA,NA
+1984,KCR,Kansas City Royals,84,78,673,5543,NA,NA
+1984,LAD,Los Angeles Dodgers,79,83,580,5399,NA,NA
+1984,MIL,Milwaukee Brewers,67,94,641,5511,NA,NA
+1984,MIN,Minnesota Twins,81,81,673,5562,NA,NA
+1984,NYM,New York Mets,90,72,652,5438,NA,NA
+1984,NYY,New York Yankees,87,75,758,5661,NA,NA
+1984,OAK,Oakland Athletics,77,85,738,5457,NA,NA
+1984,PHI,Philadelphia Phillies,81,81,720,5614,NA,NA
+1984,PIT,Pittsburgh Pirates,75,87,615,5537,NA,NA
+1984,SDP,San Diego Padres,92,70,686,5504,NA,NA
+1984,SEA,Seattle Mariners,74,88,682,5546,NA,NA
+1984,SFG,San Francisco Giants,66,96,682,5650,NA,NA
+1984,STL,St. Louis Cardinals,84,78,652,5433,NA,NA
+1984,TEX,Texas Rangers,69,92,656,5569,NA,NA
+1984,TOR,Toronto Blue Jays,89,73,750,5687,NA,NA
+1984,WSN,Washington Nationals,78,83,593,5439,NA,NA
+1985,ANA,Los Angeles Angels of Anaheim,90,72,732,5442,515281.9285714286,14427894
+1985,ATL,Atlanta Braves,66,96,632,5526,673045.4545454546,14807000
+1985,BAL,Baltimore Orioles,83,78,818,5517,525486.9090909091,11560712
+1985,BOS,Boston Red Sox,81,81,800,5720,435902.4,10897560
+1985,CHC,Chicago Cubs,77,84,686,5492,577405.3181818182,12702917
+1985,CHW,Chicago White Sox,85,77,736,5470,468865.61904761905,9846178
+1985,CIN,Cincinnati Reds,89,72,677,5431,379996.2272727273,8359917
+1985,CLE,Cleveland Indians,60,102,729,5527,327583.3,6551666
+1985,DET,Detroit Tigers,84,77,729,5575,517407.15,10348143
+1985,HOU,Houston Astros,83,79,706,5582,499652.55,9993051
+1985,KCR,Kansas City Royals,91,71,687,5500,423689.95454545453,9321179
+1985,LAD,Los Angeles Dodgers,95,67,682,5502,476865.95652173914,10967917
+1985,MIL,Milwaukee Brewers,71,90,690,5568,593900.3684210526,11284107
+1985,MIN,Minnesota Twins,77,85,705,5509,303411.63157894736,5764821
+1985,NYM,New York Mets,98,64,695,5549,515941.04761904763,10834762
+1985,NYY,New York Yankees,97,64,839,5458,711910.2,14238204
+1985,OAK,Oakland Athletics,77,85,757,5581,431362.1904761905,9058606
+1985,PHI,Philadelphia Phillies,75,87,667,5477,532892.947368421,10124966
+1985,PIT,Pittsburgh Pirates,57,104,568,5436,485657.8947368421,9227500
+1985,SDP,San Diego Padres,83,79,650,5507,501662.86363636365,11036583
+1985,SEA,Seattle Mariners,74,88,719,5521,256277.77777777778,4613000
+1985,SFG,San Francisco Giants,62,100,556,5420,411085.7,8221714
+1985,STL,St. Louis Cardinals,101,61,747,5467,472683.32,11817083
+1985,TEX,Texas Rangers,62,99,617,5361,383825,7676500
+1985,TOR,Toronto Blue Jays,99,62,759,5508,440627.5,8812550
+1985,WSN,Washington Nationals,84,77,633,5429,473508.3,9470166
+1986,ANA,Los Angeles Angels of Anaheim,92,70,786,5433,497491.6551724138,14427258
+1986,ATL,Atlanta Braves,72,89,615,5384,589751.2413793104,17102786
+1986,BAL,Baltimore Orioles,73,89,708,5524,448319.2413793103,13001258
+1986,BOS,Boston Red Sox,95,66,794,5498,496628.9310344828,14402239
+1986,CHC,Chicago Cubs,70,90,680,5499,555102.0967741936,17208165
+1986,CHW,Chicago White Sox,72,90,644,5406,336090.93548387097,10418819
+1986,CIN,Cincinnati Reds,86,76,732,5536,396879.6,11906388
+1986,CLE,Cleveland Indians,84,78,831,5702,251919.35483870967,7809500
+1986,DET,Detroit Tigers,87,75,798,5512,456878.2962962963,12335714
+1986,HOU,Houston Astros,96,66,654,5441,411386.5,9873276
+1986,KCR,Kansas City Royals,76,86,654,5561,465846.35714285716,13043698
+1986,LAD,Los Angeles Dodgers,73,89,638,5471,466055.5,14913776
+1986,MIL,Milwaukee Brewers,77,84,667,5461,355130.0714285714,9943642
+1986,MIN,Minnesota Twins,71,91,741,5531,397643.95454545453,8748167
+1986,NYM,New York Mets,108,54,783,5558,549775.5,15393714
+1986,NYY,New York Yankees,90,72,797,5570,660509.0357142857,18494253
+1986,OAK,Oakland Athletics,76,86,731,5435,315465.1935483871,9779421
+1986,PHI,Philadelphia Phillies,86,75,739,5483,373876.32258064515,11590166
+1986,PIT,Pittsburgh Pirates,64,98,663,5456,373913.7931034483,10843500
+1986,SDP,San Diego Padres,74,88,656,5515,455227.72,11380693
+1986,SEA,Seattle Mariners,67,95,718,5498,229165.73076923078,5958309
+1986,SFG,San Francisco Giants,83,79,698,5501,319535.71428571426,8947000
+1986,STL,St. Louis Cardinals,79,82,601,5378,365741.1111111111,9875010
+1986,TEX,Texas Rangers,87,75,771,5529,259350.73076923078,6743119
+1986,TOR,Toronto Blue Jays,86,76,809,5716,467075.81481481483,12611047
+1986,WSN,Washington Nationals,78,83,637,5508,346987.5,11103600
+1987,ANA,Los Angeles Angels of Anaheim,75,87,770,5570,475685.14814814815,12843499
+1987,ATL,Atlanta Braves,69,92,747,5428,517017.5,16544560
+1987,BAL,Baltimore Orioles,67,95,729,5576,463342.43333333335,13900273
+1987,BOS,Boston Red Sox,78,84,842,5586,676277.8,10144167
+1987,CHC,Chicago Cubs,76,85,720,5583,550307.6538461539,14307999
+1987,CHW,Chicago White Sox,77,85,748,5538,443410.125,10641843
+1987,CIN,Cincinnati Reds,84,78,783,5560,356980.76923076925,9281500
+1987,CLE,Cleveland Indians,61,101,742,5606,304062.5,8513750
+1987,DET,Detroit Tigers,98,64,896,5649,527081.7826086957,12122881
+1987,HOU,Houston Astros,76,86,648,5485,450298.96428571426,12608371
+1987,KCR,Kansas City Royals,83,79,715,5499,438076.14814814815,11828056
+1987,LAD,Los Angeles Dodgers,73,89,635,5517,488407.25,13675403
+1987,MIL,Milwaukee Brewers,91,71,862,5625,260472.2857142857,7293224
+1987,MIN,Minnesota Twins,85,77,786,5441,710833.3333333334,6397500
+1987,NYM,New York Mets,92,70,823,5601,553868.56,13846714
+1987,NYY,New York Yankees,89,73,788,5511,488563.2571428571,17099714
+1987,OAK,Oakland Athletics,81,81,806,5511,449263.03846153844,11680839
+1987,PHI,Philadelphia Phillies,80,82,702,5475,479759.7083333333,11514233
+1987,PIT,Pittsburgh Pirates,80,82,723,5536,306080,7652000
+1987,SDP,San Diego Padres,65,97,668,5456,409844.2962962963,11065796
+1987,SEA,Seattle Mariners,78,84,760,5508,251500,2263500
+1987,SFG,San Francisco Giants,90,72,783,5608,316956.52173913043,7290000
+1987,STL,St. Louis Cardinals,95,67,798,5500,379290.32258064515,11758000
+1987,TEX,Texas Rangers,75,87,823,5564,22e4,880000
+1987,TOR,Toronto Blue Jays,96,66,845,5635,455630.47826086957,10479501
+1987,WSN,Washington Nationals,91,71,741,5527,289252.1666666667,6942052
+1988,ANA,Los Angeles Angels of Anaheim,75,87,714,5582,426692.4285714286,11947388
+1988,ATL,Atlanta Braves,54,106,555,5440,438902.5517241379,12728174
+1988,BAL,Baltimore Orioles,54,107,550,5358,501187.962962963,13532075
+1988,BOS,Boston Red Sox,89,73,813,5545,579003.8333333334,13896092
+1988,CHC,Chicago Cubs,77,85,660,5675,524767.92,13119198
+1988,CHW,Chicago White Sox,71,90,631,5449,266250,6390000
+1988,CIN,Cincinnati Reds,87,74,641,5426,355536.36,8888409
+1988,CLE,Cleveland Indians,78,84,666,5505,406204.54545454547,8936500
+1988,DET,Detroit Tigers,88,74,703,5433,559546.5652173914,12869571
+1988,HOU,Houston Astros,82,80,617,5494,472544.8846153846,12286167
+1988,KCR,Kansas City Royals,84,77,704,5469,559867.7692307692,14556562
+1988,LAD,Los Angeles Dodgers,94,67,628,5431,561683.8333333334,16850515
+1988,MIL,Milwaukee Brewers,87,75,682,5488,381909.0909090909,8402000
+1988,MIN,Minnesota Twins,91,71,759,5510,541855.0434782609,12462666
+1988,NYM,New York Mets,100,60,703,5408,610772.56,15269314
+1988,NYY,New York Yankees,85,76,772,5592,648038.4,19441152
+1988,OAK,Oakland Athletics,104,58,800,5602,421304.347826087,9690000
+1988,PHI,Philadelphia Phillies,65,96,597,5403,532230.7692307692,13838000
+1988,PIT,Pittsburgh Pirates,85,75,651,5379,222166.66666666666,5998500
+1988,SDP,San Diego Padres,83,78,594,5366,354111.18518518517,9561002
+1988,SEA,Seattle Mariners,68,93,664,5436,282401.92307692306,7342450
+1988,SFG,San Francisco Giants,83,79,670,5450,495200,12380000
+1988,STL,St. Louis Cardinals,76,86,578,5518,477037.037037037,12880000
+1988,TEX,Texas Rangers,70,91,637,5479,242824.13636363635,5342131
+1988,TOR,Toronto Blue Jays,87,75,763,5557,470816.3461538461,12241225
+1988,WSN,Washington Nationals,81,81,628,5573,384133.32,9603333
+1989,ANA,Los Angeles Angels of Anaheim,91,71,669,5545,580685.8846153846,15097833
+1989,ATL,Atlanta Braves,63,97,584,5463,370411.13333333336,11112334
+1989,BAL,Baltimore Orioles,87,75,708,5440,318275.6538461539,8275167
+1989,BOS,Boston Red Sox,83,79,774,5666,672374.9230769231,17481748
+1989,CHC,Chicago Cubs,93,69,702,5513,444500,10668000
+1989,CHW,Chicago White Sox,69,92,693,5504,290616.4,7265410
+1989,CIN,Cincinnati Reds,75,87,632,5520,381793.1034482759,11072000
+1989,CLE,Cleveland Indians,73,89,604,5463,336833.3333333333,9094500
+1989,DET,Detroit Tigers,59,103,617,5432,582554,15146404
+1989,HOU,Houston Astros,86,76,647,5516,556648.1481481482,15029500
+1989,KCR,Kansas City Royals,92,70,690,5475,691984,18683568
+1989,LAD,Los Angeles Dodgers,77,83,554,5465,679727.8064516129,21071562
+1989,MIL,Milwaukee Brewers,81,81,707,5473,384433.3333333333,11533000
+1989,MIN,Minnesota Twins,80,82,740,5581,621266.64,15531666
+1989,NYM,New York Mets,87,75,683,5489,710181.1071428572,19885071
+1989,NYY,New York Yankees,74,87,698,5458,552076.6129032258,17114375
+1989,OAK,Oakland Athletics,99,63,712,5416,624522.8,15613070
+1989,PHI,Philadelphia Phillies,67,95,629,5447,407846.1538461539,10604000
+1989,PIT,Pittsburgh Pirates,74,88,637,5539,439224.1379310345,12737500
+1989,SDP,San Diego Padres,89,73,642,5422,525740.7407407408,14195000
+1989,SEA,Seattle Mariners,73,89,694,5512,407479.1666666667,9779500
+1989,SFG,San Francisco Giants,92,70,699,5469,534386.9285714285,14962834
+1989,STL,St. Louis Cardinals,86,76,632,5492,574244.0357142857,16078833
+1989,TEX,Texas Rangers,83,79,695,5458,396459.36666666664,11893781
+1989,TOR,Toronto Blue Jays,89,73,731,5581,580773.7857142857,16261666
+1989,WSN,Washington Nationals,81,81,632,5482,493121.03571428574,13807389
+1990,ANA,Los Angeles Angels of Anaheim,80,82,690,5570,620571.4285714285,21720000
+1990,ATL,Atlanta Braves,65,97,682,5504,454859.40625,14555501
+1990,BAL,Baltimore Orioles,76,85,669,5410,261623.8918918919,9680084
+1990,BOS,Boston Red Sox,88,74,699,5516,642447.90625,20558333
+1990,CHC,Chicago Cubs,77,85,690,5600,439483.87096774194,13624000
+1990,CHW,Chicago White Sox,94,68,682,5402,306177.4193548387,9491500
+1990,CIN,Cincinnati Reds,91,71,693,5525,422647.0588235294,14370000
+1990,CLE,Cleveland Indians,77,85,732,5485,439e3,14487000
+1990,DET,Detroit Tigers,79,83,750,5479,533128.4242424242,17593238
+1990,HOU,Houston Astros,75,87,573,5379,591290.3225806452,18330000
+1990,KCR,Kansas City Royals,75,86,707,5488,667459.5428571429,23361084
+1990,LAD,Los Angeles Dodgers,86,76,728,5491,609105.8285714285,21318704
+1990,MIL,Milwaukee Brewers,74,88,732,5503,532950.4594594594,19719167
+1990,MIN,Minnesota Twins,74,88,666,5499,405611.1111111111,14602000
+1990,NYM,New York Mets,91,71,775,5504,678838.5625,21722834
+1990,NYY,New York Yankees,67,95,603,5483,633706.6060606061,20912318
+1990,OAK,Oakland Athletics,103,59,733,5433,584926.5,19887501
+1990,PHI,Philadelphia Phillies,77,85,646,5535,439122.23333333334,13173667
+1990,PIT,Pittsburgh Pirates,95,67,733,5388,432111.1111111111,15556000
+1990,SDP,San Diego Padres,75,87,673,5554,549635.4375,17588334
+1990,SEA,Seattle Mariners,77,85,640,5474,369225.5,12553667
+1990,SFG,San Francisco Giants,85,77,719,5573,568686.2647058824,19335333
+1990,STL,St. Louis Cardinals,70,92,599,5462,586380.9714285714,20523334
+1990,TEX,Texas Rangers,83,79,676,5469,402010.0540540541,14874372
+1990,TOR,Toronto Blue Jays,86,76,767,5589,657660.5185185185,17756834
+1990,WSN,Washington Nationals,85,77,662,5453,535044.7741935484,16586388
+1991,ANA,Los Angeles Angels of Anaheim,81,81,653,5470,1066451.6451612904,33060001
+1991,ATL,Atlanta Braves,94,68,749,5456,736140,18403500
+1991,BAL,Baltimore Orioles,67,95,686,5604,565129.0322580645,17519000
+1991,BOS,Boston Red Sox,84,78,731,5530,1172250,35167500
+1991,CHC,Chicago Cubs,77,83,695,5522,927026.68,23175667
+1991,CHW,Chicago White Sox,87,75,758,5594,604273.8214285715,16919667
+1991,CIN,Cincinnati Reds,74,88,689,5501,1011743.5769230769,26305333
+1991,CLE,Cleveland Indians,57,105,576,5470,587833.3333333334,17635000
+1991,DET,Detroit Tigers,84,78,817,5547,953533.32,23838333
+1991,HOU,Houston Astros,65,97,605,5504,514100,12852500
+1991,KCR,Kansas City Royals,82,80,727,5584,1253325.4285714286,26319834
+1991,LAD,Los Angeles Dodgers,93,69,665,5408,1093022.1333333333,32790664
+1991,MIL,Milwaukee Brewers,83,79,799,5611,1005021.7391304348,23115500
+1991,MIN,Minnesota Twins,95,67,776,5556,973409.7083333334,23361833
+1991,NYM,New York Mets,77,84,640,5359,1253461.576923077,32590001
+1991,NYY,New York Yankees,71,91,674,5541,976577.4285714285,27344168
+1991,OAK,Oakland Athletics,84,78,760,5410,1423044.8846153845,36999167
+1991,PHI,Philadelphia Phillies,78,84,629,5521,749577.7333333333,22487332
+1991,PIT,Pittsburgh Pirates,98,64,768,5449,875358.0370370371,23634667
+1991,SDP,San Diego Padres,84,78,636,5408,738333.3666666667,22150001
+1991,SEA,Seattle Mariners,83,79,702,5494,603532.0384615385,15691833
+1991,SFG,San Francisco Giants,75,87,649,5463,1191064.076923077,30967666
+1991,STL,St. Louis Cardinals,84,78,651,5362,753793.1379310344,21860001
+1991,TEX,Texas Rangers,85,77,829,5703,867833.3333333334,18224500
+1991,TOR,Toronto Blue Jays,91,71,684,5489,796096.68,19902417
+1991,WSN,Washington Nationals,71,90,579,5412,631313.7058823529,10732333
+1992,ANA,Los Angeles Angels of Anaheim,72,90,579,5364,1158311.1333333333,34749334
+1992,ATL,Atlanta Braves,98,64,682,5480,1116946.2258064516,34625333
+1992,BAL,Baltimore Orioles,89,73,705,5485,720626.2727272727,23780667
+1992,BOS,Boston Red Sox,73,89,599,5461,1406793.0322580645,43610584
+1992,CHC,Chicago Cubs,78,84,593,5590,1065345.9285714286,29829686
+1992,CHW,Chicago White Sox,86,76,738,5498,1005361.1,30160833
+1992,CIN,Cincinnati Reds,90,72,660,5460,1330796.2592592593,35931499
+1992,CLE,Cleveland Indians,76,86,674,5620,267801.2571428571,9373044
+1992,DET,Detroit Tigers,75,87,791,5515,975815.5,27322834
+1992,HOU,Houston Astros,81,81,608,5480,513583.3333333333,15407500
+1992,KCR,Kansas City Royals,72,90,610,5501,1210494.0714285714,33893834
+1992,LAD,Los Angeles Dodgers,63,99,548,5368,1544419.5172413792,44788166
+1992,MIL,Milwaukee Brewers,92,70,740,5504,1148654.3333333333,31013667
+1992,MIN,Minnesota Twins,90,72,747,5582,1000994.0714285715,28027834
+1992,NYM,New York Mets,72,90,599,5340,1715461.6153846155,44602002
+1992,NYY,New York Yankees,76,86,733,5593,1137676.7878787878,37543334
+1992,OAK,Oakland Athletics,96,66,745,5387,1282343.75,41035000
+1992,PHI,Philadelphia Phillies,70,92,686,5500,812794.4666666667,24383834
+1992,PIT,Pittsburgh Pirates,96,66,693,5527,1212291.6785714286,33944167
+1992,SDP,San Diego Padres,82,80,617,5476,959077.3928571428,26854167
+1992,SEA,Seattle Mariners,64,98,679,5564,799304.5862068966,23179833
+1992,SFG,San Francisco Giants,72,90,574,5456,1326526.72,33163168
+1992,STL,St. Louis Cardinals,83,79,631,5594,951166.7586206896,27583836
+1992,TEX,Texas Rangers,77,85,682,5537,971876.3548387097,30128167
+1992,TOR,Toronto Blue Jays,96,66,780,5536,1244129.611111111,44788666
+1992,WSN,Washington Nationals,87,75,648,5477,586012.3703703703,15822334
+1993,ANA,Los Angeles Angels of Anaheim,71,91,684,5391,893385.4375,28588334
+1993,ATL,Atlanta Braves,104,58,767,5515,1261861.121212121,41641417
+1993,BAL,Baltimore Orioles,85,77,786,5508,909265.625,29096500
+1993,BOS,Boston Red Sox,80,82,686,5496,1197438.1612903227,37120583
+1993,CHC,Chicago Cubs,84,78,738,5627,1230833.3125,39386666
+1993,CHW,Chicago White Sox,94,68,776,5483,1280521.4838709678,39696166
+1993,CIN,Cincinnati Reds,73,89,722,5517,1359989.878787879,44879666
+1993,CLE,Cleveland Indians,76,86,790,5619,464025,18561000
+1993,COL,Colorado Rockies,67,95,758,5517,313742.42424242425,10353500
+1993,DET,Detroit Tigers,85,77,899,5620,1230650.4838709678,38150165
+1993,FLA,Florida Marlins,64,98,581,5475,568545.4411764706,19330545
+1993,HOU,Houston Astros,85,77,716,5464,1041741.3793103448,30210500
+1993,KCR,Kansas City Royals,84,78,675,5522,1292067.71875,41346167
+1993,LAD,Los Angeles Dodgers,81,81,675,5588,1229124.96875,39331999
+1993,MIL,Milwaukee Brewers,69,93,733,5525,721419.2121212122,23806834
+1993,MIN,Minnesota Twins,71,91,693,5601,855088.8787878788,28217933
+1993,NYM,New York Mets,59,103,672,5448,1301455.5666666667,39043667
+1993,NYY,New York Yankees,88,74,821,5615,1291663.6363636365,42624900
+1993,OAK,Oakland Athletics,68,94,715,5543,1050342.5833333333,37812333
+1993,PHI,Philadelphia Phillies,97,65,877,5685,891822.9375,28538334
+1993,PIT,Pittsburgh Pirates,75,87,707,5549,752195.9696969697,24822467
+1993,SDP,San Diego Padres,61,101,679,5503,750333.3235294118,25511333
+1993,SEA,Seattle Mariners,82,80,734,5494,990797.9696969697,32696333
+1993,SFG,San Francisco Giants,103,59,808,5557,1130645.1612903227,35050000
+1993,STL,St. Louis Cardinals,87,75,758,5551,778911.1333333333,23367334
+1993,TEX,Texas Rangers,86,76,835,5510,957288.3947368421,36376959
+1993,TOR,Toronto Blue Jays,95,67,847,5579,1432702,47279166
+1993,WSN,Washington Nationals,94,68,732,5493,484598.28205128206,18899333
+1994,ANA,Los Angeles Angels of Anaheim,47,68,543,3943,786131.8125,25156218
+1994,ATL,Atlanta Braves,68,46,542,3861,1646117.1,49383513
+1994,BAL,Baltimore Orioles,63,49,589,3856,1253218.3548387096,38849769
+1994,BOS,Boston Red Sox,54,61,552,3940,1261969.4666666666,37859084
+1994,CHC,Chicago Cubs,49,64,500,3918,1170559.1290322582,36287333
+1994,CHW,Chicago White Sox,67,46,633,3942,1306127.8666666667,39183836
+1994,CIN,Cincinnati Reds,66,48,609,3999,1321349.4516129033,40961833
+1994,CLE,Cleveland Indians,66,47,679,4022,871157.1428571428,30490500
+1994,COL,Colorado Rockies,53,64,573,4006,702568.6176470588,23887333
+1994,DET,Detroit Tigers,53,62,652,3955,1336983.9032258065,41446501
+1994,FLA,Florida Marlins,51,64,468,3926,584675.6756756756,21633000
+1994,HOU,Houston Astros,66,49,602,3955,1003818.1818181818,33126000
+1994,KCR,Kansas City Royals,64,51,574,3911,1501530.888888889,40541334
+1994,LAD,Los Angeles Dodgers,58,56,532,3904,1225806.4838709678,38000001
+1994,MIL,Milwaukee Brewers,53,62,547,3978,785500,24350500
+1994,MIN,Minnesota Twins,53,60,594,3952,947950,28438500
+1994,NYM,New York Mets,55,58,506,3869,998599.4516129033,30956583
+1994,NYY,New York Yankees,70,43,670,3986,1576942.551724138,45731334
+1994,OAK,Oakland Athletics,51,63,549,3885,1035530.303030303,34172500
+1994,PHI,Philadelphia Phillies,54,61,521,3927,987468.75,31599000
+1994,PIT,Pittsburgh Pirates,53,61,466,3864,712272.0588235294,24217250
+1994,SDP,San Diego Padres,47,70,479,4068,426180.9428571428,14916333
+1994,SEA,Seattle Mariners,49,63,569,3883,885712.1212121212,29228500
+1994,SFG,San Francisco Giants,55,60,504,3869,1332458.3125,42638666
+1994,STL,St. Louis Cardinals,53,61,535,3902,975853.3666666667,29275601
+1994,TEX,Texas Rangers,52,62,613,3983,999199.9090909091,32973597
+1994,TOR,Toronto Blue Jays,55,60,566,3962,1447788.9333333333,43433668
+1994,WSN,Washington Nationals,74,40,585,4000,682071.4285714285,19098000
+1995,ANA,Los Angeles Angels of Anaheim,78,67,801,5019,946156.696969697,31223171
+1995,ATL,Atlanta Braves,90,54,645,4814,1628808.448275862,47235445
+1995,BAL,Baltimore Orioles,71,73,704,4837,1187635.7027027027,43942521
+1995,BOS,Boston Red Sox,86,58,791,4997,877176.1621621621,32455518
+1995,CHC,Chicago Cubs,73,71,693,4963,922057.3125,29505834
+1995,CHW,Chicago White Sox,68,76,755,5060,1341750.9142857143,46961282
+1995,CIN,Cincinnati Reds,85,59,747,4903,1268960.8823529412,43144670
+1995,CLE,Cleveland Indians,100,44,840,5028,1083938.142857143,37937835
+1995,COL,Colorado Rockies,77,67,785,4994,948742.1388888889,34154717
+1995,DET,Detroit Tigers,60,84,654,4865,1122550.5454545454,37044168
+1995,FLA,Florida Marlins,67,76,673,4886,662588.6756756756,24515781
+1995,HOU,Houston Astros,76,68,747,5097,949162.0555555555,34169834
+1995,KCR,Kansas City Royals,70,74,629,4903,738320.85,29532834
+1995,LAD,Los Angeles Dodgers,78,66,634,4942,1061437.8648648649,39273201
+1995,MIL,Milwaukee Brewers,65,79,740,5000,508537.85714285716,17798825
+1995,MIN,Minnesota Twins,56,88,703,5005,770015.1515151515,25410500
+1995,NYM,New York Mets,69,75,657,4958,674999.8048780488,27674992
+1995,NYY,New York Yankees,79,65,749,4947,1437495.6176470588,48874851
+1995,OAK,Oakland Athletics,67,77,730,4916,1019979.0540540541,37739225
+1995,PHI,Philadelphia Phillies,69,75,615,4950,783485.7692307692,30555945
+1995,PIT,Pittsburgh Pirates,58,86,629,4937,556222.5757575758,18355345
+1995,SDP,San Diego Padres,70,74,668,4950,851043.0322580645,26382334
+1995,SEA,Seattle Mariners,79,66,796,4996,1042323.1714285715,36481311
+1995,SFG,San Francisco Giants,67,77,652,4971,934943,36462777
+1995,STL,St. Louis Cardinals,62,81,563,4779,976342.1052631579,37101000
+1995,TEX,Texas Rangers,74,70,691,4913,1017101.5,34581451
+1995,TOR,Toronto Blue Jays,56,88,642,5036,1533030.303030303,50590000
+1995,WSN,Washington Nationals,66,78,621,4905,374666.6666666667,12364000
+1996,ANA,Los Angeles Angels of Anaheim,70,91,762,5686,776702.7027027027,28738000
+1996,ATL,Atlanta Braves,96,66,773,5614,1656616.6666666667,49698500
+1996,BAL,Baltimore Orioles,88,74,949,5689,1702822.34375,54490315
+1996,BOS,Boston Red Sox,85,77,928,5756,1177597.2222222222,42393500
+1996,CHC,Chicago Cubs,76,86,772,5531,1002454.5454545454,33081000
+1996,CHW,Chicago White Sox,85,77,898,5644,1612125,45139500
+1996,CIN,Cincinnati Reds,81,81,778,5455,1215038.1142857142,42526334
+1996,CLE,Cleveland Indians,99,62,952,5681,1551850.322580645,48107360
+1996,COL,Colorado Rockies,83,79,961,5590,1296123.322580645,40179823
+1996,DET,Detroit Tigers,53,109,783,5530,732437.5,23438000
+1996,FLA,Florida Marlins,80,82,688,5498,969453.125,31022500
+1996,HOU,Houston Astros,82,80,753,5508,918935.4838709678,28487000
+1996,KCR,Kansas City Royals,75,86,746,5542,614583.3333333334,20281250
+1996,LAD,Los Angeles Dodgers,90,72,703,5538,1104843.75,35355000
+1996,MIL,Milwaukee Brewers,80,82,894,5662,639117.6470588235,21730000
+1996,MIN,Minnesota Twins,78,84,877,5673,700515.1515151515,23117000
+1996,NYM,New York Mets,71,91,746,5618,741803.0303030303,24479500
+1996,NYY,New York Yankees,92,70,871,5628,1593876.2352941176,54191792
+1996,OAK,Oakland Athletics,78,84,861,5630,574135.1351351351,21243000
+1996,PHI,Philadelphia Phillies,67,95,650,5499,798011.6279069767,34314500
+1996,PIT,Pittsburgh Pirates,73,89,776,5665,657642.8571428572,23017500
+1996,SDP,San Diego Padres,91,71,771,5655,944939.0666666667,28348172
+1996,SEA,Seattle Mariners,85,76,993,5668,1215544.1470588236,41328501
+1996,SFG,San Francisco Giants,68,94,752,5533,1061277.857142857,37144725
+1996,STL,St. Louis Cardinals,88,74,759,5502,1220292.9393939395,40269667
+1996,TEX,Texas Rangers,90,72,928,5702,1183076.606060606,39041528
+1996,TOR,Toronto Blue Jays,74,88,766,5599,895608.5757575758,29555083
+1996,WSN,Washington Nationals,88,74,741,5505,524661.2903225806,16264500
+1997,ANA,Los Angeles Angels of Anaheim,84,78,829,5628,1004370.0645161291,31135472
+1997,ATL,Atlanta Braves,101,61,791,5528,1686403.2258064516,52278500
+1997,BAL,Baltimore Orioles,98,64,812,5584,2017806.896551724,58516400
+1997,BOS,Boston Red Sox,78,84,851,5781,1281139.705882353,43558750
+1997,CHC,Chicago Cubs,68,94,687,5489,1317354.15625,42155333
+1997,CHW,Chicago White Sox,80,81,779,5491,1603888.888888889,57740000
+1997,CIN,Cincinnati Reds,76,86,651,5484,1244200,49768000
+1997,CLE,Cleveland Indians,86,75,868,5556,1832337.4193548388,56802460
+1997,COL,Colorado Rockies,83,79,923,5603,1451988.9,43559667
+1997,DET,Detroit Tigers,79,83,784,5481,595586.2068965518,17272000
+1997,FLA,Florida Marlins,92,70,740,5439,1570725.8064516129,48692500
+1997,HOU,Houston Astros,84,78,777,5502,1121854.8387096773,34777500
+1997,KCR,Kansas City Royals,67,94,747,5599,936621.6216216217,34655000
+1997,LAD,Los Angeles Dodgers,88,74,742,5544,1512676.8,45380304
+1997,MIL,Milwaukee Brewers,78,83,681,5444,695745.2352941176,23655338
+1997,MIN,Minnesota Twins,68,94,772,5634,1099112.9032258065,34072500
+1997,NYM,New York Mets,88,74,777,5524,1137154.2857142857,39800400
+1997,NYY,New York Yankees,96,66,891,5710,2146260.172413793,62241545
+1997,OAK,Oakland Athletics,65,97,764,5589,615858.9743589744,24018500
+1997,PHI,Philadelphia Phillies,68,94,668,5443,916412.5,36656500
+1997,PIT,Pittsburgh Pirates,79,83,725,5503,307761.9142857143,10771667
+1997,SDP,San Diego Padres,76,86,795,5609,1288402.4827586208,37363672
+1997,SEA,Seattle Mariners,90,72,925,5614,1298145.65625,41540661
+1997,SFG,San Francisco Giants,90,72,784,5485,1112261.8125,35592378
+1997,STL,St. Louis Cardinals,73,89,689,5524,1262685.1944444445,45456667
+1997,TEX,Texas Rangers,77,85,807,5651,1444563.189189189,53448838
+1997,TOR,Toronto Blue Jays,76,86,654,5473,1426661.606060606,47079833
+1997,WSN,Washington Nationals,78,84,691,5526,622435.4838709678,19295500
+1998,ANA,Los Angeles Angels of Anaheim,85,77,787,5630,1214147.0588235294,41281000
+1998,ARI,Arizona Diamondbacks,65,97,665,5491,898527.7777777778,32347000
+1998,ATL,Atlanta Braves,106,56,826,5484,1912062.5,61186000
+1998,BAL,Baltimore Orioles,79,83,817,5565,2411854.466666667,72355634
+1998,BOS,Boston Red Sox,92,70,876,5601,1719909.0909090908,56757000
+1998,CHC,Chicago Cubs,90,73,831,5649,1639935.4838709678,50838000
+1998,CHW,Chicago White Sox,80,82,861,5585,1161666.6666666667,38335000
+1998,CIN,Cincinnati Reds,77,85,750,5496,676617.6470588235,23005000
+1998,CLE,Cleveland Indians,89,73,850,5616,1842429.2727272727,60800166
+1998,COL,Colorado Rockies,77,85,826,5632,1682821.6,50484648
+1998,DET,Detroit Tigers,65,97,722,5664,687571.4285714285,24065000
+1998,FLA,Florida Marlins,54,108,667,5558,1033066.675,41322667
+1998,HOU,Houston Astros,102,60,874,5641,1324187.5,42374000
+1998,KCR,Kansas City Royals,72,89,714,5546,945192.3076923077,36862500
+1998,LAD,Los Angeles Dodgers,83,79,669,5459,1435882.3529411764,48820000
+1998,MIL,Milwaukee Brewers,74,88,707,5541,997497.1764705882,33914904
+1998,MIN,Minnesota Twins,70,92,734,5641,963017.2413793104,27927500
+1998,NYM,New York Mets,88,74,706,5510,1578121.1818181819,52077999
+1998,NYY,New York Yankees,114,48,965,5643,2087714.59375,66806867
+1998,OAK,Oakland Athletics,74,88,804,5490,608657.1428571428,21303000
+1998,PHI,Philadelphia Phillies,75,87,713,5617,1037071.4285714285,36297500
+1998,PIT,Pittsburgh Pirates,69,93,650,5493,430428.5714285714,15065000
+1998,SDP,San Diego Padres,98,64,749,5490,1562050,46861500
+1998,SEA,Seattle Mariners,76,85,859,5628,1423343.0526315789,54087036
+1998,SFG,San Francisco Giants,89,74,845,5628,1520208.357142857,42565834
+1998,STL,St. Louis Cardinals,83,79,810,5593,1562072.0285714285,54672521
+1998,TBD,Tampa Bay Rays,63,99,620,5555,826666.6666666666,27280000
+1998,TEX,Texas Rangers,88,74,940,5672,1885736.5,56572095
+1998,TOR,Toronto Blue Jays,88,74,816,5580,1605500,51376000
+1998,WSN,Washington Nationals,65,97,644,5418,322469.69696969696,10641500
+1999,ANA,Los Angeles Angels of Anaheim,70,92,711,5494,1384704.15,55388166
+1999,ARI,Arizona Diamondbacks,100,62,908,5658,2020705.8529411764,68703999
+1999,ATL,Atlanta Braves,103,59,840,5569,2522068.9655172415,73140000
+1999,BAL,Baltimore Orioles,78,84,851,5637,2303024.657142857,80605863
+1999,BOS,Boston Red Sox,94,68,836,5579,2048306.4516129033,63497500
+1999,CHC,Chicago Cubs,67,95,747,5482,1684945.945945946,62343000
+1999,CHW,Chicago White Sox,75,86,777,5644,800625,25620000
+1999,CIN,Cincinnati Reds,96,67,865,5649,1095572.935483871,33962761
+1999,CLE,Cleveland Indians,97,65,1009,5634,1920485.8421052631,72978462
+1999,COL,Colorado Rockies,72,90,906,5716,1821642.2647058824,61935837
+1999,DET,Detroit Tigers,69,92,747,5481,1073225.4705882352,36489666
+1999,FLA,Florida Marlins,64,98,691,5578,585694.4444444445,21085000
+1999,HOU,Houston Astros,97,65,823,5485,1716062.5,54914000
+1999,KCR,Kansas City Royals,64,97,856,5624,708783.7837837838,26225000
+1999,LAD,Los Angeles Dodgers,77,85,793,5567,2378307.4411764704,80862453
+1999,MIL,Milwaukee Brewers,74,87,815,5582,1355543.59375,43377395
+1999,MIN,Minnesota Twins,63,97,686,5495,733017.2413793104,21257500
+1999,NYM,New York Mets,97,66,853,5572,2099744.9032258065,65092092
+1999,NYY,New York Yankees,98,64,900,5568,2990839.9655172415,86734359
+1999,OAK,Oakland Athletics,87,75,893,5519,814394.4333333333,24431833
+1999,PHI,Philadelphia Phillies,77,85,841,5598,932132.3529411765,31692500
+1999,PIT,Pittsburgh Pirates,78,83,775,5468,649938.5789473684,24697666
+1999,SDP,San Diego Padres,74,88,710,5394,1508126.6363636365,49768179
+1999,SEA,Seattle Mariners,79,83,859,5572,1503472.3055555555,54125003
+1999,SFG,San Francisco Giants,86,76,872,5563,1606726.103448276,46595057
+1999,STL,St. Louis Cardinals,75,86,809,5570,1382727.638888889,49778195
+1999,TBD,Tampa Bay Rays,69,93,772,5586,1022894.7368421053,38870000
+1999,TEX,Texas Rangers,95,67,945,5651,2556997.7,76709931
+1999,TOR,Toronto Blue Jays,84,78,883,5642,1420135.40625,45444333
+1999,WSN,Washington Nationals,68,94,718,5559,511514.28571428574,17903000
+2000,ANA,Los Angeles Angels of Anaheim,82,80,864,5628,1715472.2333333334,51464167
+2000,ARI,Arizona Diamondbacks,85,77,792,5527,2893851.1785714286,81027833
+2000,ATL,Atlanta Braves,95,67,810,5489,2817927.8666666667,84537836
+2000,BAL,Baltimore Orioles,74,88,794,5549,2808532.2413793104,81447435
+2000,BOS,Boston Red Sox,85,77,792,5630,2598011.1,77940333
+2000,CHC,Chicago Cubs,65,97,764,5577,2017977.7666666666,60539333
+2000,CHW,Chicago White Sox,95,67,978,5646,1073568.9655172413,31133500
+2000,CIN,Cincinnati Reds,85,77,825,5635,1735822.2222222222,46867200
+2000,CLE,Cleveland Indians,90,72,950,5683,2918491.1923076925,75880771
+2000,COL,Colorado Rockies,82,80,968,5660,2182542.5,61111190
+2000,DET,Detroit Tigers,79,83,823,5644,2157969.1481481483,58265167
+2000,FLA,Florida Marlins,79,82,731,5509,709714.2857142857,19872000
+2000,HOU,Houston Astros,72,90,938,5570,1899596.7037037036,51289111
+2000,KCR,Kansas City Royals,77,85,879,5709,836892.8571428572,23433000
+2000,LAD,Los Angeles Dodgers,86,76,798,5481,3381703.3076923075,87924286
+2000,MIL,Milwaukee Brewers,73,89,740,5563,1140791.65625,36505333
+2000,MIN,Minnesota Twins,69,93,748,5615,635365.3846153846,16519500
+2000,NYM,New York Mets,94,68,807,5486,3180391.04,79509776
+2000,NYY,New York Yankees,87,74,871,5556,3297795,92338260
+2000,OAK,Oakland Athletics,91,70,947,5560,1184123.4444444445,31971333
+2000,PHI,Philadelphia Phillies,65,97,708,5511,1631310.3448275863,47308000
+2000,PIT,Pittsburgh Pirates,69,93,793,5643,1112628.2307692308,28928334
+2000,SDP,San Diego Padres,76,86,752,5560,1827366.6666666667,54821000
+2000,SEA,Seattle Mariners,91,71,907,5497,2265961.5384615385,58915000
+2000,SFG,San Francisco Giants,97,65,925,5519,2066839.4615384615,53737826
+2000,STL,St. Louis Cardinals,95,67,887,5478,2276069,61453863
+2000,TBD,Tampa Bay Rays,69,92,733,5505,2024681.5806451612,62765129
+2000,TEX,Texas Rangers,71,91,848,5648,2722920.0384615385,70795921
+2000,TOR,Toronto Blue Jays,83,79,861,5677,1793533.28,44838332
+2000,WSN,Washington Nationals,67,95,738,5535,1137735.6206896552,32994333
+2001,ANA,Los Angeles Angels of Anaheim,75,87,691,5551,1584505.5666666667,47535167
+2001,ARI,Arizona Diamondbacks,92,70,818,5595,3038678.535714286,85082999
+2001,ATL,Atlanta Braves,88,74,729,5498,2965682.7741935486,91936166
+2001,BAL,Baltimore Orioles,63,98,687,5472,2331018.620689655,67599540
+2001,BOS,Boston Red Sox,82,79,772,5605,3438619.78125,110035833
+2001,CHC,Chicago Cubs,88,74,777,5406,2396882.703703704,64715833
+2001,CHW,Chicago White Sox,83,79,798,5464,2431617.296296296,65653667
+2001,CIN,Cincinnati Reds,66,96,735,5583,1814296.2962962964,48986000
+2001,CLE,Cleveland Indians,91,71,897,5600,3105066.7,93152001
+2001,COL,Colorado Rockies,73,89,923,5690,2751589.769230769,71541334
+2001,DET,Detroit Tigers,66,96,724,5537,1907720.25,53416167
+2001,FLA,Florida Marlins,76,86,742,5542,1153629.0322580645,35762500
+2001,HOU,Houston Astros,93,69,847,5528,2164738.1071428573,60612667
+2001,KCR,Kansas City Royals,65,97,729,5643,1265089.2857142857,35422500
+2001,LAD,Los Angeles Dodgers,86,76,758,5493,3762274.2413793104,109105953
+2001,MIL,Milwaukee Brewers,68,94,740,5488,1567386.892857143,43886833
+2001,MIN,Minnesota Twins,85,77,771,5560,893703.7037037037,24130000
+2001,NYM,New York Mets,82,80,642,5459,3212911.3103448274,93174428
+2001,NYY,New York Yankees,95,65,804,5577,3622165.9032258065,112287143
+2001,OAK,Oakland Athletics,102,60,884,5573,1252250,33810750
+2001,PHI,Philadelphia Phillies,86,76,746,5497,1602455.1153846155,41663833
+2001,PIT,Pittsburgh Pirates,62,100,657,5398,1863252.677419355,57760833
+2001,SDP,San Diego Padres,79,83,789,5482,1399386.892857143,39182833
+2001,SEA,Seattle Mariners,116,46,927,5680,2668601.214285714,74720834
+2001,SFG,San Francisco Giants,90,72,799,5612,2343709.888888889,63280167
+2001,STL,St. Louis Cardinals,93,69,814,5450,2617944.433333333,78538333
+2001,TBD,Tampa Bay Rays,62,100,672,5524,2110370.3703703703,56980000
+2001,TEX,Texas Rangers,73,89,890,5685,2859145.1612903224,88633500
+2001,TOR,Toronto Blue Jays,80,82,767,5663,2746285.6785714286,76895999
+2001,WSN,Washington Nationals,68,94,670,5379,1134177.4193548388,35159500
+2002,ANA,Los Angeles Angels of Anaheim,99,63,851,5678,2204345.25,61721667
+2002,ARI,Arizona Diamondbacks,98,64,819,5508,3115757.5454545454,102819999
+2002,ATL,Atlanta Braves,101,59,708,5495,3316798.8214285714,92870367
+2002,BAL,Baltimore Orioles,67,95,667,5491,1890421.46875,60493487
+2002,BOS,Boston Red Sox,93,69,859,5640,3612202,108366060
+2002,CHC,Chicago Cubs,67,95,706,5496,2703244.035714286,75690833
+2002,CHW,Chicago White Sox,81,81,856,5502,2113067.888888889,57052833
+2002,CIN,Cincinnati Reds,78,84,709,5470,1501679.6666666667,45050390
+2002,CLE,Cleveland Indians,74,88,739,5423,2630314.966666667,78909449
+2002,COL,Colorado Rockies,73,89,778,5512,2105594.185185185,56851043
+2002,DET,Detroit Tigers,55,106,575,5406,1966e3,55048000
+2002,FLA,Florida Marlins,79,83,699,5496,1499282.75,41979917
+2002,HOU,Houston Astros,84,78,749,5503,2349941.3703703703,63448417
+2002,KCR,Kansas City Royals,62,100,737,5535,1629551.7241379311,47257000
+2002,LAD,Los Angeles Dodgers,92,70,713,5554,3648113.576923077,94850953
+2002,MIL,Milwaukee Brewers,56,106,627,5415,1734063.2068965517,50287833
+2002,MIN,Minnesota Twins,94,67,768,5582,1497222.2222222222,40425000
+2002,NYM,New York Mets,75,86,690,5496,3639753.576923077,94633593
+2002,NYY,New York Yankees,103,58,897,5601,4342364.931034483,125928583
+2002,OAK,Oakland Athletics,103,59,800,5558,1481635.8148148148,40004167
+2002,PHI,Philadelphia Phillies,80,81,710,5523,2069821.392857143,57954999
+2002,PIT,Pittsburgh Pirates,72,89,641,5330,1459434.448275862,42323599
+2002,SDP,San Diego Padres,66,96,662,5515,1428448.2758620689,41425000
+2002,SEA,Seattle Mariners,93,69,814,5569,3211306.72,80282668
+2002,SFG,San Francisco Giants,95,66,783,5497,2899993.888888889,78299835
+2002,STL,St. Louis Cardinals,97,65,787,5505,2871572.1153846155,74660875
+2002,TBD,Tampa Bay Rays,55,106,673,5604,1227857.142857143,34380000
+2002,TEX,Texas Rangers,72,90,843,5618,3768790.0714285714,105526122
+2002,TOR,Toronto Blue Jays,78,84,813,5581,2650494.2413793104,76864333
+2002,WSN,Washington Nationals,83,79,735,5479,1381089.2857142857,38670500
+2003,ANA,Los Angeles Angels of Anaheim,77,85,736,5487,2927098.777777778,79031667
+2003,ARI,Arizona Diamondbacks,84,78,717,5570,3226280,80657000
+2003,ATL,Atlanta Braves,101,61,907,5670,3934950.6296296297,106243667
+2003,BAL,Baltimore Orioles,71,91,743,5665,2547500,73877500
+2003,BOS,Boston Red Sox,95,67,961,5769,3701722.222222222,99946500
+2003,CHC,Chicago Cubs,88,74,724,5519,2852440.464285714,79868333
+2003,CHW,Chicago White Sox,86,76,791,5487,1961923.076923077,51010000
+2003,CIN,Cincinnati Reds,69,93,694,5509,2119845.25,59355667
+2003,CLE,Cleveland Indians,68,94,699,5572,1567252.7096774194,48584834
+2003,COL,Colorado Rockies,74,88,853,5518,2239322.2333333334,67179667
+2003,DET,Detroit Tigers,43,119,591,5466,1891076.923076923,49168000
+2003,FLA,Florida Marlins,91,71,751,5490,1648333.3333333333,49450000
+2003,HOU,Houston Astros,87,75,805,5583,2732307.6923076925,71040000
+2003,KCR,Kansas City Royals,83,79,836,5568,1558384.6153846155,40518000
+2003,LAD,Los Angeles Dodgers,85,77,574,5458,4222904.8,105572620
+2003,MIL,Milwaukee Brewers,68,94,714,5548,1400931.0344827587,40627000
+2003,MIN,Minnesota Twins,90,72,801,5655,2134807.6923076925,55505000
+2003,NYM,New York Mets,66,95,642,5341,4174158.1785714286,116876429
+2003,NYY,New York Yankees,101,61,877,5605,5455350.5,152749814
+2003,OAK,Oakland Athletics,96,66,768,5497,1933109,50260834
+2003,PHI,Philadelphia Phillies,86,76,791,5543,2440689.6551724137,70780000
+2003,PIT,Pittsburgh Pirates,75,87,753,5581,1957586.75,54812429
+2003,SDP,San Diego Padres,64,98,678,5531,1507e3,45210000
+2003,SEA,Seattle Mariners,93,69,795,5561,3220709.888888889,86959167
+2003,SFG,San Francisco Giants,100,61,755,5456,3186621.8076923075,82852167
+2003,STL,St. Louis Cardinals,85,77,876,5672,2702795.6774193547,83786666
+2003,TBD,Tampa Bay Rays,63,99,715,5654,785200,19630000
+2003,TEX,Texas Rangers,71,91,826,5664,3449722.2333333334,103491667
+2003,TOR,Toronto Blue Jays,86,76,894,5661,1898851.851851852,51269000
+2003,WSN,Washington Nationals,83,79,711,5437,1998019.2307692308,51948500
+2004,ANA,Los Angeles Angels of Anaheim,92,70,836,5675,3723506.185185185,100534667
+2004,ARI,Arizona Diamondbacks,51,111,615,5544,2406232.7586206896,69780750
+2004,ATL,Atlanta Braves,96,66,803,5570,3220803.5714285714,90182500
+2004,BAL,Baltimore Orioles,78,84,842,5736,1843690.4642857143,51623333
+2004,BOS,Boston Red Sox,98,64,949,5720,4243283.333333333,127298500
+2004,CHC,Chicago Cubs,89,73,789,5628,3122758.620689655,90560000
+2004,CHW,Chicago White Sox,83,79,865,5534,2508173.076923077,65212500
+2004,CIN,Cincinnati Reds,76,86,750,5518,1664830.357142857,46615250
+2004,CLE,Cleveland Indians,80,82,858,5676,1143976.6666666667,34319300
+2004,COL,Colorado Rockies,68,94,833,5577,2337327.3928571427,65445167
+2004,DET,Detroit Tigers,72,90,827,5623,1672571.4285714286,46832000
+2004,FLA,Florida Marlins,83,79,718,5486,1560853.4074074074,42143042
+2004,HOU,Houston Astros,92,70,803,5468,3015880,75397000
+2004,KCR,Kansas City Royals,58,104,720,5538,1586966.6666666667,47609000
+2004,LAD,Los Angeles Dodgers,93,69,761,5542,3440814.8518518517,92902001
+2004,MIL,Milwaukee Brewers,67,94,634,5483,1101140,27528500
+2004,MIN,Minnesota Twins,92,70,780,5623,2060961.5384615385,53585000
+2004,NYM,New York Mets,71,91,684,5532,3452177.5,96660970
+2004,NYY,New York Yankees,101,61,897,5527,6351515.517241379,184193950
+2004,OAK,Oakland Athletics,91,71,793,5728,2122345.25,59425667
+2004,PHI,Philadelphia Phillies,86,76,840,5643,3573814.1153846155,92919167
+2004,PIT,Pittsburgh Pirates,72,89,680,5483,1193627,32227929
+2004,SDP,San Diego Padres,87,75,768,5573,2130185.8846153845,55384833
+2004,SEA,Seattle Mariners,63,99,698,5722,2911279.785714286,81515834
+2004,SFG,San Francisco Giants,91,71,850,5546,2645779.5483870967,82019166
+2004,STL,St. Louis Cardinals,105,57,855,5555,3201089.730769231,83228333
+2004,TBD,Tampa Bay Rays,70,91,714,5483,1094691.3703703703,29556667
+2004,TEX,Texas Rangers,89,73,860,5615,1898290.2413793104,55050417
+2004,TOR,Toronto Blue Jays,67,94,719,5531,1923730.7692307692,50017000
+2004,WSN,Washington Nationals,67,95,635,5474,1410258.6206896552,40897500
+2005,ANA,Los Angeles Angels of Anaheim,95,67,761,5624,3271304.206896552,94867822
+2005,ARI,Arizona Diamondbacks,77,85,696,5550,2308487.6296296297,62329166
+2005,ATL,Atlanta Braves,90,72,769,5486,3458292.08,86457302
+2005,BAL,Baltimore Orioles,74,88,729,5551,2639797.6071428573,73914333
+2005,BOS,Boston Red Sox,95,67,910,5626,4410897.321428572,123505125
+2005,CHC,Chicago Cubs,79,83,703,5584,3108319.035714286,87032933
+2005,CHW,Chicago White Sox,99,63,741,5529,2784370.3703703703,75178000
+2005,CIN,Cincinnati Reds,73,89,820,5565,2063086.1,61892583
+2005,CLE,Cleveland Indians,93,69,790,5609,1431120.6896551724,41502500
+2005,COL,Colorado Rockies,67,95,740,5542,1649620.6896551724,47839000
+2005,DET,Detroit Tigers,71,91,723,5602,2467571.4285714286,69092000
+2005,FLA,Florida Marlins,83,79,717,5502,2237364.222222222,60408834
+2005,HOU,Houston Astros,89,73,693,5462,2953038.4615384615,76779000
+2005,KCR,Kansas City Royals,56,106,701,5503,1365962.962962963,36881000
+2005,LAD,Los Angeles Dodgers,71,91,685,5433,2767966.6666666665,83039000
+2005,MIL,Milwaukee Brewers,81,81,726,5448,1597393.32,39934833
+2005,MIN,Minnesota Twins,83,79,688,5564,2080962.962962963,56186000
+2005,NYM,New York Mets,83,79,722,5505,3752067.4444444445,101305821
+2005,NYY,New York Yankees,95,67,886,5624,8011800.653846154,208306817
+2005,OAK,Oakland Athletics,88,74,772,5627,2131760.076923077,55425762
+2005,PHI,Philadelphia Phillies,88,74,807,5542,3673923.076923077,95522000
+2005,PIT,Pittsburgh Pirates,67,95,680,5573,1361892.857142857,38133000
+2005,SDP,San Diego Padres,82,80,684,5502,2260386.8928571427,63290833
+2005,SEA,Seattle Mariners,69,93,699,5507,2742322.9375,87754334
+2005,SFG,San Francisco Giants,75,87,649,5462,3469211.5384615385,90199500
+2005,STL,St. Louis Cardinals,100,62,805,5538,3542570.5,92106833
+2005,TBD,Tampa Bay Rays,67,95,750,5552,1023416.1034482758,29679067
+2005,TEX,Texas Rangers,79,83,865,5716,1801580.6451612904,55849000
+2005,TOR,Toronto Blue Jays,80,82,775,5581,1758442.3076923077,45719500
+2005,WSN,Washington Nationals,81,81,639,5426,1619383.3333333333,48581500
+2006,ANA,Los Angeles Angels of Anaheim,89,73,766,5609,4138880,103472000
+2006,ARI,Arizona Diamondbacks,76,86,773,5645,2295547.153846154,59684226
+2006,ATL,Atlanta Braves,79,83,849,5583,3108857.793103448,90156876
+2006,BAL,Baltimore Orioles,70,92,768,5610,2592342.214285714,72585582
+2006,BOS,Boston Red Sox,86,76,820,5619,4448141.62962963,120099824
+2006,CHC,Chicago Cubs,66,96,716,5587,3372303.535714286,94424499
+2006,CHW,Chicago White Sox,90,72,868,5657,3951948.730769231,102750667
+2006,CIN,Cincinnati Reds,80,82,749,5515,2175339.964285714,60909519
+2006,CLE,Cleveland Indians,78,84,870,5619,2241260,56031500
+2006,COL,Colorado Rockies,76,86,813,5562,1288531.25,41233000
+2006,DET,Detroit Tigers,95,67,822,5642,2950459.5,82612866
+2006,FLA,Florida Marlins,78,84,758,5502,586860,14671500
+2006,HOU,Houston Astros,82,80,735,5521,3547777.4,88694435
+2006,KCR,Kansas City Royals,62,100,757,5589,1630827.5862068965,47294000
+2006,LAD,Los Angeles Dodgers,88,74,820,5628,3515970.964285714,98447187
+2006,MIL,Milwaukee Brewers,75,87,730,5433,2214166.653846154,57568333
+2006,MIN,Minnesota Twins,96,66,801,5602,2438307.923076923,63396006
+2006,NYM,New York Mets,97,65,834,5558,3743887.5185185187,101084963
+2006,NYY,New York Yankees,97,65,930,5651,6952252.821428572,194663079
+2006,OAK,Oakland Athletics,93,69,771,5500,2489723.16,62243079
+2006,PHI,Philadelphia Phillies,85,77,865,5687,3269382.703703704,88273333
+2006,PIT,Pittsburgh Pirates,67,95,691,5558,1668491.0714285714,46717750
+2006,SDP,San Diego Padres,88,74,731,5576,2496290.75,69896141
+2006,SEA,Seattle Mariners,78,84,756,5670,3257771.592592593,87959833
+2006,SFG,San Francisco Giants,76,85,746,5472,3463708.423076923,90056419
+2006,STL,St. Louis Cardinals,83,78,781,5522,3292273,88891371
+2006,TBD,Tampa Bay Rays,61,101,689,5474,1293258.037037037,34917967
+2006,TEX,Texas Rangers,80,82,835,5659,2200924.580645161,68228662
+2006,TOR,Toronto Blue Jays,87,75,809,5596,2744807.6923076925,71365000
+2006,WSN,Washington Nationals,71,91,746,5495,2036870.9677419355,63143000
+2007,ANA,Los Angeles Angels of Anaheim,94,68,822,5554,3641711.1,109251333
+2007,ARI,Arizona Diamondbacks,90,72,712,5398,1859555.2142857143,52067546
+2007,ATL,Atlanta Braves,84,78,810,5689,3117529.75,87290833
+2007,BAL,Baltimore Orioles,69,93,756,5631,3450918.814814815,93174808
+2007,BOS,Boston Red Sox,96,66,867,5589,5108079.071428572,143026214
+2007,CHC,Chicago Cubs,85,77,752,5643,3691493.777777778,99670332
+2007,CHW,Chicago White Sox,72,90,693,5441,4179685.8846153845,108671833
+2007,CIN,Cincinnati Reds,72,90,783,5607,2210483.2258064514,68524980
+2007,CLE,Cleveland Indians,96,66,811,5604,2126664.379310345,61673267
+2007,COL,Colorado Rockies,90,73,860,5691,2078500,54041000
+2007,DET,Detroit Tigers,88,74,887,5757,3268978.2413793104,94800369
+2007,FLA,Florida Marlins,71,91,790,5627,984096.7741935484,30507000
+2007,HOU,Houston Astros,73,89,723,5605,3250333.3333333335,87759000
+2007,KCR,Kansas City Royals,69,93,706,5534,2165048.3870967743,67116500
+2007,LAD,Los Angeles Dodgers,82,80,735,5614,3739811.172413793,108454524
+2007,MIL,Milwaukee Brewers,83,79,801,5554,2629129.6296296297,70986500
+2007,MIN,Minnesota Twins,79,83,718,5522,2551410.714285714,71439500
+2007,NYM,New York Mets,88,74,804,5605,3841055.433333333,115231663
+2007,NYY,New York Yankees,94,68,968,5717,6759251.607142857,189259045
+2007,OAK,Oakland Athletics,76,86,741,5577,2834533.5714285714,79366940
+2007,PHI,Philadelphia Phillies,89,73,892,5688,2980940.433333333,89428213
+2007,PIT,Pittsburgh Pirates,68,94,724,5569,1427327.148148148,38537833
+2007,SDP,San Diego Padres,89,74,741,5612,2235021.8076923075,58110567
+2007,SEA,Seattle Mariners,88,74,794,5684,3942993.814814815,106460833
+2007,SFG,San Francisco Giants,71,91,683,5538,3469963.6923076925,90219056
+2007,STL,St. Louis Cardinals,78,84,725,5529,3224529.3928571427,90286823
+2007,TBD,Tampa Bay Rays,66,96,782,5593,893462.9629629629,24123500
+2007,TEX,Texas Rangers,75,87,816,5555,2439952.6785714286,68318675
+2007,TOR,Toronto Blue Jays,83,79,753,5536,3034918.5185185187,81942800
+2007,WSN,Washington Nationals,73,89,673,5520,1319553.5714285714,36947500
+2008,ANA,Los Angeles Angels of Anaheim,100,62,765,5540,4110908.0344827585,119216333
+2008,ARI,Arizona Diamondbacks,82,80,720,5409,2364382.5714285714,66202712
+2008,ATL,Atlanta Braves,72,90,753,5604,3412189.433333333,102365683
+2008,BAL,Baltimore Orioles,68,93,782,5559,2099882.6875,67196246
+2008,BOS,Boston Red Sox,95,67,845,5596,4763929.821428572,133390035
+2008,CHC,Chicago Cubs,97,64,855,5588,4383179,118345833
+2008,CHW,Chicago White Sox,89,74,811,5553,4488493.777777778,121189332
+2008,CIN,Cincinnati Reds,74,88,704,5465,2647060.535714286,74117695
+2008,CLE,Cleveland Indians,81,81,805,5543,3037310.230769231,78970066
+2008,COL,Colorado Rockies,74,88,747,5557,2640596.153846154,68655500
+2008,DET,Detroit Tigers,74,88,821,5641,4589506.533333333,137685196
+2008,FLA,Florida Marlins,84,77,770,5499,660954.5454545454,21811500
+2008,HOU,Houston Astros,86,75,712,5451,3293719.037037037,88930414
+2008,KCR,Kansas City Royals,75,87,691,5608,2240211.5384615385,58245500
+2008,LAD,Los Angeles Dodgers,84,78,700,5506,4089259.8620689656,118588536
+2008,MIL,Milwaukee Brewers,90,72,750,5535,2790948.2413793104,80937499
+2008,MIN,Minnesota Twins,88,75,829,5641,2277310.64,56932766
+2008,NYM,New York Mets,89,73,799,5606,4593112.533333333,137793376
+2008,NYY,New York Yankees,89,73,789,5572,6929892.966666667,207896789
+2008,OAK,Oakland Athletics,75,86,646,5451,1713111.642857143,47967126
+2008,PHI,Philadelphia Phillies,92,70,799,5509,3495710,97879880
+2008,PIT,Pittsburgh Pirates,67,95,735,5628,1872683.9615384615,48689783
+2008,SDP,San Diego Padres,63,99,637,5568,2376697.290322581,73677616
+2008,SEA,Seattle Mariners,61,101,671,5643,4525633.923076923,117666482
+2008,SFG,San Francisco Giants,72,90,640,5543,2641189.6551724137,76594500
+2008,STL,St. Louis Cardinals,86,76,779,5636,3018922.696969697,99624449
+2008,TBD,Tampa Bay Rays,97,65,774,5541,1460686.5666666667,43820597
+2008,TEX,Texas Rangers,79,83,901,5728,2334907.793103448,67712326
+2008,TOR,Toronto Blue Jays,86,76,714,5503,3621996.296296296,97793900
+2008,WSN,Washington Nationals,59,102,641,5491,1895206.896551724,54961000
+2009,ANA,Los Angeles Angels of Anaheim,97,65,883,5622,4061035.714285714,113709000
+2009,ARI,Arizona Diamondbacks,70,92,720,5565,2812141,73115666
+2009,ATL,Atlanta Braves,86,76,735,5539,3335385.0344827585,96726166
+2009,BAL,Baltimore Orioles,64,98,741,5618,2580833.3076923075,67101666
+2009,BOS,Boston Red Sox,95,67,872,5543,4184344.793103448,121345999
+2009,CHC,Chicago Cubs,83,78,707,5486,5392360,134809000
+2009,CHW,Chicago White Sox,79,83,724,5463,3694942.3076923075,96068500
+2009,CIN,Cincinnati Reds,78,84,673,5462,3198195.652173913,73558500
+2009,CLE,Cleveland Indians,65,97,773,5568,3021450.592592593,81579166
+2009,COL,Colorado Rockies,92,70,804,5398,2785222.222222222,75201000
+2009,DET,Detroit Tigers,86,77,743,5540,4110183.75,115085145
+2009,FLA,Florida Marlins,87,75,772,5572,1315500,36834000
+2009,HOU,Houston Astros,74,88,643,5436,3814682,102996414
+2009,KCR,Kansas City Royals,65,97,686,5532,2712282.0384615385,70519333
+2009,LAD,Los Angeles Dodgers,95,67,780,5592,4016583.68,100414592
+2009,MIL,Milwaukee Brewers,80,82,785,5510,3083942.3846153845,80182502
+2009,MIN,Minnesota Twins,87,76,817,5608,2251698.827586207,65299266
+2009,NYM,New York Mets,70,92,671,5453,5334785.25,149373987
+2009,NYY,New York Yankees,103,59,915,5660,7748045.730769231,201449189
+2009,OAK,Oakland Athletics,75,87,759,5584,2292962.962962963,61910000
+2009,PHI,Philadelphia Phillies,93,69,820,5578,4185335.037037037,113004046
+2009,PIT,Pittsburgh Pirates,62,99,636,5417,1872807.6923076923,48693000
+2009,SDP,San Diego Padres,75,87,638,5425,1604951.851851852,43333700
+2009,SEA,Seattle Mariners,85,77,640,5543,3532291.6428571427,98904166
+2009,SFG,San Francisco Giants,88,74,657,5493,2965230.3571428573,83026450
+2009,STL,St. Louis Cardinals,91,71,730,5465,3278829.962962963,88528409
+2009,TBD,Tampa Bay Rays,84,78,803,5462,2183208.0689655175,63313034
+2009,TEX,Texas Rangers,87,75,784,5526,2350993.0344827585,68178798
+2009,TOR,Toronto Blue Jays,75,87,798,5696,2876367.8571428573,80538300
+2009,WSN,Washington Nationals,59,103,710,5493,2140285.714285714,59928000
+2010,ANA,Los Angeles Angels of Anaheim,80,82,681,5488,3619443.6551724137,104963866
+2010,ARI,Arizona Diamondbacks,65,97,713,5473,2335314.076923077,60718166
+2010,ATL,Atlanta Braves,91,71,738,5463,3126802.4444444445,84423666
+2010,BAL,Baltimore Orioles,66,96,613,5554,3138942.3076923075,81612500
+2010,BOS,Boston Red Sox,89,73,818,5646,5601632.172413793,162447333
+2010,CHC,Chicago Cubs,75,87,685,5512,5429962.962962963,146609000
+2010,CHW,Chicago White Sox,88,74,752,5484,4058846.153846154,105530000
+2010,CIN,Cincinnati Reds,91,71,790,5579,2760059.3076923075,71761542
+2010,CLE,Cleveland Indians,69,93,646,5487,2110481.5862068967,61203966
+2010,COL,Colorado Rockies,83,79,770,5530,2904379.3103448274,84227000
+2010,DET,Detroit Tigers,81,81,751,5643,4550552.888888889,122864928
+2010,FLA,Florida Marlins,80,82,719,5531,2112211.814814815,57029719
+2010,HOU,Houston Astros,76,86,611,5452,3298410.714285714,92355500
+2010,KCR,Kansas City Royals,67,95,676,5604,2644637.407407407,71405210
+2010,LAD,Los Angeles Dodgers,80,82,667,5426,3531778.3703703703,95358016
+2010,MIL,Milwaukee Brewers,77,85,750,5606,2796837.172413793,81108278
+2010,MIN,Minnesota Twins,94,68,781,5568,3484255.9285714286,97559166
+2010,NYM,New York Mets,79,83,656,5465,4800819.357142857,134422942
+2010,NYY,New York Yankees,95,67,859,5567,8253335.56,206333389
+2010,OAK,Oakland Athletics,81,81,663,5448,1726715.625,55254900
+2010,PHI,Philadelphia Phillies,97,65,772,5581,5068870.678571428,141928379
+2010,PIT,Pittsburgh Pirates,57,105,587,5386,1294185.1851851852,34943000
+2010,SDP,San Diego Padres,90,72,665,5434,1453819.2307692308,37799300
+2010,SEA,Seattle Mariners,61,101,513,5409,3089642.8571428573,86510000
+2010,SFG,San Francisco Giants,92,70,697,5488,3522904.75,98641333
+2010,STL,St. Louis Cardinals,86,76,736,5542,3741630.04,93540751
+2010,TBD,Tampa Bay Rays,96,66,802,5439,2663832.2592592593,71923471
+2010,TEX,Texas Rangers,90,72,787,5635,1905191.1724137932,55250544
+2010,TOR,Toronto Blue Jays,85,77,755,5495,2074466.6666666667,62234000
+2010,WSN,Washington Nationals,69,93,655,5418,2046666.6666666667,61400000
+2011,ANA,Los Angeles Angels of Anaheim,86,76,667,5513,4469134.387096774,138543166
+2011,ARI,Arizona Diamondbacks,94,68,731,5421,1986660.4814814816,53639833
+2011,ATL,Atlanta Braves,89,73,641,5528,3346257.3846153845,87002692
+2011,BAL,Baltimore Orioles,69,93,708,5585,3280924.5384615385,85304038
+2011,BOS,Boston Red Sox,90,72,875,5710,5991202.777777778,161762475
+2011,CHC,Chicago Cubs,71,91,654,5549,5001893.16,125047329
+2011,CHW,Chicago White Sox,79,83,654,5502,4732925.925925926,127789000
+2011,CIN,Cincinnati Reds,79,83,735,5612,2531571.1333333333,75947134
+2011,CLE,Cleveland Indians,80,82,704,5509,1681950.551724138,48776566
+2011,COL,Colorado Rockies,73,89,735,5544,3390310.423076923,88148071
+2011,DET,Detroit Tigers,95,67,787,5563,3914823.3703703703,105700231
+2011,FLA,Florida Marlins,72,90,625,5508,2190153.846153846,56944000
+2011,HOU,Houston Astros,56,106,615,5598,2437724.1379310344,70694000
+2011,KCR,Kansas City Royals,71,91,730,5672,1373538.4615384615,35712000
+2011,LAD,Los Angeles Dodgers,82,79,644,5436,3472966.6333333333,104188999
+2011,MIL,Milwaukee Brewers,96,66,721,5447,2849911.1,85497333
+2011,MIN,Minnesota Twins,63,99,619,5487,4509480,112737000
+2011,NYM,New York Mets,77,85,718,5600,4401752.185185186,118847309
+2011,NYY,New York Yankees,97,65,867,5518,6975000.9655172415,202275028
+2011,OAK,Oakland Athletics,74,88,645,5452,2376303.5714285714,66536500
+2011,PHI,Philadelphia Phillies,102,60,713,5579,5765879.3,172976379
+2011,PIT,Pittsburgh Pirates,72,90,610,5421,1553344.8275862068,45047000
+2011,SDP,San Diego Padres,71,91,593,5417,1479649.677419355,45869140
+2011,SEA,Seattle Mariners,67,95,556,5421,2969331.0344827585,86110600
+2011,SFG,San Francisco Giants,86,76,570,5486,4377716.037037037,118198333
+2011,STL,St. Louis Cardinals,90,72,762,5532,3904947.111111111,105433572
+2011,TBD,Tampa Bay Rays,91,71,707,5436,1578983.5,41053571
+2011,TEX,Texas Rangers,96,66,855,5659,3182733.2413793104,92299264
+2011,TOR,Toronto Blue Jays,81,81,743,5559,2018316.1290322582,62567800
+2011,WSN,Washington Nationals,80,81,624,5441,2201963.0344827585,63856928
+2012,ANA,Los Angeles Angels of Anaheim,89,73,767,5536,5327074.689655173,154485166
+2012,ARI,Arizona Diamondbacks,81,81,734,5462,2733512.3333333335,73804833
+2012,ATL,Atlanta Braves,94,68,700,5425,2856204.896551724,82829942
+2012,BAL,Baltimore Orioles,93,69,712,5560,2762642.8214285714,77353999
+2012,BOS,Boston Red Sox,69,93,734,5604,5093724.029411765,173186617
+2012,CHC,Chicago Cubs,61,101,613,5411,3392193.576923077,88197033
+2012,CHW,Chicago White Sox,85,77,748,5518,3876780,96919500
+2012,CIN,Cincinnati Reds,97,65,669,5477,2935843.4285714286,82203616
+2012,CLE,Cleveland Indians,68,94,667,5525,2704493.103448276,78430300
+2012,COL,Colorado Rockies,64,98,758,5577,2692054.172413793,78069571
+2012,DET,Detroit Tigers,88,74,726,5476,4562068.9655172415,132300000
+2012,FLA,Florida Marlins,69,93,609,5437,4373259.259259259,118078000
+2012,HOU,Houston Astros,55,107,583,5407,2332730.769230769,60651000
+2012,KCR,Kansas City Royals,72,90,676,5636,2030540.8333333333,60916225
+2012,LAD,Los Angeles Dodgers,86,76,637,5438,3171452.5,95143575
+2012,MIL,Milwaukee Brewers,83,79,776,5557,3755920.923076923,97653944
+2012,MIN,Minnesota Twins,66,96,701,5562,3484629.6296296297,94085000
+2012,NYM,New York Mets,74,88,650,5450,3457554.925925926,93353983
+2012,NYY,New York Yankees,95,67,804,5524,6776630.655172414,196522289
+2012,OAK,Oakland Athletics,94,68,713,5527,1845750,55372500
+2012,PHI,Philadelphia Phillies,81,81,684,5544,5817964.6,174538938
+2012,PIT,Pittsburgh Pirates,79,83,651,5412,2248285.6785714286,62951999
+2012,SDP,San Diego Padres,76,86,651,5422,1973025,55244700
+2012,SEA,Seattle Mariners,75,87,619,5494,2927789.285714286,81978100
+2012,SFG,San Francisco Giants,94,68,718,5558,3920689.433333333,117620683
+2012,STL,St. Louis Cardinals,88,74,765,5622,3939316.5,110300862
+2012,TBD,Tampa Bay Rays,90,72,697,5398,2291910.714285714,64173500
+2012,TEX,Texas Rangers,93,69,808,5590,4635037.461538462,120510974
+2012,TOR,Toronto Blue Jays,73,89,716,5487,2778118.5185185187,75009200
+2012,WSN,Washington Nationals,98,64,731,5615,2695171.433333333,80855143
+2013,ANA,Los Angeles Angels of Anaheim,78,84,733,5588,4775951.923076923,124174750
+2013,ARI,Arizona Diamondbacks,81,81,685,5676,3004400,90132000
+2013,ATL,Atlanta Braves,96,66,688,5441,3254500.925925926,87871525
+2013,BAL,Baltimore Orioles,85,77,745,5620,3245897.423076923,84393333
+2013,BOS,Boston Red Sox,97,65,853,5651,5225172.413793104,151530000
+2013,CHC,Chicago Cubs,66,96,602,5498,3867989.4615384615,100567726
+2013,CHW,Chicago White Sox,63,99,598,5563,4288045.607142857,120065277
+2013,CIN,Cincinnati Reds,90,72,698,5499,4256178.48,106404462
+2013,CLE,Cleveland Indians,92,70,745,5465,2706135.714285714,75771800
+2013,COL,Colorado Rockies,74,88,706,5599,2976362.84,74409071
+2013,DET,Detroit Tigers,93,69,796,5735,6082895.833333333,145989500
+2013,FLA,Florida Marlins,62,100,513,5449,1400079.1666666667,33601900
+2013,HOU,Houston Astros,51,111,610,5457,813213.6363636364,17890700
+2013,KCR,Kansas City Royals,86,76,648,5549,2966360.185185185,80091725
+2013,LAD,Los Angeles Dodgers,92,70,649,5491,6980068.625,223362196
+2013,MIL,Milwaukee Brewers,74,88,640,5474,3077881.32,76947033
+2013,MIN,Minnesota Twins,66,96,614,5564,2790277.777777778,75337500
+2013,NYM,New York Mets,74,88,619,5559,1648278.2,49448346
+2013,NYY,New York Yankees,85,77,650,5449,7483189.870967742,231978886
+2013,OAK,Oakland Athletics,96,66,767,5521,1939758.064516129,60132500
+2013,PHI,Philadelphia Phillies,73,89,610,5456,6533199.576923077,169863189
+2013,PIT,Pittsburgh Pirates,94,68,634,5486,2752214.285714286,77062000
+2013,SDP,San Diego Padres,76,86,618,5517,2342339.285714286,65585500
+2013,SEA,Seattle Mariners,71,91,624,5558,2846347.8076923075,74005043
+2013,SFG,San Francisco Giants,76,86,629,5552,5006440.5,140180334
+2013,STL,St. Louis Cardinals,97,65,783,5557,3295003.9285714286,92260110
+2013,TBD,Tampa Bay Rays,92,71,700,5538,2302403.1304347827,52955272
+2013,TEX,Texas Rangers,91,72,730,5585,3880089.6551724137,112522600
+2013,TOR,Toronto Blue Jays,74,88,712,5537,4073809.6774193547,126288100
+2013,WSN,Washington Nationals,86,76,656,5436,4548130.8,113703270
+2014,ANA,Los Angeles Angels of Anaheim,98,64,773,5652,4518083.333333333,121988250
+2014,ARI,Arizona Diamondbacks,64,98,615,5552,3763903.846153846,97861500
+2014,ATL,Atlanta Braves,79,83,573,5468,4067041.6666666665,97609000
+2014,BAL,Baltimore Orioles,96,66,705,5596,3693428.5714285714,103416000
+2014,BOS,Boston Red Sox,71,91,634,5551,4484513.838709678,139019929
+2014,CHC,Chicago Cubs,73,89,614,5508,2426759.2592592593,65522500
+2014,CHW,Chicago White Sox,73,89,660,5543,3409604.1666666665,81830500
+2014,CIN,Cincinnati Reds,76,86,595,5395,3864910.714285714,108217500
+2014,CLE,Cleveland Indians,85,77,669,5575,3159688.423076923,82151899
+2014,COL,Colorado Rockies,66,96,755,5612,3180116.6666666665,95403500
+2014,DET,Detroit Tigers,90,72,757,5630,6645891.304347826,152855500
+2014,FLA,Florida Marlins,77,85,645,5538,1549514.8148148148,41836900
+2014,HOU,Houston Astros,70,92,629,5447,1755815,35116300
+2014,KCR,Kansas City Royals,89,73,651,5545,2983763,74594075
+2014,LAD,Los Angeles Dodgers,94,68,718,5560,6781706.25,217014600
+2014,MIL,Milwaukee Brewers,82,80,650,5462,3748777.777777778,101217000
+2014,MIN,Minnesota Twins,70,92,715,5567,3102314.814814815,83762500
+2014,NYM,New York Mets,79,83,629,5472,3168777.407407407,85556990
+2014,NYY,New York Yankees,84,78,633,5497,8230996.125,197543907
+2014,OAK,Oakland Athletics,88,74,729,5545,2784938.4615384615,72408400
+2014,PHI,Philadelphia Phillies,73,89,619,5603,5654530.21875,180944967
+2014,PIT,Pittsburgh Pirates,88,74,682,5536,2756357.1428571427,77178000
+2014,SDP,San Diego Padres,77,85,535,5294,2703060.714285714,75685700
+2014,SEA,Seattle Mariners,87,75,634,5450,3701244,92531100
+2014,SFG,San Francisco Giants,88,74,665,5523,5839648.821428572,163510167
+2014,STL,St. Louis Cardinals,90,72,619,5426,4310464.285714285,120693000
+2014,TBD,Tampa Bay Rays,77,85,612,5516,2907564,72689100
+2014,TEX,Texas Rangers,67,95,637,5460,4677294.125,112255059
+2014,TOR,Toronto Blue Jays,83,79,723,5549,4396804,109920100
+2014,WSN,Washington Nationals,96,66,686,5542,4399456,131983680
+2015,ANA,Los Angeles Angels of Anaheim,85,77,661,5417,4444645,120005415
+2015,ARI,Arizona Diamondbacks,79,83,720,5649,2132206.896551724,61834000
+2015,ATL,Atlanta Braves,67,95,573,5420,2990885.4166666665,71781250
+2015,BAL,Baltimore Orioles,81,81,713,5485,4108744.035714286,115044833
+2015,BOS,Boston Red Sox,78,84,748,5640,5659481.25,181103400
+2015,CHC,Chicago Cubs,97,65,689,5491,4138546.785714286,115879310
+2015,CHW,Chicago White Sox,76,86,622,5533,4161988.888888889,112373700
+2015,CIN,Cincinnati Reds,64,98,640,5571,4187862.4444444445,113072286
+2015,CLE,Cleveland Indians,81,80,669,5439,3022888.4827586208,87663766
+2015,COL,Colorado Rockies,68,94,737,5572,3827544,95688600
+2015,DET,Detroit Tigers,74,87,689,5605,6891390,172284750
+2015,FLA,Florida Marlins,71,91,613,5463,2835687.5,68056500
+2015,HOU,Houston Astros,86,76,729,5459,2580578.5714285714,72256200
+2015,KCR,Kansas City Royals,95,67,724,5575,4152112.037037037,112107025
+2015,LAD,Los Angeles Dodgers,92,70,667,5385,7441103.448275862,215792000
+2015,MIL,Milwaukee Brewers,68,94,655,5480,3477586.206896552,100850000
+2015,MIN,Minnesota Twins,83,79,696,5467,4310200,107755000
+2015,NYM,New York Mets,90,72,683,5527,3870667.32,96766683
+2015,NYY,New York Yankees,87,75,764,5567,7336274.379310345,212751957
+2015,OAK,Oakland Athletics,68,94,694,5600,2823339.3214285714,79053501
+2015,PHI,Philadelphia Phillies,63,99,626,5529,4295884.615384615,111693000
+2015,PIT,Pittsburgh Pirates,98,64,697,5631,3065258.5862068967,88892499
+2015,SDP,San Diego Padres,74,88,650,5457,4555434.615384615,118441300
+2015,SEA,Seattle Mariners,76,86,656,5544,4888348,122208700
+2015,SFG,San Francisco Giants,84,78,696,5565,6100055.555555556,164701500
+2015,STL,St. Louis Cardinals,100,62,647,5484,4586211.538461538,119241500
+2015,TBD,Tampa Bay Rays,80,82,644,5485,2224870.103448276,64521233
+2015,TEX,Texas Rangers,88,74,751,5511,4791426.3,143742789
+2015,TOR,Toronto Blue Jays,93,69,891,5509,4519696,112992400
+2015,WSN,Washington Nationals,83,79,703,5428,5365085.24137931,155587472
+2016,ANA,Los Angeles Angels of Anaheim,74,88,717,5431,5278897.423076923,137251333
+2016,ARI,Arizona Diamondbacks,69,93,752,5665,3363040.8846153845,87439063
+2016,ATL,Atlanta Braves,68,93,649,5514,2362010.0344827585,68498291
+2016,BAL,Baltimore Orioles,89,73,744,5524,5581498.482758621,161863456
+2016,BOS,Boston Red Sox,93,69,878,5670,6501577.9655172415,188545761
+2016,CHC,Chicago Cubs,103,58,808,5503,NA,NA
+2016,CHW,Chicago White Sox,78,84,686,5550,NA,NA
+2016,CIN,Cincinnati Reds,68,94,716,5487,3066898.5862068967,88940059
+2016,CLE,Cleveland Indians,94,67,777,5484,2752292.592592593,74311900
+2016,COL,Colorado Rockies,75,87,845,5614,3413487,112645071
+2016,DET,Detroit Tigers,86,75,750,5526,6286338.096774193,194876481
+2016,FLA,Florida Marlins,79,82,655,5547,2761221.5,77314202
+2016,HOU,Houston Astros,84,78,724,5545,3389060.714285714,94893700
+2016,KCR,Kansas City Royals,81,81,675,5552,NA,NA
+2016,LAD,Los Angeles Dodgers,91,71,725,5518,NA,NA
+2016,MIL,Milwaukee Brewers,73,89,671,5330,2292507.9,68775237
+2016,MIN,Minnesota Twins,59,103,722,5618,4274300,102583200
+2016,NYM,New York Mets,87,75,671,5459,NA,NA
+2016,NYY,New York Yankees,84,78,680,5458,NA,NA
+2016,OAK,Oakland Athletics,69,93,653,5500,2893541.1333333333,86806234
+2016,PHI,Philadelphia Phillies,71,91,610,5434,2033793.103448276,58980000
+2016,PIT,Pittsburgh Pirates,78,83,729,5542,3706386.8928571427,103778833
+2016,SDP,San Diego Padres,68,94,686,5419,NA,NA
+2016,SEA,Seattle Mariners,86,76,768,5583,4845833.535714285,135683339
+2016,SFG,San Francisco Giants,87,75,715,5565,NA,NA
+2016,STL,St. Louis Cardinals,86,76,779,5548,NA,NA
+2016,TBD,Tampa Bay Rays,68,94,672,5481,NA,NA
+2016,TEX,Texas Rangers,95,67,765,5525,6070300.793103448,176038723
+2016,TOR,Toronto Blue Jays,89,73,759,5479,4782817.24137931,138701700
+2016,WSN,Washington Nationals,95,67,763,5490,NA,NA
